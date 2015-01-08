@@ -5,7 +5,7 @@ subtitle: The ArtBizLaw Course
 file: readme.md
 ---
 
-# Lawyers For The Talent
+# Law & Business For Artists
 
 ###### By Richard Dooling
 
