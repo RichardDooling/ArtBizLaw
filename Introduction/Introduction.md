@@ -1,12 +1,12 @@
 ---
 author: Richard Dooling
-title: Entertainment Law
-subtitle: Lawyers For The Talent
+title: Law & Business For Artists 
+subtitle: ArtBizLaw
 chapter: Introduction
-date: 01-Sep-2014 
+date: 08-Jan-2015
 ---
 
-# Lawyers For The Talent
+# Law & Business For Artists
 
 ###### by Richard Dooling
 
@@ -18,7 +18,9 @@ date: 01-Sep-2014
 
 ## What is Entertainment Law?
 
-Entertainment law is law applied to the entertainment industry. But why does the entertainment industry get it's own law school course? Paul Weiler, author of the leading textbook, put it this way: 
+Entertainment law is law applied to the entertainment industry. 
+But why does the entertainment industry get it's own body of laws? It doesn't. 
+Paul Weiler, author of the leading Enertainment Law textbook, put it this way: 
 
 > Entertainment is a human activity and economic venture. Its internal relationships and products are, of course, shaped by contract, as well as constitutional, copyright, labor, antitrust, and trade law. Yet every one of those branches of the law applies as well to other industries, such as auto manufacturing. Professors do not, however, teach and write books about "automobile law." 
 
@@ -26,22 +28,28 @@ Entertainment law is law applied to the entertainment industry. But why does the
 
 Maybe Hollywood lawsuits are just more fun to read about than automotive law, but Weiler's text begins with a Prologue entitled "Speech For Fun And Profit," which canvasses some of the reasons the entertainment industry gets its own law school course. 
 
-First, entertainment (movies, television, music, publishing) are all SPEECH. The First Amendment to the U.S. Constitution provides that: "Congress shall make no law . . . abridging the freedom of speech." But what if my movie features child pornography, or my rap song arguably inspires others to attack police officers, or my book spills state secrets protected by the Espionage Act? First Amendment questions never seem to go away in the entertainment and publishing industries, because an artist's first amendment right to tell a story or write a song often collides with somebody else's right to privacy, trademark, copyright, or contract rights.  
+First, entertainment (movies, television, music, publishing) are all SPEECH. 
+The First Amendment to the U.S. Constitution provides that: 
+"Congress shall make no law . . . abridging the freedom of speech." 
+But what if my movie features child pornography, or my rap song arguably inspires others to attack police officers, or my book spills state secrets protected by the Espionage Act? First Amendment questions never seem to go away in the entertainment and publishing industries, because an artist's first amendment right to tell a story or write a song often collides with somebody else's right to privacy, trademark, copyright, or contract rights.  
 
-Second, the modern entertainment industry runs on TECHNOLOGY and INTELLECTUAL PROPERTY, meaning the speech at issue is easier to create and disseminate (a good thing), but also easier to COPY and pirate (a bad thing). Again, more copyright, trademark, licensing and contract issues.
+Second, the modern entertainment industry runs on TECHNOLOGY and INTELLECTUAL PROPERTY, 
+meaning the speech at issue is easier to create, copy, and distribute (a good thing), 
+but also easier to COPY and pirate (a bad thing). 
+Again, more copyright, trademark, licensing and contract issues.
 
-The entertainment industry also thrives on COLLABORATION. Many different companies and artists come together, make oral or written agreements to create and distribute works of art, and then disperse, often leaving questions about who is owed what for personal services and who owns what rights in the final product. Oral contracts, handshake deals, and "napkin agreements" are quite common, even though there may be tens of millions of dollars at stake.
+The entertainment industry also thrives on COLLABORATION. 
+Many different companies and artists come together, 
+make oral or written agreements to create and distribute works of art, 
+and then disperse, often leaving questions 
+about who is owed what for personal services 
+and who owns what rights in the final product. 
+Oral contracts, handshake deals, and "napkin agreements" are quite common, 
+even though there may be tens of millions of dollars at stake.
 
 Finally, the economics and indeed the international economics of the industry quickly lead to complicated deals where everybody at the table has specialized legal needs. A lawyerless artist dealing with sharkish producers and media companies will quickly learn the old adage about the [patsy at the poker table][patsy] the hard way: "If after ten minutes at the poker table you do not know who the patsy is--you are the patsy." 
 
 * [Study: Global Media Industry Poised to Top $2 Trillion in 2016](http://www.hollywoodreporter.com/news/study-global-media-industry-poised-562694) describing the most recent [PriceWaterhouseCooper’s 2013 Entertainment Report](http://www.hollywoodreporter.com/sites/default/files/custom/Documents/PWC_chart_rev21012x5711px.pdf). 
-
-Some bad reasons for becoming an entertainment lawyer are because you want to hang out with celebrities. Sure entertainment lawyers typically love the arts and admire their clients, but at bottom they WORK long and hard for their clients, and the limelight is just a distraction.
-
-> Just like Frances Gumm became Judy Garland, and Thomas Mapother III became Tom Cruise, "entertainment law" is actually a more glamorized, fabricated name for contract law, copyright law, intellectual property law, licensing law, litigation, and working really hard just like every other lawyer out there . . . . Entertainment lawyers are merely copyright, contract, or IP lawyers who have clients in the entertainment business, just like sports lawyers have clients in the sports business.
-
-* Erica Winter, [Entertainment Law - Glamor By Association?](http://www.lawcrossing.com/article/379/Entertainment-Law-Glamor-By-Association/#) 
-* Diane Dannenfeldt, [How Entertainment Lawyers Work](http://entertainment.howstuffworks.com/entertainment-lawyer.htm)
 
 ### Entertainment Categories
 
@@ -59,7 +67,10 @@ Wikipedia breaks the industry down into the following categories, most of which 
 
 > [Wikipedia: Entertainment Law Categories](http://en.wikipedia.org/wiki/Entertainment_law#Categories).
 
-No way can we cover all industries, but I have worked in several of them, and they tend to have common denominators of intellectual property, representation, contracts, taxes, satisfactory work product, guilds and unions, and more.
+No way can we cover all industries, 
+but I have worked in several of them, 
+and they tend to have common denominators 
+of intellectual property, representation, contracts, taxes, satisfactory work product, guilds and unions, and more.
 
 ## The Talent 
 
@@ -112,7 +123,6 @@ With all of their representatives taking percentages of their earnings off the t
 
 Lawyers play big roles in the entertainment industry because, like agents and managers, they are paid on commission, are part of the team responsible for getting entertainment products made, and are key to protecting rights and getting people paid. What do entertainment lawyers do? No easy answer will suffice, only a bland one, namely, they provide legal services to those who work in the entertainment industry.  
 
-
 A lawyer drafting or editing a contract for a poet whose works will soon appear in a free literary rag or on a poetry website and the lawyers responsible for drafting [Beyonce's $50 million deal][beyonce50] with Pepsi are all working in the entertainment industry, because after all: What is entertainment? 
 
 Entertainment lawyers often help clients "do deals" for professional artistic services or for "rights" (intellectual property). Lawyers may work with talent agents or managers from the beginning to help negotiate terms, or they may be called in only after to "paper" an agreement that is already memorialized in a deal memo. When deals fall apart, the parties may end up in litigation or arbitration. 
@@ -124,7 +134,6 @@ Along the way, entertainment lawyers practice any and all of the following: empl
 #### Power Lawyers
 
 Maybe the easiest way to get an idea of what entertainment lawyers actually DO is to read the thumbnail bios of [The Hollywood Reporter's Power Lawyers 2014: The Talent Lawyers](http://www.hollywoodreporter.com/gallery/photos-power-lawyers-2014-talent-699831).
-
 
 ## Entertainment Law Resources 
 
