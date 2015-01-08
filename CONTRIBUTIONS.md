@@ -1,6 +1,6 @@
-## Entertainment Law
+## Law & Business For Artists
 
-### Lawyers For The Talent
+### The ArtBizLaw Course
 
 ###### By Richard Dooling
 

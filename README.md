@@ -1,7 +1,7 @@
 ---
 author: Richard Dooling
-title: Entertainment Law
-subtitle: Lawyers For The Talent
+title: Law & Business For Artists 
+subtitle: The ArtBizLaw Course
 file: readme.md
 ---
 
@@ -9,7 +9,7 @@ file: readme.md
 
 ###### By Richard Dooling
 
-I teach Entertainment Law at the University of Nebraska College of Law. I also teach an undergraduate course at the University, which might be called Entertainment Law for Artists. 
+I teach Entertainment Law at the University of Nebraska College of Law. I also teach a Special Topics course for graduate and undergraduate students called Law & Business For Artists. 
 
 * [My University of Nebraska College of Law page](http://law.unl.edu/richard-dooling#about).
 * [My Wikipedia page](http://en.wikipedia.org/wiki/Richard_Dooling).
@@ -17,7 +17,7 @@ I teach Entertainment Law at the University of Nebraska College of Law. I also t
 * [One sorely neglected blog](http://dooling.com).
 * [Twitter @RichardDooling](http://twitter.com/richarddooling).
 
-This is a public repository of the files I use to teach Entertainment Law. Since it's open to all, please read the following:
+This is a public repository of the files I use to Law & Business for Artists course. Since it's open to all, please read the following:
 
 ### I Disclaim
 
@@ -36,13 +36,17 @@ To paraphrase Hunter Thompson:
 It's no place to be guessing about your legal rights. 
 If you need legal advice, GET A LAWYER! 
 
-These materials are published under an [MIT license](https://github.com/RichardDooling/Entertainment_Law/blob/master/LICENSE).
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE).
 
 ### Open Source Scholarship
 
-If all goes well, the files in this GitHub repository will grow into an open source Entertainment Law textbook. I hope to entice collaborators: students, former students, entertainment lawyers, artists, and other professors, who may find these materials useful and help me improve them. (At the moment, I am especially interested in a collaborator or contributor with experience working in the music industry.) 
+If all goes well, the files in this GitHub repository will grow into an open source textbook. I hope to entice collaborators: students, former students, entertainment lawyers, artists, and other professors, who may find these materials useful and help me improve them. (At the moment, I am especially interested in a collaborator or contributor with experience working in the music industry.) 
 
 Whenever possible, I link to free content, including Wikipedia, YouTube, [Google Scholar](http://scholar.google.com/), the [SCOTUS blog](http://www.scotusblog.com/), and other notable resources that are not behind paywalls. For the convenience of law students with Westlaw accounts, I often provide links to cases on Westlaw, but whenever possible I also provide a link to the same case on [Google Scholar](http://scholar.google.com/), or to the opinion itself as published by the court.
+
+Don't be intimidated by the links to these court opinions. 
+I'll tell you what you need to know in plain English, 
+and the opinions are there for the curious. 
 
 ### Files & Folders
 
@@ -78,13 +82,13 @@ Consider investing a little time and learning how to "clone" the entire reposito
 
 ### Contributing
 
-No obligation here. Only for the curious, but if you get interested in how GitHub works and how to contribute to this project, sign up at the [GitHub site](https://github.com/) and then read the [CONTRIBUTIONS](https://github.com/RichardDooling/Entertainment_Law/blob/master/CONTRIBUTIONS.md) and [HELP](https://github.com/RichardDooling/Entertainment_Law/blob/master/HELP.md) pages.
+No obligation here. Only for the curious, but if you get interested in how GitHub works and how to contribute to this project, sign up at the [GitHub site](https://github.com/) and then read the [CONTRIBUTIONS](https://github.com/RichardDooling/ArtBizLaw/blob/master/CONTRIBUTIONS.md) and [HELP](https://github.com/RichardDooling/ArtBizLaw/blob/master/HELP.md) pages.
 
 #### Typos, Glitches
 
-If you spot a typo or formatting glitch please [submit an issue.](https://github.com/RichardDooling/Entertainment_Law/issues). 
+If you spot a typo or formatting glitch please [submit an issue.](https://github.com/RichardDooling/ArtBizLaw/issues). 
 
-On the [Entertainment Law repository page](https://github.com/RichardDooling/Entertainment_Law), on the right, click on the "Issues" link and describe the problem. If need be, copy in text illustrating the problem.
+On the [ArtBizLaw repository page](https://github.com/RichardDooling/ArtBizLaw), on the right, click on the "Issues" link and describe the problem. If need be, copy in text illustrating the problem.
 
 Issues are easy to submit, and you'll be making the text better for those who come after you.
 
