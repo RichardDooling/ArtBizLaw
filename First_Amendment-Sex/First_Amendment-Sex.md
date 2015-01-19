@@ -145,7 +145,7 @@ The First Amendment sometimes "feels" powerful and protective enough to take for
 
 #### Excerpts from the *Burstyn* opinion: 
 
-(As you read these excerpts, notice how the Court is uncertain about this new potentially dangerous technology (motion pictures) in much the same way that the modern Supreme Court s nervouse about another "new" potentially dangerous technology (video games), even though it recently decided that the state of California could *not* regulate the sale of violent video games to teenagers. Why? Because video games, even violent video games are protected speech.)
+(As you read these excerpts, notice how the Court is uncertain about this new potentially dangerous technology (motion pictures) in much the same way that the modern Supreme Court is nervous about another "new" potentially dangerous technology (video games), even though it recently decided that the state of California could *not* regulate the sale of violent video games to teenagers. Why? Because video games, even violent video games are protected speech.)
 
 MR. JUSTICE CLARK delivered the opinion of the court.
 
@@ -176,7 +176,7 @@ guaranteed by the First and Fourteenth Amendments, however, is not the
 end of our problem. It does not follow that the Constitution requires
 absolute freedom to exhibit every motion picture of every kind at all
 times and all places. That much is evident from the series of decisions
-of this Court with respect to other  media of communication of
+of this Court with respect to other media of communication of
 ideas. Nor does it follow that motion pictures are
 necessarily subject to the precise rules governing any other particular
 method of expression. Each method tends to present its own peculiar
@@ -269,7 +269,7 @@ Some call this a "two-tier" or "category" approach to the First Amendment, meani
 
 Some of the categories (the obscene, the libelous, fighting words) are still with us. The Court has outlined several others (incitement, child pornography), but as we'll see the current Roberts Court is not receptive to legislatures adding "new" categories of unprotected speech, like [stolen valor speech](http://en.wikipedia.org/wiki/Stolen_Valor_Act_of_2013), or [animal crush videos](http://en.wikipedia.org/wiki/United_States_v._Stevens). 
 
-Other governments have different concerns and different categories of offensive speech. France and Germany prohibit varieties of hate speech or speech denying the historical facts of the Holocaust. See, for example, the wide variety of free speech laws collected at Wikipedia: [Free Speech By Country](http://en.wikipedia.org/wiki/Freedom_of_speech_by_country). Canadian courts have held that pornography which is "degrading or dehumanizing" to women may be prohibited (see [R. v. Butler](http://en.wikipedia.org/wiki/R._v._Butler) an analysis explicitly rejected by Judge Frank Easterbrook in [*American Booksellers v.  Hudnut*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=771+F.2d+323&appflag=67.12), 771 F2d 323 (7th Cir. 1985), *aff’d mem.*, 475 U.S. 1001 (1986), [Wikipedia](http://en.wikipedia.org/wiki/American_Booksellers_v._Hudnut).
+Other governments have different concerns and different categories of offensive speech. France and Germany prohibit varieties of hate speech or speech denying the historical facts of the Holocaust. See, for example, the wide variety of free speech laws collected at Wikipedia: [Free Speech By Country](http://en.wikipedia.org/wiki/Freedom_of_speech_by_country). Canadian courts have held that pornography which is "degrading or dehumanizing" to women may be prohibited (see [R. v. Butler](http://en.wikipedia.org/wiki/R._v._Butler), an analysis explicitly rejected by Judge Frank Easterbrook in [*American Booksellers v.  Hudnut*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=771+F.2d+323&appflag=67.12), 771 F2d 323 (7th Cir. 1985), *aff’d mem.*, 475 U.S. 1001 (1986), [Wikipedia](http://en.wikipedia.org/wiki/American_Booksellers_v._Hudnut).
 
 * [Nice summary of speech restrictions and unprotected speech categories](http://en.wikipedia.org/wiki/Freedom_of_speech_in_the_United_States#Types_of_speech_restrictions)
 
@@ -369,7 +369,7 @@ The principal question to be resolved, then, is whether the CPPA is
 constitutional where it proscribes a significant universe of speech that
 is neither obscene under *Miller* nor child pornography under *Ferber* . . . .
 
-As a general principle, the First Amendment bars the government from dictating what we see or read or speak or hear. The freedom of speech has its limits; it does not  embrace certain categories of speech, including defamation, incitement, obscenity, and pornography produced with real children. . . . While these categories may be prohibited without violating the First Amendment, none of them includes the speech prohibited by the CPPA. In his dissent from the opinion of the Court of Appeals, Judge Ferguson recognized this to be the law and proposed that virtual child pornography should be regarded as an additional category of unprotected speech. See [198 F. 3d, at 1101](http://scholar.google.com/scholar_case?case=4713588848027905018&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0). It would be necessary for us to take this step to uphold the statute.
+As a general principle, the First Amendment bars the government from dictating what we see or read or speak or hear. The freedom of speech has its limits; it does not embrace certain categories of speech, including defamation, incitement, obscenity, and pornography produced with real children. . . . While these categories may be prohibited without violating the First Amendment, none of them includes the speech prohibited by the CPPA. In his dissent from the opinion of the Court of Appeals, Judge Ferguson recognized this to be the law and proposed that virtual child pornography should be regarded as an additional category of unprotected speech. See [198 F. 3d, at 1101](http://scholar.google.com/scholar_case?case=4713588848027905018&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0). It would be necessary for us to take this step to uphold the statute.
 
 As we have noted, the CPPA is much more than a supplement to the existing federal prohibition on obscenity. Under [*Miller* v. *California,* 413 U. S. 15 (1973),](http://scholar.google.com/scholar_case?case=287180442152313659&q=ashcroft+free+speech+coalition&hl=en&as_sdt=6,28&scilh=0) the Government must prove that the work, taken as a whole, appeals to the prurient interest, is patently offensive in light of community standards, and lacks serious literary, artistic, political, or scientific value. . . . The CPPA, however, extends to images that appear to depict a minor engaging in sexually explicit activity without regard to the *Miller* requirements. The materials need not appeal to the prurient interest. Any depiction of sexually explicit activity, no matter how it is presented, is proscribed. The CPPA applies to a picture in a psychology manual, as well as a movie depicting the horrors of sexual abuse. It is not necessary, moreover, that the image be patently offensive. Pictures of what appear to be 17-year-olds engaging in sexually explicit activity do not in every case contravene community standards.
 
@@ -402,7 +402,7 @@ modern directors to adopt a less conventional approach, that fact alone
 would not compel the conclusion that the work was obscene.
 
 Contemporary movies pursue similar themes. Last year's Academy Awards
-featured the movie, Traffic, which was nominated for Best Picture. The film portrays a teenager, identified as a 16year-old, who becomes addicted to drugs. The viewer sees the degradation of her addiction, which in the end leads her  to a filthy room to trade sex for drugs. The year before, American Beauty won the Academy Award for Best Picture. In the course of the movie, a
+featured the movie, Traffic, which was nominated for Best Picture. The film portrays a teenager, identified as a 16-year-old, who becomes addicted to drugs. The viewer sees the degradation of her addiction, which in the end leads her to a filthy room to trade sex for drugs. The year before, American Beauty won the Academy Award for Best Picture. In the course of the movie, a
 teenage girl engages in sexual relations with her teenage boyfriend, and
 another yields herself to the gratification of a middle-aged man. The
 film also contains a scene where, although the movie audience
@@ -451,7 +451,7 @@ toleration for sexually oriented materials with the permissible scope of
 legislation aimed at protecting children from sexual exploitation."
 
 *Ferber* upheld a prohibition on the distribution and sale of child pornography, as well as its production, because these acts were "intrinsically related" to the sexual abuse of children in two ways. First, as a permanent record of a child's abuse, the continued circulation itself would harm the child who had participated. Like a defamatory statement, each new publication of the speech would cause new injury to the child's reputation and emotional well-being. Second, because the traffic in child pornography was an economic motive for its production, the State had an interest in closing the distribution network. "The most expeditious if not the only practical method of law enforcement may be to dry up the
-market for this material  by imposing severe criminal penalties
+market for this material by imposing severe criminal penalties
 on persons selling, advertising, or otherwise promoting the product." Under either rationale, the speech had what the Court in
 effect held was a proximate link to the crime from which it came. . . .
 
