@@ -239,7 +239,6 @@ In declaring that movies are indeed protected speech under the First Amendment, 
 ###### U.S. Supreme Court (1942)
 
 * [case at Google Scholar](http://scholar.google.com/scholar_case?case=124249671461500618&scilh=0)
-* [case at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=315+U.S.+568&appflag=67.12).
 * [case at Wikipedia](http://en.wikipedia.org/wiki/Chaplinsky_v._New_Hampshire).
 
 In late 1941, Walter Chaplinsky, a Jehovah's Witness, was preaching on a public sidewalk in downtown Rochester, New Hampshire. It was a busy Saturday afternoon, and Chaplinsky was passing out pamphlets and railing against organized religion, calling it a "racket." People complained to City Marshal Bowering, who responded by saying that Chaplinsky was "lawfully engaged." But Marshal Bowering also warned Chaplinsky that the crowd was getting restless. 
@@ -269,7 +268,7 @@ Some call this a "two-tier" or "category" approach to the First Amendment, meani
 
 Some of the categories (the obscene, the libelous, fighting words) are still with us. The Court has outlined several others (incitement, child pornography), but as we'll see the current Roberts Court is not receptive to legislatures adding "new" categories of unprotected speech, like [stolen valor speech](http://en.wikipedia.org/wiki/Stolen_Valor_Act_of_2013), or [animal crush videos](http://en.wikipedia.org/wiki/United_States_v._Stevens). 
 
-Other governments have different concerns and different categories of offensive speech. France and Germany prohibit varieties of hate speech or speech denying the historical facts of the Holocaust. See, for example, the wide variety of free speech laws collected at Wikipedia: [Free Speech By Country](http://en.wikipedia.org/wiki/Freedom_of_speech_by_country). Canadian courts have held that pornography which is "degrading or dehumanizing" to women may be prohibited (see [R. v. Butler](http://en.wikipedia.org/wiki/R._v._Butler), an analysis explicitly rejected by Judge Frank Easterbrook in [*American Booksellers v.  Hudnut*](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=771+F.2d+323&appflag=67.12), 771 F2d 323 (7th Cir. 1985), *aff’d mem.*, 475 U.S. 1001 (1986), [Wikipedia](http://en.wikipedia.org/wiki/American_Booksellers_v._Hudnut).
+Other governments have different concerns and different categories of offensive speech. France and Germany prohibit varieties of hate speech or speech denying the historical facts of the Holocaust. See, for example, the wide variety of free speech laws collected at Wikipedia: [Free Speech By Country](http://en.wikipedia.org/wiki/Freedom_of_speech_by_country). Canadian courts have held that pornography which is "degrading or dehumanizing" to women may be prohibited (see [R. v. Butler](http://en.wikipedia.org/wiki/R._v._Butler), an analysis explicitly rejected by Judge Frank Easterbrook in [*American Booksellers v. Hudnut*](http://en.wikipedia.org/wiki/American_Booksellers_v._Hudnut).
 
 * [Nice summary of speech restrictions and unprotected speech categories](http://en.wikipedia.org/wiki/Freedom_of_speech_in_the_United_States#Types_of_speech_restrictions)
 
@@ -601,10 +600,8 @@ In class, I may also refer to one or more the cases listed below. Again, the lin
 [7dirty]: http://www.youtube.com/watch?v=vbZhpf3sQxQ "George Carlin Seven Dirty Words"
 [dooling_1sta]: http://www.richarddooling.com/index.php/category/first-amendment/ "Dooling: Marketplace of Ideas vs. Civic Republicanism"
 [aclu_1stA]: https://www.aclu.org/free-speech/freedom-expression-arts-and-entertainment "Freedom of Expression in the Arts"
-[fox]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=132+S.Ct.+2307\&appflag=67.12 "FCC v. Fox"
 [burstyn-w]: http://en.wikipedia.org/wiki/Joseph_Burstyn,_Inc_v._Wilson "Joseph Burstyn v. Wilson"  
 [navarro]: http://en.wikipedia.org/wiki/2_Live_Crew#As_Nasty_As_They_Wanna_Be "Skywalker v. Navarro at Wikipedia"
-[skyywalker]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find\&cite=739fsupp578\&appflag=67.12 "*Skyywalker Records v. Navarro* at Westlaw"
 [miller-w]: https://en.wikipedia.org/wiki/Miller_v._California "*Miller v. California* at Wikipedia."
 
 <!-- BEGIN COMMENT -->
