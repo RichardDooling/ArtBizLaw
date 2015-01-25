@@ -27,7 +27,6 @@ Docu-dramas invite litigation.
 Imagine documentary filmmakers wearing hidden microphones and cameras making a documentary about a quack doctor who is selling banned substances, or unsafe herbal remedies? 
 Is that an invasion of the doctor's privacy? 
 
-
 Telling "based upon," nonfiction stories about others 
 often treads on what the industry calls "life story rights," 
 not a legal term, just a handy grab bag term for the rights involved. 
@@ -733,11 +732,12 @@ As Judge Posner writes,
 
 RICHARD A. POSNER, ECONOMIC ANALYSIS OF LAW § 3.3, at 43 (4th ed. 1992).
 
-The tort of misappropriation of name or likeness, therefore, creates
-property rights only where the failure to do so would result in the
-excessive exploitation of its value.
-
-[Thus, the term "likeness" includes such things as pictures, drawings, and the use of a singer's distinctive voice.]
+The tort of misappropriation of name or likeness, 
+therefore, creates property rights 
+only where the failure to do so would result in the
+excessive exploitation of its value. 
+[Thus, the term "likeness" includes such things as pictures, 
+drawings, and the use of a singer's distinctive voice.]
 
 The term "likeness" does not include general incidents from a person's
 life, especially when fictionalized. The narrative of an
@@ -783,7 +783,12 @@ individual's identity in advertising infringes on the persona."
 #### B.
 
 Matthews also contends that appropriation can occur through the
-fictionalized account of his life. The cases he cites, however, do not support his argument, as they apply the "false light" doctrine. In each of them, (1) the plaintiff's real name was used; (2) false or defamatory statements were made regarding the plaintiff; and (3) the plaintiff alleged invasion of privacy by false light, not misappropriation.
+fictionalized account of his life. 
+The cases he cites, however, do not support his argument, 
+as they apply the "false light" doctrine. 
+In each of them, (1) the plaintiff's real name was used; 
+(2) false or defamatory statements were made regarding the plaintiff; 
+and (3) the plaintiff alleged invasion of privacy by false light, not misappropriation.
 
 By contrast, RUSH does not use Matthews's real name, and Matthews admits
 that all the material facts are true. Thus, assuming he is trying to
@@ -1088,7 +1093,7 @@ people in no wise deformed or disfigured would nevertheless be deeply
 upset if nude photographs of themselves were published in a newspaper or
 a book. They feel the same way about photographs of their sexual
 activities, however "normal," or about a narrative of those activities,
-or about having their medical records publicized. Although it is well
+or about having their medical records publicized. Although it is well 
 known that every human being defecates, no adult human being in our
 society wants a newspaper to show a picture of him defecating. The
 desire for privacy illustrated by these examples is a mysterious but
@@ -1112,7 +1117,8 @@ not the narration of a sexual act.&hellip;
 Haynes denies that his drinking had anything to do with his son Kevin's
 defects or that he was actuated by mercenary considerations in leaving
 Ruby for Dorothy. These denials, we have seen, could not be made the
-basis of a libel case &hellip;  No more, we think, can they be used to enhance a privacy case.&hellip; 
+basis of a libel case &hellip; 
+No more, we think, can they be used to enhance a privacy case.&hellip; 
 
 Indeed, that type of case presupposes the truth of the facts disclosed. 
 If they are false, the interest invaded is that protected by the
@@ -1215,7 +1221,8 @@ privacy to make it) the exclusive format for a social history of living
 persons that tells their story rather than treating them as data points
 in a statistical study. Reporting the true facts about real people is
 necessary to "obviate any impression that the problems raised in the
-[book] are remote or hypothetical." &hellip; And surely a composite portrait of ghetto residents would be attacked as
+[book] are remote or hypothetical." &hellip; 
+And surely a composite portrait of ghetto residents would be attacked as
 racial stereotyping.
 
 *The Promised Land* does not afford the reader a titillating glimpse of
@@ -1519,6 +1526,33 @@ accordingly
 
 #### Totally Optional Readings & Viewings
 
+##### 'American Hustle' Sparks $1 Million Libel Lawsuit 
+
+From [*The Hollywood Reporter*][hustle]
+
+> It's a very brief exchange in American Hustle: 
+> Jennifer Lawrence's character Roslyn tells her husband, 
+> Irving, played by Christian Bale, 
+> that microwaves take the nutrition out of food. 
+> "That's bullshit," Irving replies, 
+> and his wife shows him a magazine and says, 
+> "It's not bullshit. I read it in an article. Look, by Paul Brodeur."
+
+> The real Brodeur is a science journalist 
+> who was a staff writer at The New Yorker for nearly 40 years. 
+> He's even written books (such as The Zapping of America) 
+> about the dangers of microwave radiation. 
+> But he's never said that they take the nutrition out of food, 
+> he claims in a new lawsuit.
+
+Journalist Paul Brodeur says 
+his reputation was damaged by claims about microwaves 
+that the film falsely attributes to him.
+
+From [*The Hollywood Reporter*][hustle]
+
+##### More Movies & Articles
+
 * [*The People Versus Larry Flynt*][flynt] (stars Woody Harrelson and Courtney Love). This is a love song to the First Amendment directed by Czech director Milos Forman telling the tale of preacher Jerry Falwell's [landmark Supreme Court case][falwell] against Larry Flynt, the publisher of *Hustler Magazine* (on reserve in Schmid Library).
 * Amy J. Field, [A Curtain Call for Docudrama-Defamation Actions: A Clear Standard Takes a Bow](http://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1134&context=elr). Casenote discussing *Davis v. Costa-Gavaras* (SDNY 1987).
 - *Deangelo Bailey v. Marshall Bruce Mathers, III, aka Eminem Slim Shady,* Macomb County Court (Michigan 2003):
@@ -1554,6 +1588,8 @@ Blurred lines: Ninth Circuit applies same First Amendment protections to blogger
 [gertz]: http://scholar.google.com/scholar_case?case=7102507483896624202 "Gertz v. Robert Welch"
 [flynt]: http://www.imdb.com/title/tt0117318/ "The People v. Larry Flynt"
 [falwell]: http://en.wikipedia.org/wiki/Hustler_Magazine_v._Falwell "Hustler vs. Falwell at Wikipedia"
+[hustle]: http://www.hollywoodreporter.com/thr-esq/american-hustle-sparks-1-million-745296 "American Hustle defamation suit"
+
 
 <!-- BEGIN COMMENT -->
 
