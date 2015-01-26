@@ -7,7 +7,9 @@ file: readme.md
 
 # Law & Business For Artists
 
-###### By Richard Dooling
+###### By Richard Dooling &copy;
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE).
 
 I teach Entertainment Law at the University of Nebraska College of Law. I also teach a Special Topics course for graduate and undergraduate students called Law & Business For Artists. 
 
@@ -40,17 +42,35 @@ These materials are published under an [MIT license](https://github.com/RichardD
 
 ### Open Source Scholarship
 
-If all goes well, the files in this GitHub repository will grow into an open source textbook. I hope to entice collaborators: students, former students, entertainment lawyers, artists, and other professors, who may find these materials useful and help me improve them. (At the moment, I am especially interested in a collaborator or contributor with experience working in the music industry.) 
+If all goes well, 
+the files in this GitHub repository will grow into an open source textbook. 
+I hope to entice collaborators: 
+students, former students, entertainment lawyers, artists, and other professors, 
+who may find these materials useful and help me improve them. 
+(At the moment, I am especially interested in a collaborator 
+or contributor with experience working in the music industry.) 
 
-Whenever possible, I link to free content, including Wikipedia, YouTube, [Google Scholar](http://scholar.google.com/), the [SCOTUS blog](http://www.scotusblog.com/), and other notable resources that are not behind paywalls. For the convenience of law students with Westlaw accounts, I often provide links to cases on Westlaw, but whenever possible I also provide a link to the same case on [Google Scholar](http://scholar.google.com/), or to the opinion itself as published by the court.
+Whenever possible, I link to free content, 
+including Wikipedia, YouTube, [Google Scholar](http://scholar.google.com/), the [SCOTUS blog](http://www.scotusblog.com/), 
+and other notable resources that are not behind paywalls. 
+For the convenience of law students with Westlaw accounts, 
+I often provide links to cases on Westlaw, 
+but whenever possible I also provide a link to the same case on 
+[Google Scholar](http://scholar.google.com/), 
+or to the opinion itself as published by the court.
 
 Don't be intimidated by the links to these court opinions. 
-I'll tell you what you need to know in plain English, 
-and the opinions are there for the curious. 
+But do read the summaries contained in the files. 
+In class, I'll explain in plain English, 
+and the full court opinions are there for the curious. 
 
 ### Files & Folders
 
-You don't need to know Markdown or computer programming to use or view these files. Public repositories (like this one) can be browsed and the files can be downloaded by anyone. If you are a student looking to download or view the Entertainment Law files, just find the files you want and download them.
+You don't need to know Markdown or computer programming 
+to use or view these files. 
+Public repositories (like this one) 
+can be browsed and the files can be downloaded by anyone. 
+If you are a student just find the files you need and download them.
 
 Each folder contains three files, all named after the folder:
 
@@ -58,15 +78,21 @@ Each folder contains three files, all named after the folder:
 * one Word file (.docx)
 * one PDF file (.pdf)
 
-All files contain the same content, just in different formats. For example, the Introduction folder contains three files:
+All files contain the same content, 
+just in different formats. 
+For example, the Introduction folder contains three files:
 
 * Introduction.md
 * Introduction.docx
 * Introduction.pdf
 
-If you click on the Markdown file (Introduction.md) you can view it as you would a webpage. 
+If you click on the Markdown file (Introduction.md) 
+you can view it as you would a webpage. 
 
-If you click on the Introduction.docx or Introduction. pdf, you can't view the files, but you can download them if you click on the button that says "Raw." (Clicking on "View Raw" gives an error.)
+If you click on the Introduction.docx or Introduction. pdf, 
+you can't view the files, 
+but you can download them if you click on the button that says "Raw." 
+(Clicking on "View Raw" might give an error.)
 
 ![Click On The Raw Button](Download_Single_File.png "Click Raw")
 
