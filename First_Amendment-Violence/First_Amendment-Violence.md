@@ -60,8 +60,8 @@ that arguably amounts to incitement to violence?
 
 In *Ginsberg v. New York* (discussed below), 
 the Supreme Court upheld a New York statute 
-that regulated what might be called obscenity-lite, 
-or obscenity-for-minors, 
+that regulated obscenity-for-minors, 
+
 prohibiting the sale of *sexual* material that, 
 while not obscene to adults, 
 would be obscene from the perspective of a child. 
