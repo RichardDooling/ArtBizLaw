@@ -1,8 +1,7 @@
 ---
 author: Richard Dooling
-title: Entertainment Law
-subtitle: Law & Business For Artists 
-chapter: Right of Publicity
+title: Law & Business For Artists
+subtitle: Right of Publicity
 ---
 
 # Law & Business For Artists
@@ -100,7 +99,8 @@ that the facts of her case stated no known cause of action,
 the ensuing public outrage led the New York state legislature 
 to create the state's first right of privacy statute. 
 
-Likewise, three years later, in [*Pavesich v. New England Mutual Life Insurance,*](http://scholar.google.com/scholar_case?about=1439996581741054102) (GA 1905), 
+Likewise, three years later, 
+in [*Pavesich v. New England Mutual Life Insurance,*](http://scholar.google.com/scholar_case?about=1439996581741054102) (GA 1905), 
 Atlanta artist Paolo Pavesich sued when his photo was used 
 (without his permission) in a newspaper ad for life insurance. 
 The ad featured a photo of Pavesich, 
@@ -224,13 +224,15 @@ and Motown Record Corporation,
 the assignee of the rights to several of Dr. King's copyrighted speeches 
 filed suit against Bolen and his company. 
 
+##### Who Owns Martin Luther King's Publicity Rights?
+
 Pause here and consider who is likely to win this lawsuit? 
 Is it lawful for a sculptor to create and sell an image of Dr. King?
 Would it be lawful for an author to write a book about Dr. King? 
 As you read excerpts from the case, 
 keep in mind that the right of PUBLICITY 
 is a subspecies of the right of PRIVACY. 
-It's that privacy right that is most like a property right, 
+It's the privacy right that is most like a property right, 
 like intellectual property.
 
 #### Excerpts From The Case
@@ -254,10 +256,84 @@ Within this framework, we turn to the questions posed.
 
 #### 1. Is the "right of publicity" recognized in Georgia as a right distinct from the right of privacy?
 
-Georgia has long recognized the right of privacy. Following denial of
-the existence of the right of privacy in a controversial decision by the
-New York Court of Appeals in [*Roberson v. Rochester Folding Box Co.*, (1902)](http://scholar.google.com/scholar_case?case=8949201185857474767), the Georgia Supreme Court became the first such court to recognize the right of privacy in [*Pavesich v. New England Life Ins. Co.,* (1905)](http://scholar.google.com/scholar_case?about=14399965817410541021) . &hellip; 
+Georgia has long recognized the right of privacy.&hellip; 
+[Shortly after the New York Court of Appeals' 
+denied the right of privacy in its controversial 1902 opinion in] 
+ [*Roberson v. Rochester Folding Box Co.*](http://scholar.google.com/scholar_case?case=8949201185857474767), 
+the Georgia Supreme Court 
+became the first such court 
+to recognize the right of privacy in 
+[*Pavesich v. New England Life Ins. Co.,* (1905)](http://scholar.google.com/scholar_case?about=14399965817410541021). &hellip; 
 
+In the course of its opinion 
+the *Pavesich* court said several things pertinent here. 
+It noted that the commentators on ancient law 
+recognized the right of personal liberty, 
+including the right to exhibit oneself before the public 
+at proper times and places and in a proper manner. 
+As a corollary, the court recognized 
+that the right of personal liberty 
+included the right of a person 
+not to be exhibited before the public, saying: 
+
+> The right to withdraw from the public gaze 
+> at such times as a person may see fit, 
+> when his presence in public is not demanded 
+> by any rule of law is 
+> also embraced within the right of personal liberty. 
+> Publicity in one instance 
+> and privacy in the other is each guaranteed.
+> If personal liberty embraces the *right of publicity,* 
+> it no less embraces the correlative right of privacy; 
+> and this is no new idea in Georgia law. 
+
+> [*Pavesich*](http://scholar.google.com/scholar_case?about=14399965817410541021).
+
+Recognizing the possibility of a conflict 
+between the right of privacy and the freedoms of speech and press, 
+this court said: 
+
+> There is in the publication of one's picture 
+> for advertising purposes not the slightest semblance 
+> of an expression of an idea, a thought, or an opinion, 
+> within the meaning of the constitutional provision 
+> which guarantees to a person 
+> the right to publish his sentiments on any subject. [*Id.*](http://scholar.google.com/scholar_case?about=14399965817410541021). 
+
+The defendants in the case now before us make no claim under these freedoms and we find no violation thereof.
+
+Observing &hellip; that the right of privacy in general 
+does not survive the death of the person whose privacy is invaded, 
+the *Pavesich* court said: 
+
+> While the right of privacy is personal, 
+> and may die with the person, 
+> we do not desire to be understood as assenting to the proposition 
+> that the relatives of the deceased cannot, in a proper case, 
+> protect the memory of their kinsman, 
+> not only from defamation, 
+> but also from an invasion into the affairs of his private life after his death. 
+> This question is not now involved, 
+> but we do not wish anything
+> said to be understood as committing us in any way 
+> to the doctrine that against the consent of relatives 
+> the private affairs of a deceased person may be published 
+> and his picture or statue exhibited. [*Id.*](http://scholar.google.com/scholar_case?about=14399965817410541021).
+
+Finding that Pavesich, although an artist, was not recognized as a public figure, the court said: "It is not necessary in this case to hold, nor are we prepared to do so, that the mere fact that a man has become what is called a public character, either by aspiring to public office, or by holding public office, or by exercising a profession which places him before the public, or by engaging in a business which has necessarily a public nature, gives to everyone the right to print and circulate his picture." [*Id.*](http://scholar.google.com/scholar_case?about=14399965817410541021). Thus, although recognizing the right of privacy, the *Pavesich* court left open the question facing us involving the likeness of a public figure.&hellip; 
+
+In [*Palmer v. Schonhorn Enterprises,* (N.J.Sup.Ct. 1967),](http://scholar.google.com/scholar_case?case=18127729155672659732) Arnold Palmer, Gary Player, Doug Sanders and Jack Nicklaus obtained summary judgment against the manufacturer of a golf game which used the
+golfers' names and short biographies without their consent. Although
+written as a right of privacy case, much of what was said is applicable
+to the right of publicity. In its opinion the court said ([*Id.*](http://scholar.google.com/scholar_case?case=18127729155672659732)):
+
+> It would therefore seem, from a review of the authorities, that although the publication of biographical data of a well-known figure does not per se constitute an invasion of privacy, the use of that same data for the purpose of capitalizing upon the name by using it in connection with a commercial project other than the dissemination of news or articles or biographies does.
+
+> The names of plaintiffs have become internationally famous, undoubtedly by reason of talent as well as hard work in perfecting it. This is probably true in the cases of most so-called celebrities, who have attained national or international recognition in a particular field of art, science, business or other extraordinary ability. They may not all desire to capitalize upon their names in the commercial field, beyond or apart from that in which they have reached their known excellence.  However, because they presently do not should not be justification for others to do so because of the void. They may desire to do it later. . . . It is unfair that one should be permitted to commercialize or exploit or capitalize upon another's name, reputation
+or accomplishments merely because the owner's accomplishments have been
+highly publicized."
+
+In [*Haelan Laboratories,* supra](http://scholar.google.com/scholar_case?case=18211552832825571674), the court was concerned with whether a celebrity has the right to the exclusive use of his or her name and likeness. In [*Palmer,* supra](http://scholar.google.com/scholar_case?case=18127729155672659732), the court was concerned with whether a person using the celebrity's name for the user's commercial benefit has the right to do so without authorization. At this point it should be emphasized that we deal here with the unauthorized use of a person's name and likeness for the commercial benefit of the user, not with a city's use of a celebrity's name to denominate a street or school.&hellip; 
 
 The right of publicity was first recognized in Georgia by the Court of Appeals in [*Cabaniss v. Hipsley,* (1966)](http://scholar.google.com/scholar_case?case=7744604933524088722). There the court held that the plaintiff, an exotic dancer, could recover from the owner of the Atlanta Playboy Club for the unauthorized use of the dancer's misnamed photograph in an entertainment magazine advertising the Playboy Club. Although plaintiff had had her picture taken to promote her performances, she was not performing at the Playboy Club. The court used Dean William L. Prosser's four-pronged analysis of the right of privacy, saying: ". . . there are four distinct kinds of invasion of four different interests of plaintiff; that there are four disparate torts under a common name. These four torts may be described briefly as: 
 
@@ -280,7 +356,6 @@ his identity."
 Although Ms. Hipsley was an entertainer (i.e., a public figure), the court found she was entitled to recover from the Playboy Club (but not from the magazine which published the Club's ad) for the unauthorized use of her photograph. However the court noted a difference in the damages recoverable in traditional right of privacy cases as opposed to right of publicity cases saying ([*Id*](http://scholar.google.com/scholar_case?case=7744604933524088722)): 
 
 > Recognizing, as we do, the fundamental distinction between causes of action involving injury to feelings, sensibilities or reputation and those involving an appropriation of rights in the nature of property rights for commercial exploitation, it must necessarily follow that there is a fundamental distinction between the two classes of cases in the measure of damages to be applied. In the former class (which we take to include the intrusion, disclosure, and false light aspects of the privacy tort), general damages are recoverable without proof of special damages. [*Pavesich v. New England Life Ins. Co.,* supra](http://scholar.google.com/scholar_case?about=14399965817410541021). In the latter class, the measure of damages is the value of the use of the appropriated publicity.&hellip; 
-
 
 Thus, the courts in Georgia have recognized the rights of private citizens, [*Pavesich,* supra](http://scholar.google.com/scholar_case?about=14399965817410541021), as well as entertainers, *Cabaniss* and [*McQueen,* supra](http://scholar.google.com/scholar_case?case=1248459050824146235), not to have their names and photographs used for the financial gain of the user without their consent, where such use is not authorized as an exercise of freedom of the press. We know of no reason why a public figure prominent in religion and civil rights should be entitled to less protection than an exotic dancer or a movie actress. Therefore, we hold that the appropriation of another's name and likeness, whether such likeness be a photograph or sculpture, without consent and for the financial gain of the appropriator is a tort in Georgia, whether the person whose name and likeness is used is a private citizen, entertainer, or as here a public figure who is not a public official.  
 
@@ -456,7 +531,7 @@ that his right of privacy has been invaded
 is supported by the law or the facts. 
 Apparently, the gist of this claim is 
 that Carson is embarrassed by 
-and considers it odious to be associated with the the toilet company's product. 
+and considers it odious to be associated with the toilet company's product. 
 Clearly, the association does not appeal to Carson's sense of humor. 
 But the facts here presented do not, it appears to us, 
 amount to an invasion of any of the interests protected by the right of privacy. 
@@ -468,6 +543,9 @@ to accept or reject the claim of an invasion of the right of privacy.
 The right of publicity has developed to protect the commercial interest of celebrities in their identities. The theory of the right is that a celebrity's identity can be valuable in the promotion of products, and the celebrity has an interest that may be protected from the unauthorized commercial exploitation of that identity. &hellip; "The famous have an exclusive legal right during life to control and profit from the commercial use of their name and personality."
 
 The district court dismissed Carson's claim based on the right of publicity because the toilet company does not use Carson's name or likeness. &hellip;  It held that it "would not be prudent to allow recovery for a right of publicity claim which does not more specifically identify Johnny Carson." &hellip; We believe that, on the contrary, the district court's conception of the right of publicity is too narrow. The right of publicity, as we have stated, is that a celebrity has a protected pecuniary interest in the commercial exploitation of his identity. If the celebrity's identity is commercially exploited, there has been an invasion of his right whether or not his "name or likeness" is used. Carson's identity may be exploited even if his name, John W. Carson, or his picture is not used.
+
+The district court dismissed appellants' claim based on the right of publicity because appellee does not use Carson's name or likeness. [498 F.Supp. at 77](http://scholar.google.com/scholar_case?case=652682831136403786).  It held that it "would not be prudent to allow recovery for a right of publicity claim which does not more specifically identify Johnny Carson." [498 F.Supp. at 78](http://scholar.google.com/scholar_case?case=652682831136403786).  We believe that, on the contrary, the district court's conception of the right of publicity is too narrow. The right of publicity, as we have stated, is that a celebrity has a protected pecuniary interest in the commercial exploitation of his identity. If the celebrity's identity is commercially exploited, there has been an invasion of his right whether or not his "name or likeness" is used. Carson's identity may be exploited even if his name, John W. Carson, or his picture is not used.
+>>>>>>> 3d9c4e8758e4f6d9d4d6fce35af7f43bbdcc48f8
 
 In [*Motschenbacher v. R.J. Reynolds Tobacco Co.,* (9th Cir.1974),](http://scholar.google.com/scholar_case?case=6630116352269581991) the court held that the unauthorized use of a picture of a distinctive race car of a well known professional race car driver, whose name or likeness were not used, violated his right of publicity. In this connection, the court said:
 
@@ -513,10 +591,12 @@ In [*Hirsch v. S.C. Johnson & Son, Inc.,* (WI 1979),](http://scholar.google.com/
 
 [280 N.W.2d at 137](http://scholar.google.com/scholar_case?case=15457477938614677085).
 
-In this case, Earl Braxton, president and owner of Here's Johnny
-Portable Toilets, Inc., admitted that he knew that the phrase "Here's
-Johnny" had been used for years to introduce Carson. Moreover, in the
-opening statement in the district court, the toilet company's counsel stated:
+In this case, Earl Braxton, 
+president and owner of Here's Johnny Portable Toilets, Inc., 
+admitted that he knew that the phrase 
+"Here's Johnny" had been used for years to introduce Carson. 
+Moreover, in the opening statement in the district court, 
+the toilet company's counsel stated:
 
 > Now, we've stipulated in this case that the public tends to associate
 > the words "Johnny Carson", the words "Here's Johnny" with plaintiff,
@@ -524,7 +604,12 @@ opening statement in the district court, the toilet company's counsel stated:
 > that and probably absent that identification, he would not have chosen
 > it.
 
-That the "Here's Johnny" name was selected by Braxton because of its identification with Carson was the clear inference from Braxton's testimony.&hellip; The proof showed without question that appellee had appropriated Carson's identity in connection with its corporate name and its product. [*See also* Prosser, *supra* ("It is the plaintiff's name as a symbol of his identity that is involved here, and not as a mere name.")] 
+That the "Here's Johnny" name was selected by Braxton 
+because of its identification with Carson 
+was the clear inference from Braxton's testimony.&hellip; 
+The proof showed without question 
+that the toilet company had appropriated Carson's identity 
+in connection with its corporate name and its product.&hellip;  
 
 Although this opinion holds only that Carson's right of publicity was invaded because the toilet company intentionally appropriated his identity for commercial exploitation, the dissent, relying on its interpretation of the authorities and relying on policy and constitutional arguments, would hold that there was no invasion here. We do not believe that the dissent can withstand fair analysis.&hellip;
 
@@ -545,10 +630,8 @@ other things which are merely associated with the individual permits a
 popular entertainer or public figure, by associating himself or herself
 with a common phrase, to remove those words from the public domain.
 
-
 [prosser]: http://www.californialawreview.org/assets/pdfs/misc/prosser_privacy.pdf "Prosser On Privacy Cal.Law.Rev. 1960"
 [hoffman]: http://heinonline.org/HOL/LandingPage?handle=hein.journals/jocoso28&div=12&id=&page= "Hoffman Limitations On The Right Of Publicity" 
-[zacchini]: http://scholar.google.com/scholar_case?case=16238771870259020023 "Zacchini v. Scripps Broadcasting"
 
 ### *White v. Samsung Electronics America, Inc.*
 
@@ -940,3 +1023,4 @@ Lanham Act § 43(a)
 * Bing Crosby's First Wife Denied Value of His [Publicity Rights](http://www.hollywoodreporter.com/thr-esq/bing-crosbys-first-wife-denied-675755): Are likeness rights community property in a marriage?  
 
 [brandeis_article]: http://en.wikipedia.org/wiki/The_Right_to_Privacy_(article) "The Right of Privacy"
+[zacchini]: http://scholar.google.com/scholar_case?case=16238771870259020023 "Zacchini v. Scripps Broadcasting"
