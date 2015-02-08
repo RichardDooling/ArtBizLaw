@@ -1,13 +1,15 @@
 ---
 author: Richard Dooling
-title: Entertainment Law
-subtitle: Lawyers For The Talent
-chapter: Copyright Basics
+title: Law & Business For Artists
+subtitle: Copyright Basics
 ---
 
-# Lawyers For The Talent
+# Law & Business For Artists
 
-###### by Richard Dooling
+###### by Richard Dooling &copy;
+
+These materials are published under an 
+[MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
 
 ## Copyright Basics
 
