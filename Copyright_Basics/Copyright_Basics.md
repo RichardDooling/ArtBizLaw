@@ -258,12 +258,13 @@ The evidence at trial was conflicting
 on whether the scriptwriter relied almost entirely on the book 
 in writing the screenplay 
 or whether he arrived at his version of the kidnapping story independently. 
-Both plaintiff and his expert witness testified 
+Gene Miller and his expert witness testified 
 to numerous similarities between the works. 
+
 The jury, which had copies of the book 
 and viewed the movie twice during the trial, 
 found the movie infringed Miller's copyright 
-and awarded him over \$200,000 in damages and profits.
+and awarded Miller over $200,000 in damages and profits.
 
 The most substantial question presented on appeal 
 is whether the district court erred in instructing the jury 
@@ -273,7 +274,7 @@ that “research is copyrightable.”
 
 It is well settled that copyright protection extends 
 only to an author's expression of facts 
-and not to the facts themselves.&hellip;  
+and not to the facts themselves.&hellip; 
 This dichotomy between facts and their expression 
 derives from the concept of originality 
 which is the premise of copyright law. 
@@ -338,25 +339,28 @@ In the *International News* case,
 the Supreme Court commented in dicta 
 that while a newspaper story, as a literary production, can by copyrighted,
 
-> the news element---the information respecting current events contained
-> in the literary production---is not the creation of the writer, but is
-> a report of matters that ordinarily are *publici juris*; it is the
-> history of the day. It is not to be supposed that the framers of the
-> Constitution &hellip; intended to confer upon one who might happen to be
+> the news element---
+> the information respecting current events 
+> contained in the literary production---
+> is not the creation of the writer, 
+> but is a report of matters that ordinarily are *publici juris*; 
+> it is the history of the day. 
+> It is not to be supposed that the framers of the Constitution &hellip; 
+> intended to confer upon one who might happen to be
 > the first to report a historic event the exclusive right for any
 > period to spread the knowledge of it.
 
-Apart from the directory cases, 
-the only decision cited to this Court
+The only decision cited to this Court
 which lends support for the challenged instruction is [*Toksvig v. Bruce
 Publishing Co.,* (7th Cir. 1950)](http://scholar.google.com/scholar_case?case=11933644990487591173).
+
 In *Toksvig,* plaintiff had written a biography of Hans Christian Anderson 
 after extensive research of primary Danish sources. 
 Defendant, who could not read Danish, 
 copied twenty-four specific passages from plaintiff's book in writing her own biography. 
 The Seventh Circuit held the copying of these passages, 
 original translations from Danish
-separately copyrightable under [17 U.S.C. § 6 (1970)][106], 
+separately copyrightable under [the Copyright Statute][106], 
 constituted copyright infringement. 
 The court went on to reject defendant's fair use defense, 
 primarily because defendant's use of the translations 
@@ -365,12 +369,13 @@ in one-third the time it took plaintiff.
 The court said the question was 
 not whether defendant could have obtained the same information 
 by going to the sources plaintiff had used, 
-but whether she in fact had done her own independent research. *Id.* at 667.
+but whether she in fact had done her own independent research. 
 
 Although most circuits apparently have not addressed the question, 
 the idea that historical research is copyrightable 
 was expressly rejected by the Second Circuit 
-in the more soundly reasoned case of [*Rosemont Enterprises, Inc. v. Random House, Inc.,* (2d Cir. 1966)][rosemont].
+in the more soundly reasoned case of 
+[*Rosemont Enterprises, Inc. v. Random House, Inc.,* (2d Cir. 1966)][rosemont].
 
 In *Rosemont,* it was alleged that defendant's biography of Howard
 Hughes infringed the copyright 
@@ -391,7 +396,7 @@ it rejected the language regarding independent research:
 > proscription against the copyright of ideas and facts, and to a lesser
 > extent the privilege of fair use, are designed to prevent.
 
-[*Rosemont*][rosement].
+[*Rosemont*][rosemont].
 
 The Second Circuit has adhered to its position 
 in the most recent appellate case to address the question, 
@@ -399,16 +404,19 @@ in the most recent appellate case to address the question,
 *Hoehling* involved various literary accounts 
 of the last voyage and mysterious destruction 
 of the German dirigible Hindenberg. 
+
 Plaintiff A.A. Hoehling published a book in 1962 entitled, 
 *Who Destroyed the Hindenberg?* 
 Written as a factual account in an objective, reportorial style, 
 the premise of his extensively researched book 
 was that the Hindenberg had been deliberately sabotaged 
 by a member of its crew to embarrass the Nazi regime. 
+
 Ten years later, 
 defendant Michael McDonald Mooney published his book, *The Hindenberg.* 
 While a more literary than historical account, 
 it also hypothesized sabotage. 
+
 Universal City Studios purchased the movie rights to Mooney's book 
 and produced a movie under the same title, 
 although the movie differed somewhat from the book. 
@@ -423,6 +431,7 @@ The district court granted defendants' motion for summary judgment
 and the Second Circuit affirmed, holding that, 
 assuming both copying and substantial similarity, 
 all the similarities pertained to categories of noncopyrightable material. 
+
 The court noted the sabotage hypothesis 
 espoused in Hoehling's book 
 was based entirely on interpretation of historical fact 
@@ -508,7 +517,7 @@ and a new trial is required.
 
 REVERSED AND REMANDED.
 
-#### Notes On *Miller v. Universal* 
+#### Notable Quotes From *Miller v. Universal* 
 
 > It is well settled 
 > that copyright protection extends only 
@@ -673,3 +682,4 @@ instead of having to prove actual damages:
 
 * 25-Jan-2015 Edited and rewrote before merging with ArtBizLaw Copyright Basics.
 * 08-Feb-2015 More edits before merging with ABL
+* 09-Feb-2015 Edit *Miller v. Universal*
