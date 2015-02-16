@@ -1,11 +1,13 @@
 ---
 author: Richard Dooling
-title: Entertainment Law
-subtitle: Lawyers For The Talent
+title: Law & Business For Artisits
+subtitle: Art Biz Law
 chapter: Copyright Infringement
 ---
 
-# Lawyers For The Talent
+# Law & Business For Artists
+
+## Art Biz Law
 
 ###### by Richard Dooling &copy;
 
@@ -78,7 +80,8 @@ that the defendant had access to plaintiff's work,
 then sometimes the court may allow plaintiff 
 to prove that the two works are so **strikingly similar** 
 that defendant must have had access. 
-However courts are careful to point out that proof of striking similarity is 
+However courts are careful to point out 
+that proof of striking similarity is:  
 
 > just one piece of circumstantial evidence 
 > tending to show access 
@@ -93,7 +96,6 @@ See [*Selle v. Gibb*](http://scholar.google.com/scholar_case?case=15134673856711
 ###### US Southern District New York (1976)
 
 * [Case on Google Scholar](http://scholar.google.com/scholar_case?case=7721050309378220492)
-* [Case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=420fsupp177&appflag=67.12) 
 * [Case on Wikipedia](http://en.wikipedia.org/wiki/My_Sweet_Lord#Copyright_infringement_suit).
 
 One of the most famous copyright infringement suit of all time. 
@@ -128,7 +130,8 @@ the copyright of which is owned by plaintiff, Bright Tunes Music Corp.
 consisting essentially of four repetitions of a very short basic musical phrase, 
 "sol-mi-re," (hereinafter motif A), 
 altered as necessary to fit the words, 
-followed by four repetitions of another short basic musical phrase, 
+followed by four repetitions 
+of another short basic musical phrase, 
 "sol-la-do-la-do," (hereinafter motif B). 
 While neither motif is novel, 
 the four repetitions of A, 
@@ -159,10 +162,12 @@ The harmonies of both songs are identical.
 
 George Harrison, a former member of The Beatles, 
 was aware of "He's So Fine." 
-In the United States, it was No. 1 on the billboard charts for five weeks; 
+In the United States, 
+it was No. 1 on the billboard charts for five weeks; 
 in England, Harrison's home country, 
 it was No. 12 on the charts on June 1, 1963, 
-a date upon which one of the Beatle songs was, in fact, in first position. 
+a date upon which one of the Beatle songs was, 
+in fact, in first position. 
 For seven weeks in 1963, "He's So Fine"
 was one of the top hits in England.
 
@@ -210,7 +215,7 @@ everybody was working toward a finished song, in the recording studio,
 somehow or other the essential three notes of motif A reached polished
 form.
 
-> "Q. [By the Court]: . . . you feel that those three notes . . . the
+> "Q. [By the Court]: Do you feel that those three notes &hellip; the
 > motif A in the record, those three notes developed somewhere in that
 > recording session?
 
@@ -245,14 +250,22 @@ pages in the transcript that neither Harrison nor Preston were conscious
 of the fact that they were utilizing the He's So Fine
 theme. However, they in fact were, for it is perfectly
 obvious to the listener that in musical terms, the two songs are
-virtually identical except for one phrase &hellip; [The judge then noted that "even Harrison's own expert witness acknowledged that although the two motifs were in the public domain, their use here was so unusual as to make them unique.]
+virtually identical except for one phrase &hellip; 
 
-What happened? I conclude that the composer, 
+[The judge then noted that 
+"even Harrison's own expert witness acknowledged 
+that although the two motifs were in the public domain, 
+their use here was so unusual as to make them unique.]
+
+What happened? 
+I conclude that the composer, 
 in seeking musical materials to clothe his thoughts, 
 was working with various possibilities. 
 As he tried this possibility and that, 
-there came to the surface of his mind a particular combination that pleased him 
-as being one he felt would be appealing to a prospective listener; 
+there came to the surface of his mind 
+a particular combination that pleased him 
+as being one he felt would be appealing 
+to a prospective listener; 
 in other words, that this combination of sounds would work. 
 Why? Because his subconscious knew 
 it already had worked in a song 
@@ -284,7 +297,6 @@ So Ordered.
 ###### US Court of Appeals (7th Cir. 1984) 
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=15134673856711698951)
-* [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=741f2d896&appflag=67.12) 
 * [Wikipedia](http://en.wikipedia.org/wiki/Selle_v._Gibb).  
 
 CUDAHY, Circuit Judge.
@@ -298,12 +310,8 @@ alleging that the Bee Gees, in their hit tune,
 the copyright of his song, "Let It End." 
 The jury returned a verdict in plaintiff Selle's favor 
 on the issue of liability in a bifurcated trial. 
-The district court, Judge George N. Leighton, 
-granted the defendants' motion for judgment notwithstanding the verdict 
-and, in the alternative, for a new trial. [*Selle v. Gibb,* (N.D.Ill.
-1983)](http://scholar.google.com/scholar_case?case=11567908603789103293).
-We affirm the grant of the motion for judgment notwithstanding the
-verdict.
+
+[The judge disagreed and rendered judgment for the BeeGees, instead. The 7th Circuit Court of Appeals agreed with the judge.]
 
 ## I
 
@@ -320,120 +328,131 @@ This was the extent of the public dissemination of Selle's song.
 [More facts at *Selle v. Gibb* (N.D.Ill.1983)](http://scholar.google.com/scholar_case?case=11567908603789103293).
 
 Selle first became aware of
-the Bee Gees' song, "How Deep Is Your Love," in May 1978 and thought
-that he recognized the music as his own, although the lyrics were
-different. He also saw the movie, "Saturday Night Fever," the sound
-track of which features the song "How Deep Is Your Love," and again
-recognized the music. He subsequently sued the three Gibb brothers;
-Paramount Pictures Corporation, which made and distributed the movie;
-and Phonodisc, Inc., now known as Polygram Distribution, Inc., which
-made and distributed the cassette tape of "How Deep Is Your Love."
+the Bee Gees' song, "How Deep Is Your Love," in May 1978 
+and thought that he recognized the music as his own, 
+although the lyrics were different. 
+He also saw the movie, "Saturday Night Fever," 
+the sound track of which features the song 
+"How Deep Is Your Love," 
+and again recognized the music. 
+He subsequently sued the three Gibb brothers;
+Paramount Pictures Corporation, 
+which made and distributed the movie;
+and Phonodisc, Inc., now known as Polygram Distribution, Inc., 
+which made and distributed the cassette tape of 
+"How Deep Is Your Love."
 
-The Bee Gees are internationally known performers and creators of
-popular music. They have composed more than 160 songs;  their
-sheet music, records and tapes have been distributed worldwide, some of
-the albums selling more than 30 million copies. The Bee Gees, however,
-do not themselves read or write music. In composing a song, their
-practice was to tape a tune, which members of their staff would later
-transcribe and reduce to a form suitable for copyrighting, sale and
-performance by both the Bee Gees and others.
+The Bee Gees are internationally known performers 
+and creators of popular music. 
+They have composed more than 160 songs;  
+their sheet music, records and tapes 
+have been distributed worldwide, 
+some of the albums selling more than 30 million copies. 
+The Bee Gees, however, do not themselves read or write music. 
+In composing a song, their practice was to tape a tune, 
+which members of their staff 
+would later transcribe and reduce to a form 
+suitable for copyrighting, 
+sale and performance by both the Bee Gees and others.
 
-In addition to their own testimony at trial, the Bee Gees presented
-testimony by their manager, Dick Ashby, and two musicians, Albhy Galuten
-and Blue Weaver, who were on the Bee Gees' staff at the time "How Deep
-Is Your Love" was composed. These witnesses described in detail how, in
-January 1977, the Bee Gees and several members of their staff went to a
-recording studio in the Chateau d'Herouville about 25 miles northwest of
-Paris. There the group composed at least six new songs and mixed a live
-album. Barry Gibb's testimony included a detailed explanation of a work
-tape which was introduced into evidence and played in court. This tape
-preserves the actual process of creation during which the brothers, and
-particularly Barry, created the tune of the accused song while Weaver, a
-keyboard player, played the tune which was hummed or sung by the
-brothers. Although the tape does not seem to preserve the very beginning
-of the process of creation, it does depict the process by which ideas,
+In addition to their own testimony at trial, 
+the Bee Gees presented testimony 
+by their manager, Dick Ashby, 
+and two musicians, Albhy Galuten and Blue Weaver, 
+who were on the Bee Gees' staff 
+at the time "How Deep Is Your Love" was composed. 
+These witnesses described in detail how, 
+in January 1977, 
+the Bee Gees and several members of their staff 
+went to a recording studio in the Chateau d'Herouville 
+about 25 miles northwest of Paris. 
+There the group composed at least six new songs 
+and mixed a live album. 
+Barry Gibb's testimony 
+included a detailed explanation of a work tape 
+which was introduced into evidence and played in court. 
+This tape preserves the actual process of creation 
+during which the brothers, 
+and particularly Barry, 
+created the tune of the accused song while Weaver, 
+a keyboard player, 
+played the tune which was hummed or sung 
+by the brothers. 
+Although the tape does not seem to preserve the very beginning
+of the process of creation, 
+it does depict the process by which ideas,
 notes, lyrics and bits of the tune were gradually put together.
 
-Following completion of this work tape, a demo tape was made. The work
-tape, demo tape and a vocal-piano version taken from the demo tape are
-all in the key of E flat. Lead sheet music, dated March 6, 1977, is in
-the key of E. On March 7, 1977, a lead sheet of "How Deep Is Your Love"
-was filed for issuance of a United States copyright, and in November
-1977, a piano-vocal arrangement was filed in the Copyright Office.
+Following completion of this work tape, 
+a demo tape was made. 
+The work tape, demo tape and a vocal-piano version 
+taken from the demo tape are all in the key of E flat. 
+Lead sheet music, dated March 6, 1977, is in the key of E. 
+On March 7, 1977, 
+a lead sheet of "How Deep Is Your Love"
+was filed for issuance of a United States copyright, 
+and in November 1977, 
+a piano-vocal arrangement was filed in the Copyright Office.
 
-The only expert witness to testify at trial was Arrand Parsons, a
-professor of music at Northwestern University who has had extensive
-professional experience primarily in classical music. He has been a
-program annotator for the Chicago Symphony Orchestra and the New Orleans
-Symphony Orchestra and has authored works about musical theory. Prior to
-this case, however, he had never made a comparative analysis of two
-popular songs. Dr. Parsons testified on the basis of several charts
-comparing the musical notes of each song and a comparative recording
-prepared under his direction.
+The only expert witness to testify at trial was Arrand Parsons, 
+a professor of music at Northwestern University 
+who has had extensive professional experience primarily in classical music. He has been a program annotator for the Chicago Symphony Orchestra 
+and the New Orleans Symphony Orchestra 
+and has authored works about musical theory. 
+Prior to this case, however, 
+he had never made a comparative analysis of two popular songs. 
+Dr. Parsons testified on the basis of several charts
+comparing the musical notes of each song 
+and a comparative recording prepared under his direction.
 
-According to Dr. Parsons' testimony, the first eight bars of each song
-(Theme A) have twenty-four of thirty-four notes in plaintiff's
-composition and twenty-four of forty notes in defendants' composition
-which are identical in pitch and symmetrical position. Of thirty-five
-rhythmic impulses in plaintiff's composition and forty in defendants',
-thirty are identical. In the last four bars of both songs (Theme B),
-fourteen notes in each are identical in pitch, and eleven of the
-fourteen rhythmic impulses are identical. Both Theme A and Theme B
-appear in the same position in each song but with different intervening
-material.
+According to Dr. Parsons' testimony, 
+the first eight bars of each song (Theme A) 
+have twenty-four of thirty-four notes in plaintiff's composition 
+and twenty-four of forty notes in defendants' composition
+which are identical in pitch and symmetrical position. 
+Of thirty-five rhythmic impulses in plaintiff's composition 
+and forty in defendants', thirty are identical. 
+In the last four bars of both songs (Theme B),
+fourteen notes in each are identical in pitch, 
+and eleven of the fourteen rhythmic impulses are identical. 
+Both Theme A and Theme B appear in the same position 
+in each song but with different intervening material.
 
-Dr. Parsons testified that, in his opinion, "the two songs had such
-striking similarities that they could not have been written independent
-of one another." He also testified that he did not know of two
-songs by different composers "that contain as many striking
-similarities" as do the two songs at issue here. However, on several
-occasions, he declined to say that the similarities could only have
-resulted from copying.
+Dr. Parsons testified that, in his opinion, 
+"the two songs had such striking similarities 
+that they could not have been written independent of one another." 
+He also testified 
+that he did not know of two songs by different composers 
+"that contain as many striking similarities" 
+as do the two songs at issue here. 
+However, on several occasions, 
+he declined to say that the similarities 
+could only have resulted from copying.
 
-Following presentation of the case, the jury returned a verdict for the
-plaintiff on the issue of liability, the only question presented to the
-jury. Judge Leighton, however, granted the defendants' motion for
-judgment notwithstanding the verdict and, in the alternative, for a new
-trial. He relied primarily on the plaintiff's inability to demonstrate
-that the defendants had access to the plaintiff's song, without which a
-claim of copyright infringement could not prevail regardless how similar
- the two compositions are. Further, the plaintiff failed to
-contradict or refute the testimony of the defendants and their witnesses
-describing the independent creation process of "How Deep Is Your Love."
-Finally, Judge Leighton concluded that "the inferences on which
-plaintiff relies is not a logical, permissible deduction from proof of
-'striking similarity' or substantial similarity; it is 'at war with
+Following presentation of the case, 
+the jury returned a verdict for Selle on the issue of liability, 
+the only question presented to the jury. 
+Judge Leighton [awarded judgement to the BeeGees instead]. 
+
+The Judge relied primarily 
+on the Selle's inability to demonstrate 
+that the Bee Gees had access to Selle's song, 
+without which a claim of copyright infringement 
+could not prevail 
+regardless how similar 
+the two compositions are. 
+Further, Selle failed 
+to contradict or refute the testimony of the Bee Gees 
+and their witnesses 
+describing the independent creation process 
+of "How Deep Is Your Love."
+Finally, Judge Leighton concluded that 
+"the inferences on which plaintiff relies 
+is not a logical, permissible deduction 
+from proof of 'striking similarity' 
+or substantial similarity; it is 'at war with
 the undisputed facts,' and it is inconsistent with the proof of
-nonaccess to plaintiff's song by the Bee Gees at the time in question."
-[567 F.Supp. at
-1183](http://scholar.google.com/scholar_case?case=11567908603789103293).
-
-## II
-
-Both we and the district court must be reluctant to remove an issue from
-the purview of the jury on either a directed verdict or a judgment
-notwithstanding the verdict. Nonetheless, we have a duty to determine
-whether there is sufficient evidence to support the position of the
-nonmoving party, in this case, the plaintiff. The standards applicable
-to a motion for judgment notwithstanding the verdict and to a directed
-verdict are, of course, the same. All the evidence, taken as a whole,
-must be viewed in the light most favorable to the nonmoving party. This
-evidence must provide a sufficient basis from which the jury could have
-reasonably reached a verdict without speculation or drawing unreasonable
-inferences which conflict with the undisputed facts (citations omitted). 
-
-## III
-
-Selle's primary contention on this appeal is that the district court
-misunderstood the theory of proof of copyright infringement on which he
-based his claim. Under this theory, copyright infringement can be
-demonstrated when, even in the absence of any direct evidence of access,
-the two pieces in question are so strikingly similar that access can be
-inferred from such similarity alone. Selle argues that the testimony of
-his expert witness, Dr. Parsons, was sufficient evidence of such
-striking similarity that it was permissible for the jury, even in the
-absence of any other evidence concerning access, to infer that the Bee
-Gees had access to plaintiff's song and indeed copied it.
+nonaccess to Selle's song by the Bee Gees at the time in question.&hellip;"
 
 In establishing a claim of copyright infringement of a musical
 composition, the plaintiff must prove:
@@ -444,78 +463,99 @@ composition, the plaintiff must prove:
 4. a substantial degree of similarity between the two works. 
 
 The only element which is at issue
-in this appeal is proof of copying; the first two elements are
-essentially conceded, while the fourth (substantial similarity) is, at
-least in these circumstances, closely related to the third element under
+in this appeal is proof of copying; 
+the first two elements are essentially conceded, 
+while the fourth (substantial similarity) is, at
+least in these circumstances, 
+closely related to the third element under
 plaintiff's theory of the case.
 
-Proof of copying is crucial to any claim of copyright infringement
-because no matter how similar the two works may be (even to the point of
-identity), if the defendant did not copy the accused work, there is no
-infringement.&hellip;  However,
-because direct evidence of copying is rarely available, the plaintiff
-can rely upon circumstantial evidence to prove this essential element,
-and the most important component of this sort of circumstantial evidence
-is proof of access.&hellip; The plaintiff may be
-able to introduce direct evidence of access when, for example, the work
-was sent directly to the defendant (whether a musician or a publishing
-company) or a close associate of the defendant. On the other hand, the
-plaintiff may be able to establish a reasonable possibility of access
-when, for example, the complaining work has been widely disseminated to
-the public.&hellip; 
+Proof of copying is crucial 
+to any claim of copyright infringement
+because no matter how similar the two works may be 
+(even to the point of identity), 
+if the defendant did not copy the accused work, 
+there is no infringement.&hellip; 
+However, 
+because direct evidence of copying is rarely available, 
+the plaintiff can rely upon circumstantial evidence 
+to prove this essential element,
+and the most important component 
+of this sort of circumstantial evidence is proof of access.&hellip; 
+The plaintiff may be able 
+to introduce direct evidence of access when, 
+for example, the work was sent directly to the defendant 
+(whether a musician or a publishing company) 
+or a close associate of the defendant. 
+On the other hand, the plaintiff may be able to establish a reasonable possibility of access when, for example, 
+the complaining work has been widely disseminated to the public.&hellip; 
 
-If, however, the plaintiff does not have direct evidence of access, then
-an inference of access may still be established circumstantially by
-proof of similarity which is so striking that the possibilities of
-independent creation, coincidence and prior common source are, as a
-practical matter, precluded. If the plaintiff presents evidence of
-striking similarity sufficient to raise an inference of access, then
-copying is presumably proved simultaneously, although the fourth element
-(substantial similarity) still requires proof that the defendant copied
-a substantial amount of the complaining work. The theory which Selle
-attempts to apply to this case is based on proof of copying by
-circumstantial proof of access established by striking similarity
-between the two works.
+If, however, 
+the plaintiff does not have direct evidence of access, 
+then an inference of access 
+may still be established circumstantially 
+by proof of similarity which is so striking 
+that the possibilities of independent creation, 
+coincidence and prior common source are, 
+as a practical matter, precluded. 
+If the plaintiff presents evidence of striking similarity 
+sufficient to raise an inference of access, 
+then copying is presumably proved simultaneously, 
+although the fourth element (substantial similarity) 
+still requires proof that the defendant copied
+a substantial amount of the complaining work. 
+The theory which Selle attempts to apply to this case 
+is based on proof of copying 
+by circumstantial proof of access 
+established by striking similarity between the two works.
 
-One difficulty with plaintiff's theory is that no matter how great the
-similarity between the two works, it is not their similarity *per se*
-which establishes access; rather, their similarity tends to prove access
-in light of the nature of the works, the particular musical genre
-involved and other circumstantial evidence of access. In other words,
-striking similarity is just one piece of circumstantial evidence tending
-to show access and must not be considered in isolation; it must be
-considered together with other types of circumstantial evidence relating
-to access.
+One difficulty with plaintiff's theory 
+is that no matter how great the similarity 
+between the two works, 
+it is not their similarity *per se*
+which establishes access; 
+rather, their similarity tends to prove access
+in light of the nature of the works, 
+the particular musical genre involved 
+and other circumstantial evidence of access. 
+In other words,
+striking similarity is just one piece of circumstantial evidence 
+tending to show access 
+and must not be considered in isolation; 
+it must be considered together 
+with other types of circumstantial evidence 
+relating to access.
 
-As a threshold matter, therefore, it would appear that there must be at
-least some other evidence which would establish a reasonable possibility
-that the complaining work was *available* to the alleged infringer. As
-noted, two works may be identical in every detail, but, if the alleged
-infringer created the accused work independently or both works were
-copied from a common source in the public domain, then there is no
-infringement. Therefore, if the plaintiff admits to having kept his or
-her creation under lock and key, it would seem logically impossible to
-infer access through striking similarity. Thus, although it has
-frequently been written that striking similarity *alone* can establish
-access, the decided cases suggest that this circumstance would be most
-unusual. The plaintiff must always present sufficient evidence to
-support a reasonable possibility of access because the jury cannot draw
-an inference of access based upon speculation and conjecture alone.&hellip; 
+As a threshold matter, therefore, 
+it would appear that there must be at least some other evidence 
+which would establish a reasonable possibility
+that the complaining work 
+was *available* to the alleged infringer. 
+As noted, two works may be identical in every detail, 
+but, if the alleged infringer 
+created the accused work independently 
+or both works were copied from a common source 
+in the public domain, 
+then there is no infringement. 
+Therefore, if the plaintiff admits 
+to having kept his or her creation under lock and key, 
+it would seem logically impossible to infer access 
+through striking similarity. 
+Thus, although it has frequently been written 
+that striking similarity *alone* can establish access, 
+the decided cases suggest 
+that this circumstance would be most unusual. 
+The plaintiff must always present sufficient evidence 
+to support a reasonable possibility of access 
+because the jury cannot draw an inference of access 
+based upon speculation and conjecture alone.&hellip; 
 
-The greatest difficulty perhaps arises when the plaintiff cannot
-demonstrate any direct link between the complaining work and the
-defendant but the work has been so widely disseminated that it is not
-unreasonable to infer that the defendant might have had access to it.&hellip; 
-
-In granting the defendants' motion for judgment notwithstanding the
-verdict, Judge Leighton relied primarily on the plaintiff's failure to
-adduce any evidence of access and stated that an inference of access may
+In granting [judgement for the Bee Gees] 
+Judge Leighton relied primarily on Selle's failure 
+to adduce any evidence of access 
+and stated that an inference of access may
 not be based on mere conjecture, speculation or a bare possibility of
-access. [567 F.Supp. at 1181](http://scholar.google.com/scholar_case?case=11567908603789103293).
-
-Thus, in [*Testa v. Janssen,* (W.D.Pa.
-1980),](http://scholar.google.com/scholar_case?case=11105954636820891332)
-the court stated that:
+access. 
 
 > To support a finding of access, 
 > plaintiffs' evidence must extend beyond mere speculation or conjecture. 
@@ -524,23 +564,23 @@ the court stated that:
 > by a reasonable possibility — not a bare possibility. 
 
 Judge Leighton thus based his decision 
-on what he characterized as the plaintiff's inability 
+on what he characterized as Selle's inability 
 to raise more than speculation that the Bee Gees
 had access to his song. 
-The extensive testimony of the defendants 
+The extensive testimony of the Bee Gees 
 and their witnesses describing the creation process 
 went essentially uncontradicted, 
 and there was no attempt even to impeach their credibility. 
 Judge Leighton further relied on the principle 
 that the testimony of credible witnesses 
 concerning a matter within their knowledge 
-cannot be rejected 
-without some impeachment, contradiction or inconsistency 
+cannot be rejected without some impeachment, 
+contradiction or inconsistency 
 with other evidence on the particular point at issue.&hellip; 
 
 Judge Leighton's conclusions 
 that there was no more than a bare possibility 
-that the defendants could have had access to Selle's song
+that the Bee Gees could have had access to Selle's song
 and that this was an insufficient basis 
 from which the jury could have reasonably inferred 
 the existence of access seem correct. 
@@ -551,16 +591,7 @@ F.Supp. at 1183](http://scholar.google.com/scholar_case?case=1156790860378910329
 
 ## IV
 
-The grant of the motion for judgment notwithstanding the verdict 
-might, if we were so minded, 
-be affirmed on the basis of the preceding analysis
-of the plaintiff's inability 
-to establish a reasonable inference of access. 
-This decision is also supported by a more traditional analysis
-of proof of access based only on the proof of "striking similarity"
-between the two compositions. The plaintiff relies almost exclusively on
-the testimony of his expert witness, Dr. Parsons, that the two pieces
-were, in fact, "strikingly similar." Yet formulating a
+Formulating a
 meaningful definition of "striking similarity" is no simple task, and
 the term is often used in a conclusory or circular fashion.
 
@@ -576,25 +607,7 @@ that the defendant independently arrived at the same result." Nimmer,
 identical notes that appear in both compositions.&hellip; 
 An important factor in analyzing the degree of similarity 
 of two compositions is the uniqueness of the sections 
-which are asserted to be similar.
-
-If the complaining work contains an unexpected departure from the normal
-metric structure or if the complaining work includes what appears to be
-an error and the accused work repeats the unexpected element or the
-error, then it is more likely that there is some connection between the
-pieces.&hellip; If the similar sections are particularly intricate, then again it would
-seem more likely that the compositions are related. Finally, some
-dissimilarities may be particularly suspicious. *See, e.g.,* [*Meier Co.
-v. Albany Novelty Manufacturing Co.,* 236 F.2d 144, 146 (2d
-Cir.1956)](http://scholar.google.com/scholar_case?case=16559343953483366400)
-(inversion and substitution of certain words in a catalogue in a "crude
-effort to give the appearance of dissimilarity" are themselves evidence
-of copying); [*Blume v. Spear,* 30 F. 629, 631
-(S.D.N.Y.1887)](http://scholar.google.com/scholar_case?about=6177442844615693296)
-(variations in infringing song were placed so as to indicate deliberate
-copying); Sherman, *Musical Copyright Infringement,* at 84-88. While
-some of these concepts are borrowed from literary copyright analysis,
-they would seem equally applicable to an analysis of music.
+which are asserted to be similar.&hellip; 
 
 The judicially formulated definition of "striking similarity" states
 that "plaintiffs must demonstrate that 'such similarities are of a kind
@@ -613,84 +626,6 @@ Sherman, *Musical Copyright Infringement,* at 96.
 Finally, the similarities should appear in a sufficiently unique or
 complex context as to make it unlikely that both pieces were copied from
 a prior common source.&hellip; 
-
-As noted, the plaintiff relies almost entirely on the testimony of his
-expert witness, Dr. Arrand Parsons. The defendants did not introduce any
-expert testimony, apparently because they did not think Parsons'
-testimony needed to be refuted. Defendants are perhaps to some degree
-correct in asserting that Parsons, although eminently qualified in the
-field of classical music theory, was not equally qualified to analyze
-popular music tunes.  More significantly, however, although
-Parsons used the magic formula, "striking similarity," he only ruled out
-the possibility of independent creation; he did not state that the
-similarities could only be the result of copying. In order for proof of
-"striking similarity" to establish a reasonable inference of access,
-especially in a case such as this one in which the direct proof of
-access is so minimal, the plaintiff must show that the similarity is of
-a type which will preclude any explanation other than that of copying.
-
-In addition, to bolster the expert's conclusion that independent
-creation was not possible, there should be some testimony or other
-evidence of the relative complexity or uniqueness of the two
-compositions. Dr. Parsons' testimony did not refer to this aspect of the
-compositions and, in a field such as that of popular music in which all
-songs are relatively short and tend to build on or repeat a basic theme,
-such testimony would seem to be particularly necessary. We agree with
-the Sixth Circuit which explained that "we do not think the affidavit of
-[the expert witness], stating in conclusory terms that 'it is extremely
-unlikely that one set [of architectural plans] could have been prepared
-without access to the other set,' can fill the gap which is created by
-the absence of any direct evidence of access." [*Scholz Homes, Inc. v.
-Maddox* (6th Cir. 1967)](http://scholar.google.com/scholar_case?case=13045021094752392802).
-
-To illustrate this deficiency more concretely, we refer to a cassette
-tape &hellip; and the accompanying chart.&hellip; These exhibits were prepared by the defendants but introduced into evidence by the plaintiff. The tape has recorded on it
-segments of both themes from both the Selle and the Gibb songs
-interspersed with segments of other compositions as diverse as
-"Footsteps," "From Me To You" (a Lennon-McCartney piece), Beethoven's
-5th Symphony, "Funny Talk," "Play Down," and "I'd Like To Leave If I
-May" (the last two being earlier compositions by Barry
-Gibb). There are at least superficial similarities among
-these segments, when played on the same musical instrument, and the
-plaintiff failed to elicit any testimony from his expert witness about
-this exhibit which compared the Selle and the Gibb songs to other pieces
-of contemporary, popular music. These circumstances indicate that the
-plaintiff failed to sustain his burden of proof on the issue of
-"striking similarity" in its legal sense — that is, similarity which
-reasonably precludes the possibility of any explanation other than that
-of copying.
-
-The plaintiff's expert witness does not seem to have addressed any
-issues relating to the possibility of prior common source in both widely
-disseminated popular songs and the defendants' own compositions. At oral
-argument, plaintiff's attorney stated that the burden of proving common
-source should be on the defendant; however, the burden of proving
-"striking similarity," which, by definition, includes taking steps to
-minimize the possibility of common source, is on the plaintiff. In
-essence, the plaintiff failed to prove to the requisite degree that the
-similarities identified by the expert witness — although perhaps
-"striking" in a non-legal sense — were of a type which would eliminate
-any explanation of coincidence, independent creation or common source,
-including, in this case, the possibility of common source in earlier
-compositions created by the Bee Gees themselves or by others. In sum,
-the evidence of striking similarity is not sufficiently compelling to
-make the case when the proof of access must otherwise depend largely
-upon speculation and conjecture.
-
-Therefore, because the plaintiff failed both to establish a basis from
-which the jury could reasonably infer that the Bee Gees had access to
-his song and to meet his burden of proving "striking similarity" between
-the two compositions, the grant by the district court of the defendants'
-motion for judgment notwithstanding the verdict is  affirmed.
-
-> At oral argument, plaintiff's attorney analyzed the degree
-of similarity required to establish an inference of access as being in
-an inverse ratio to the quantum of direct evidence adduced to establish
-access. While we have found no authoritative support for this analysis,
-it seems appropriate. In this case, it would therefore appear that,
-because the plaintiff has introduced virtually no direct evidence of
-access, the degree of similarity required to establish copying in this
-case is considerable.
 
 #### NOTES *Selle v. Gibb,* (7th Cir. 1984)
 
@@ -725,7 +660,8 @@ or that both copies are based on a common source in the public domain.
 > then there is no infringement. 
 > Therefore, if the plaintiff admits 
 > to having kept his or her creation under lock and key, 
-> it would seem logically impossible to infer access through striking similarity. 
+> it would seem logically impossible 
+> to infer access through striking similarity. 
 > Thus, although it has frequently been written 
 > that striking similarity alone can establish access, 
 > the decided cases suggest that this circumstance would be most unusual. 
@@ -768,7 +704,8 @@ Instead, Judge Hand formulated "the abstractions test":
 > Nobody has ever been able to fix that boundary, 
 > and nobody ever can. 
 > In some cases the question has been treated 
-> as though it were analogous to lifting a portion out of the copyrighted work; 
+> as though it were analogous 
+> to lifting a portion out of the copyrighted work; 
 > but the analogy is not a good one, 
 > because though the skeleton is a part of the body, 
 > it pervades and supports the whole. 
@@ -782,38 +719,50 @@ We can see a similar analysis applied in the following case.
 ###### US District Court, SD New York (1992)
 
 * [Case on Google Scholar](http://scholar.google.com/scholar_case?case=10458144340320727499)
-* [Case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=820+F.+Supp.+722&appflag=67.12). 
 
 MUKASEY, District Judge.
 
-In these copyright infringement actions, plaintiff Henry Denker, author
-of the novel *Horowitz and Mrs. Washington* and the play of the same
-title, sues defendant Alfred Uhry, author of the play *Driving Miss
-Daisy* and the screenplay of the same title, and others involved in the
-production and distribution of the play and film versions of *Driving
-Miss Daisy.* Defendants have moved jointly for summary judgment on the
-issue of improper appropriation. For the reasons set forth below,
+In these copyright infringement actions, 
+plaintiff Henry Denker, 
+author of the novel *Horowitz and Mrs. Washington* 
+and the play of the same title, 
+sues defendant Alfred Uhry, 
+author of the play *Driving Miss Daisy* 
+and the screenplay of the same title, 
+and others involved in the production 
+and distribution of the play 
+and film versions of *Driving Miss Daisy.* 
+Defendants have moved jointly 
+for summary judgment on the issue of improper appropriation. 
+For the reasons set forth below,
 defendants' motion is granted.
 
 #### I.
 
-Plaintiff is a respected and prolific author. He has written 24 novels,
-more than 1,000 scripts for radio and television, screenplays for three
-feature films and teleplays for 12 network specials. Seven of his plays
-have been produced on Broadway and two at the  Kennedy Center
-for Performing Arts in Washington D.C. Plaintiff's *Horowitz and Mrs.
-Washington,* the subject of these lawsuits, originally was published as
-a novel in 1979 by G.P. Putnam's Sons and then as a condensed book by
-Reader's Digest in 1980. Later rewritten for the stage, *Horowitz and
-Mrs. Washington* had a run of seven performances at the Joshua Golden
+Plaintiff is a respected and prolific author. 
+He has written 24 novels,
+more than 1,000 scripts for radio and television, 
+screenplays for three feature films 
+and teleplays for 12 network specials. 
+Seven of his plays have been produced on Broadway 
+and two at the Kennedy Center for Performing Arts in Washington D.C. Plaintiff's *Horowitz and Mrs. Washington,* 
+the subject of these lawsuits, 
+originally was published as a novel in 1979 
+by G.P. Putnam's Sons 
+and then as a condensed book by Reader's Digest in 1980. 
+Later rewritten for the stage, 
+*Horowitz and Mrs. Washington* 
+had a run of seven performances at the Joshua Golden
 Theater on Broadway in April 1980.
 
-Alfred Uhry, a defendant in both actions, has been writing lyrics, plays
-and screenplays since 1958. *Driving Miss Daisy,* his Pulitzer Prize
-winning play, first was produced in New York by defendant Playwrights
-Horizons in 1987&hellip; Adapted for the screen
-by Uhry in 1988, *Driving Miss Daisy* won four Academy Awards including
-Best Picture and Best Screenplay&hellip;
+Alfred Uhry, a defendant in both actions, 
+has been writing lyrics, plays and screenplays since 1958. 
+*Driving Miss Daisy,* his Pulitzer Prize winning play, 
+first was produced in New York 
+by defendant Playwrights Horizons in 1987&hellip; 
+Adapted for the screen by Uhry in 1988, 
+*Driving Miss Daisy* won four Academy Awards 
+including Best Picture and Best Screenplay&hellip;
 
 #### A. *Horowitz and Mrs. Washington*
 
@@ -831,15 +780,16 @@ outset that he believes, notwithstanding his doctor's insistence to the
 contrary, that his stroke was precipitated by an earlier mugging at the
 hands of a gang of "black bastards," and that his doorman, Juan, who
 refuses to accept a tip because of Horowitz's illness, is really a
-"[s]hrewd little Puerto Rican ... set[ting him] up for bigger tips."
+"[s]hrewd little Puerto Rican &hellip; setting him up for bigger tips."
 
 Upon arriving at his apartment, Horowitz is horrified to learn that
 Marvin and his sister Mona Fields have hired Harriet Washington, a
-"schvartzer," to assist in his rehabilitation. "You
-can't trust them!" he warns his son. "They mug me, slash me, give me a
-stroke...." Marvin, however, is
-adamant, and Horowitz relents when he learns the alternative is a
-nursing home.
+"schvartzer," to assist in his rehabilitation. 
+"You can't trust them!" he warns his son. 
+"They mug me, slash me, give me a stroke &hellip; " 
+Marvin, however, is adamant, 
+and Horowitz relents 
+when he learns the alternative is a nursing home.
 
 The next few sequences in both novel and play depict Mrs. Washington's
 patient but firm attempts to overcome Horowitz's hostility and proceed
@@ -853,8 +803,6 @@ by the following exchange from the play&hellip;
 > WASHINGTON: Lift your foot like this. Didn't they teach you at the
 > hospital?
 
-> \* \* \*
-
 > HOROWITZ: And if I try I'll be able to dance in the ballet? (He barely
 > raises it.) There! Better?
 
@@ -862,8 +810,6 @@ by the following exchange from the play&hellip;
 
 > HOROWITZ: Tell me, my dear Mrs. Washington, you ever had the ambition
 > to run a concentration camp?
-
-> \* \* \*
 
 > WASHINGTON: Tomorrow will be better. And now for your occupational
 > therapy.
@@ -876,9 +822,11 @@ by the following exchange from the play&hellip;
 
 > HOROWITZ: There is nothing worse than an educated negro.
 
-Despite Horowitz's offensive manner, Mrs.
-Washington refuses to quit because the job allows her to help her
-widowed daughter who is raising two children.
+Despite Horowitz's offensive manner, 
+Mrs. Washington refuses to quit 
+because the job allows her 
+to help her widowed daughter 
+who is raising two children.
 
 As the novel and play progress, Horowitz increasingly is impressed by
 Mrs. Washington's integrity and determination, and his attitude towards
@@ -915,8 +863,7 @@ A week later, Conrad is stabbed. In the novel, Horowitz rushes to Harlem
 Hospital, assuming that Conrad was injured in the course of a drug deal.
 There he finds Mrs. Washington, sitting on a chair next to Conrad's bed,
 crying. In a rage, Horowitz calls the boy an "animal" who "belongs in a
-cage."&hellip; In both novel and play, the scene ends with Mrs. Washington telling
-Horowitz that Conrad was stabbed when two men attempted to steal the
+cage."&hellip; In both novel and play, the scene ends with Mrs. Washington telling Horowitz that Conrad was stabbed when two men attempted to steal the
 gold coin. In the novel, Horowitz apologizes. In the
 play, Mrs. Washington storms out in anger. 
 
@@ -1069,8 +1016,6 @@ feeding it to her.
 
 #### II.
 
-\* \* \*
-
 #### A. *Theme*
 
 The summary judgment standard is easier stated than applied. There is no
@@ -1165,7 +1110,7 @@ are not similarities at all.
 Plaintiff points out that each of the works opens with an "accident"
 befalling the main character. Notwithstanding plaintiff's recommendation
 that the Court "take judicial notice of the common use of the term
-\`cerebral accident' to refer to a stroke", to
+'cerebral accident' to refer to a stroke", to
 claim that the events are similar in that both are "accidents" is less
 an argument than a pun; the events are distinct not only as expression
 but also in the ideas they express. Horowitz is mugged and subsequently
@@ -1190,15 +1135,8 @@ despite an ice storm and hazardous driving conditions. Although
 plaintiff is correct in the sense that in both works the helper
 demonstrates loyalty by traveling to work at some personal risk, such
 generalized plot devices, like the so-called "accidents" discussed
-above, are not entitled to copyright protection. In [*Smith v.
-Weinstein,* (S.D.N.Y)](http://scholar.google.com/scholar_case?case=12415086356592717983).),
-*aff'd without op.,* [(2d Cir. 1984),](http://scholar.google.com/scholar_case?about=14278387849317213525)
-both plaintiff's screenplay and defendant's allegedly infringing movie
-included scenes wherein convicts escaped during a rodeo. In granting
-summary judgment for defendant, Judge Sofaer reasoned that "the
-development of the rodeo as an escape vehicle is protectible, but only
-at a level that particularizes the general into characters, details, and
-events." [*Id*](http://scholar.google.com/scholar_case?case=12415086356592717983).
+above, are not entitled to copyright protection.&hellip; 
+
 Here defendant Uhry's use of a plot device that differs as to
 "characters, details, and events" does not amount to infringement.
 Plaintiff is not entitled to copyright protection for all instances of
@@ -1244,20 +1182,20 @@ Washington retorts: "And the blackest?" Again, although plaintiff may
 have established that the works used like themes or ideas, here the
 helper's previous exposure to Jews and Judaism, the expression differs.
 
-The remainder of the similarities alleged by plaintiff involve *scenes a
-faire*—incidents or events that necessarily follow from a common theme
-or setting. It is well-accepted
-that copyright protection, does not extend "to \`stock' themes commonly
+The remainder of the similarities alleged by plaintiff 
+involve *scenes a faire*---
+incidents or events that necessarily follow 
+from a common theme or setting. 
+It is well-accepted that copyright protection, 
+does not extend "to 'stock' themes commonly
 linked to a particular genre." [*Walker*](http://scholar.google.com/scholar_case?case=16443246039845209842)&hellip;
 
-\* \* \*
-
-Because, based on the differences discussed above, no reasonable juror
-could find the works substantially similar and because the few
-similarities between *Horowitz and Mrs. Washington* and *Driving Miss
-Daisy* involve non-copyrightable elements of plaintiff's work, summary
-judgment on the issue of improper appropriation of the work as a whole
-is warranted. 
+Because, based on the differences discussed above, 
+no reasonable juror could find the works substantially similar 
+and &hellip; the few similarities 
+between *Horowitz and Mrs. Washington* 
+and *Driving Miss Daisy* 
+involve non-copyrightable elements of plaintiff's work.&hellip; 
 
 #### D. *Characters*
 
@@ -1274,9 +1212,12 @@ distinguished  from uncopyrightable ideas or *scenes a faire,*
 concepts which themselves resist precise definition or easy application&hellip;
 
 Plaintiff contends that the following characters are substantially
-similar: (1) Daisy Werthan and Samuel Horowitz; (2) Hoke Coleburn and
-Harriet Washington; (3) Boolie Werthan and Marvin Hammond; and (4)
-Florine Werthan and Mona Fields.
+similar: 
+
+1. Daisy Werthan and Samuel Horowitz; 
+2. Hoke Coleburn and Harriet Washington; 
+3. Boolie Werthan and Marvin Hammond; and 
+4. Florine Werthan and Mona Fields.
 
 Daisy and Horowitz share certain traits. Elderly, Jewish and
 strong-willed, they both mistrust their black helpers and actively
@@ -1311,17 +1252,13 @@ to by plaintiff—that they both are black, are hired to render assistance
 to an elderly Jewish person, develop a friendship with their employer
 and refer to having some kind of relationship with their children and
 grandchildren—are broad, unprotectible character outlines; they mark
-where the similarities end
-
-\* \* \*
+where the similarities end.&hellip; 
 
 Because plaintiff has not established any similarities between the
 characters in *Horowitz and Mrs. Washington* and the characters in
 *Driving Miss Daisy* beyond unprotectible ideas and broad character
 outlines, summary judgment on the issue of infringement of characters is
 appropriate.
-
-\* \* \*
 
 For the reasons stated above, summary judgment in both actions is
 warranted on the issue of improper appropriation, and the complaints are
@@ -1386,7 +1323,8 @@ Ford published *A Time to Heal: The Autobiography of Gerald R. Ford.*
 and was marketed in part as Ford's chance to explain his decision to pardon Nixon. 
 
 In March 1979, 
-weeks before Ford's publisher *Harper & Row* planned to publish *A Time To Heal,* 
+weeks before Ford's publisher *Harper & Row* 
+planned to publish *A Time To Heal,* 
 an undisclosed source provided The Nation Magazine 
 with Ford's unpublished manuscript. 
 
@@ -1462,7 +1400,6 @@ The Court found that "this last factor is undoubtedly the single most important 
 ###### United States Supreme Court (1994)
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=16686162998040575773)
-* [case at Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=510us569&appflag=67.12).
 * [case at Wikipedia](http://en.wikipedia.org/wiki/Campbell_v._Acuff-Rose_Music,_Inc.). 
 
 JUSTICE SOUTER delivered the opinion of the Court.
@@ -1587,24 +1524,30 @@ U.S. Const., Art. I, § 8, cl. 8.
 
 For as Justice Story explained:
 
-> In truth, in literature, in science and in art, there are,
-and can be, few, if any, things, which in an abstract sense, are
-strictly new and original throughout. Every book in literature, science
-and art, borrows, and must necessarily borrow, and use much which was
-well known and used before. 
+> In truth, in literature, in science and in art, 
+> there are, and can be, few, if any, things, 
+> which in an abstract sense, 
+> are strictly new and original throughout. 
+> Every book in literature, science and art, 
+> borrows, and must necessarily borrow, 
+> and use much which was well known and used before. 
 
-In [*Folsom* v. *Marsh,* (CCD Mass.  1841),](http://scholar.google.com/scholar_case?about=4495747226837550380) Justice Story distilled the essence of law and methodology from the
-earlier cases: 
+In [*Folsom* v. *Marsh,* (CCD Mass.  1841),](http://scholar.google.com/scholar_case?about=4495747226837550380) 
+Justice Story distilled the essence 
+of law and methodology from the earlier cases: 
 
 > look to the nature and objects of the selections made,
-the quantity and value of the materials used, and the degree in which
-the use may prejudice the sale, or diminish the profits, or supersede
-the objects, of the original work.
+> the quantity and value of the materials used, 
+> and the degree in which 
+> the use may prejudice the sale, 
+> or diminish the profits, 
+> or supersede the objects, 
+> of the original work.
 
-Thus expressed, fair
-use remained exclusively judge-made doctrine until the passage of the
-1976 Copyright Act, in which Justice Story's summary is
-discernible:
+Thus expressed, 
+fair use remained exclusively judge-made doctrine 
+until the passage of the 1976 Copyright Act, 
+in which Justice Story's summary is discernible:
 
 **§ 107. Limitations on exclusive rights: Fair use**
 
@@ -1628,25 +1571,34 @@ discernible:
 > 4. the effect of the use upon the potential market for or value of
 > the copyrighted work.
 
-Congress meant § 107 "to restate the present judicial doctrine of fair
-use, not to change, narrow, or enlarge it in any way" and intended that
-courts continue the common-law tradition of fair use adjudication.&hellip; The fair use doctrine
-thus "permits [and requires] courts to avoid rigid application of the
-copyright statute when, on occasion, it would stifle the very creativity
-which that law is designed to foster." [*Stewart* v. *Abend* (1990)](http://scholar.google.com/scholar_case?case=6610856779804662857). 
+Congress meant § 107 
+"to restate the present judicial doctrine of fair use, 
+not to change, narrow, or enlarge it in any way" 
+and intended that courts continue 
+the common-law tradition of fair use adjudication.&hellip; 
+The fair use doctrine 
+thus "permits [and requires] courts 
+to avoid rigid application of the copyright statute 
+when, on occasion, it would stifle the very creativity
+which that law is designed to foster." 
+[*Stewart* v. *Abend* (1990)](http://scholar.google.com/scholar_case?case=6610856779804662857). 
 
-The task is not to be simplified with bright-line rules, for the
-statute, like the doctrine it recognizes, calls for case-by-case
-analysis. [*Harper & Row*](http://scholar.google.com/scholar_case?case=12801604581154452950);
-and [*Sony*](http://scholar.google.com/scholar_case?case=5876335373788447272).&hellip; The text
-employs the terms "including" and "such as" in the preamble paragraph to
-indicate the "illustrative and not limitative" function of the examples
-given, § 101; see [*Harper & Row, supra,* at 561](http://scholar.google.com/scholar_case?case=12801604581154452950),
-which thus provide only general guidance about the sorts of copying that
-courts and  Congress most commonly had found to be fair
-uses. Nor may the four statutory factors be treated in
-isolation, one from another. All are to be explored, and the results
-weighed together, in light of the purposes of copyright. 
+The task is not to be simplified with bright-line rules, 
+for the statute, like the doctrine it recognizes, 
+calls for case-by-case analysis. 
+[*Harper & Row*](http://scholar.google.com/scholar_case?case=12801604581154452950); and [*Sony*](http://scholar.google.com/scholar_case?case=5876335373788447272).&hellip; 
+The text employs the terms "including" and "such as" 
+in the preamble paragraph 
+to indicate the "illustrative and not limitative" 
+function of the examples given, § 101; see [*Harper & Row, supra,* at 561](http://scholar.google.com/scholar_case?case=12801604581154452950),
+which thus provide only general guidance 
+about the sorts of copying that
+courts and Congress most commonly had found to be fair uses. 
+Nor may the four statutory factors be treated in isolation, 
+one from another. 
+All are to be explored, 
+and the results weighed together, 
+in light of the purposes of copyright. 
 
 ## A
 
@@ -2154,7 +2106,6 @@ taking fiction is less fair.
 * [The New Yorker: Who Owns This Image?](http://www.newyorker.com/online/blogs/currency/2014/02/who-owns-this-image.html)
 * [Woody Allen's Midnight In Paris: Copyright Infringement?](http://www.theguardian.com/film/2013/jul/19/midnight-in-paris-copyright-william-faulkner) (In the film, Owen Wilson's character says: "The past is not dead. Actually, it's not even past." In *Requiem for a Nun*, Faulkner wrote: "The past is never dead. It's not even past." Faulkner Literary Rights argued this amounted to copyright infringement, but Sony countered by claiming de minimis and "fair use").
 * [*Woods v. Universal*](http://www.leagle.com/decision/1996982920FSupp62_1966.xml/WOODS%20v.%20UNIVERSAL%20CITY%20STUDIOS,%20INC.) (SDNY 1996)(*12 Monkeys* scene featuring Bruce Willis being interrogated in a futuristic chair infringes on drawing called *Neomechanical Tower (Upper) Chamber*).
-* [Article about *Woods v. Universal.*](http://www.copyrightwebsite.com/Visual/Monkeys/Monkeys.aspx)
 
 #### More Totally Optional Reading & Viewing ###
 
