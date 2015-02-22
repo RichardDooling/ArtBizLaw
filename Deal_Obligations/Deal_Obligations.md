@@ -78,7 +78,7 @@ A writing helps courts divine what the parties had in mind:
 > in the light of the circumstances &hellip; 
 > The circumstances for this purpose 
 > include the entire situation, 
-> as it appeared to the parties.  
+> as it appeared to the parties. 
 
 > [Restatement 2d Contracts § 202][202]
  
@@ -436,12 +436,24 @@ they'd like a collaborator.
 In other words, 
 the writer is expected to politely push back 
 and offer her own ideas 
-and then the collaborators compromise.  
-
+and then the collaborators compromise. 
 
 #### Morals Clauses ####
 
-> A morals clause is a provision in a contract or official document that prohibits certain behavior in a person's private life. They deal with behavior such as sexual acts and drug use. They were commonly used in the contract between actors/actresses and film studios to uphold the public image sought to be portrayed by the studio. Morals clauses are included today in certain contracts of public figures, such as athletes, actors/actresses, and others. A morals clause may also be made part of a judgment for divorce or marital dissolution, typically preventing unmarried cohabitation or overnight guests of the opposite sex while children are present.  
+> A morals clause is a provision in a contract > or official document 
+> that prohibits certain behavior in a person's private life. 
+> They deal with behavior such as sexual acts and drug use. 
+> They were commonly used in the contract 
+> between actors/actresses and film studios 
+> to uphold the public image sought to be portrayed by the studio. 
+> Morals clauses are included today 
+> in certain contracts of public figures, 
+> such as athletes, actors/actresses, and others. 
+> A morals clause may also be made part of a judgment 
+> for divorce or marital dissolution, 
+> typically preventing unmarried cohabitation 
+> or overnight guests of the opposite sex 
+> while children are present. 
 
 > [Morals Clause Law & Legal Definition](http://definitions.uslegal.com/m/morals-clause/)
 > [Morals Clauses at Wikipedia][morals].
@@ -484,19 +496,55 @@ MGM appealed and the Ninth Circuit Court of Appeals reversed, holding that Cole 
 * [Morals Clauses at Wikipedia][morals].
 * [Hold That Tiger: After Woods Scandal, More Lawyers Teeing Up "Morals Clauses"][tiger_morals]
 
-Blacklisting of the Hollywood 10, including such prominent writers as Dalton Trumbo and Ring Lardner, and the infamous witch-hunts conducted by the House Un-American Activities Committee (HUAC)(one of whose members was a newly elected congressman named Richard Nixon) were dark periods in our nation's history and in the entertainment industry.  
+Blacklisting of the Hollywood 10, 
+including such prominent writers as Dalton Trumbo and Ring Lardner, 
+and the infamous witch-hunts 
+conducted by the House Un-American Activities Committee (HUAC)
+(one of whose members was a newly elected congressman named Richard Nixon) were dark periods in our nation's history 
+and in the entertainment industry. 
 
 If you have trouble believing that writers could be blacklisted,
-hauled before Congress,  
+hauled before Congress, 
 and asked about their party affiliations in the United States of America, 
 try imaging Ronald Reagan as a liberal Democrat 
-and president of the screen actors guild (both of which he was at the time).
+and president of the screen actors guild 
+(both of which he was at the time).
 
 As to Senator Joseph McCarthy's "Red Scare" demagoguery, 
 the studios took the position that HUAC's hearings were nonsense 
 and that they were not going to penalize talent 
 for refusing to answer questions about their political affiliations. 
 But when public pressure started to build in the form of boycotts by the American Legion and other politically powerful groups, the box office was threatened, and the studios caved. 
+
+#### NBC's Brian Williams
+
+NBC Nightly News anchor Brian Williams' recent mythomania 
+about his imaginary adventures 
+that didn't quite actually happen to him 
+while he was covering the Iraq war for NBC news 
+are the latest example of a moral clause invocation.
+
+[Contract ‘morality clause’ could determine Brian Williams’ future](http://pagesix.com/2015/02/15/brian-williams-future-hangs-on-morality-clause-in-contract/)
+
+By Emily Smith February 15, 2015. 
+
+Sources say that the “public morals” clause 
+that appears in NBC News employees’ paperwork includes the verbiage:
+
+> If artist commits any act 
+> or becomes involved in any situation, or occurrence, 
+> which brings artist into public disrepute, 
+> contempt, scandal or ridicule, 
+> or which justifiably shocks, insults or offends 
+> a significant portion of the community, 
+> or if publicity is given to any such conduct &hellip; 
+> company shall have the right to terminate.
+
+Reports have said NBC execs 
+seriously considered firing Williams 
+before settling on the suspension.
+
+NBC declined to comment, and Barnett didn’t get back to us.
 
 ## Studio-Publisher Obligations ##
 
@@ -528,7 +576,7 @@ Also, because major motion pictures are so expensive to make, studios tend to su
 
 ### Satisfactory Work Product & The Recording Industry
 
-The next series of cases take a closer look at how these satisfactory work product problems play out in the publishing industry.  
+The next series of cases take a closer look at how these satisfactory work product problems play out in the publishing industry. 
 
 #### How Book Advances Work
 
@@ -1510,7 +1558,7 @@ plus interest.
 
 ### Notes on  *Doubleday v. Tony Curtis* 
 
-Famous actor and part time novelist Tony Curtis ("Curtis" signed a book contract to provide two novels to the publisher Doubleday & Co., Inc. ("Doubleday"). The parties used a standard industry form that required Doubleday to pay royalties on hardcover sales and a share of the proceeds of the sale of paperback rights if Curtis delivered manuscripts "satisfactory" to Doubleday in content and form.  
+Famous actor and part time novelist Tony Curtis ("Curtis" signed a book contract to provide two novels to the publisher Doubleday & Co., Inc. ("Doubleday"). The parties used a standard industry form that required Doubleday to pay royalties on hardcover sales and a share of the proceeds of the sale of paperback rights if Curtis delivered manuscripts "satisfactory" to Doubleday in content and form. 
 
 The publisher published the first novel and renegotiated the deal on the second novel to give Curtis a $100,000 advance, half on signing and half on acceptance by Doubleday of a "complete satisfactory manuscript."
 
@@ -2008,7 +2056,7 @@ Reversed.
 
 ### Notes on *Zilg v. Prentice-Hall*
 
-The contract in this case required Author Zilg to deliver a manuscript:  
+The contract in this case required Author Zilg to deliver a manuscript: 
 “in final form and content acceptable to the publisher.”
 
 Okay, so we have a contract to publish, 
@@ -2088,10 +2136,17 @@ $18 million short of net profits, even though the film had actually earned $350 
 
 Buchwald and Bernheim argued that this was "unconscionable" and a contract of adhesion, because they had no bargaining power to fight the "net profits" formula.
 
-Paramount countered that it had paid more that $150 million in net profits over the past 15 years using the same formula found in the all of its other studio contracts.  
-Paramount's own “turnaround” provision provides for Paramount to receive “net profits.”
+Paramount countered that it had paid 
+more that $150 million in net profits 
+over the past 15 years 
+using the same formula 
+found in the all of its other studio contracts. 
+Paramount's own “turnaround” provision 
+provides for Paramount to receive “net profits.”
 
-Furthermore, Buchwald and Bernheim are Hollywood players with high-powered agents. Everybody knows what "net profits" mean in Hollywood.
+Furthermore, Buchwald and Bernheim are Hollywood players 
+with high-powered agents. 
+Everybody knows what "net profits" mean in Hollywood.
 
 #### Two Accounting Methods
 
@@ -2200,7 +2255,7 @@ pleaded:
 
 1. The first cause of action to establish that the terms of the 2005 Penguin/Viking-Penguin Agreement entitle PLA to commission for publishing agreements arising out of the Option on Next Work clause; 
 2. The second through seventh causes of action to establish that the terms of the publishing agreements mentioned in these causes of action entitle PLA to commission on extensions of those agreements; 
-3. The eleventh and fourteenth causes of action to establish that Grimes owes PLA a fiduciary duty.  
+3. The eleventh and fourteenth causes of action to establish that Grimes owes PLA a fiduciary duty. 
 
 ### *I. First Cause of Action*
 
