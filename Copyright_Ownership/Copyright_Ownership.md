@@ -98,7 +98,7 @@ The question became: **Who owned the copyright in the work?** Childress alone? O
 
 The court rejected Taylor's claim of joint authorship 
 holding that a work qualifies as a “joint work” 
-under the definition section of the Copyright Act, [17 U.S.C. § 101][101]
+under the definition section of the Copyright Act, [§ 101][101]
 only when:
 
 > both authors intended, 
@@ -139,7 +139,7 @@ both of whom have normally contributed in some way
 to the creation of a work of value. 
 Care must be taken 
 to ensure that true collaborators in the creative process 
-are accorded the prequisites of co-authorship 
+are accorded the perquisites of co-authorship 
 and to guard against the risk 
 that a sole author is denied exclusive authorship status 
 simply because another person rendered some form of assistance. 
@@ -316,11 +316,10 @@ In the words of Francois La Rochefoucauld:
 ###### United States Supreme Court (1989). 
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=3326238332286533012)
-* [case on Westlaw][ccnv]
 * [Wikipedia](http://en.wikipedia.org/wiki/Community_for_Creative_Non-Violence_v._Reid). 
 
-Please read this case in its entirety by [downloading from Westlaw][ccnv], 
-or [reading at Google Scholar](http://scholar.google.com/scholar_case?case=3326238332286533012). 
+Please read this case in its entirety by 
+[reading at Google Scholar](http://scholar.google.com/scholar_case?case=3326238332286533012). 
 
 This case is an important United States Supreme Court case decided on its facts and on a careful reading of the work for hire provisions of the Copyright Act. It has major implications in many areas of the law (contract, employment, intellectual property, torts), because it addresses the crucial status of an artist as either empolyee or independent contractor. 
 
