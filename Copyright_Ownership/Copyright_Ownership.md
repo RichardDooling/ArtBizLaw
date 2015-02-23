@@ -88,7 +88,7 @@ Taylor does NOT dispute that Childress wrote the play entitled
 "Moms: A Praise Play for a Black Comedienne." 
 Taylor argues however that she provided more that mere research to the project:
 
-* Taylor sifted facts and helped select key pivotal elements to include in the play about Moms.
+* Taylor sifted through facts and helped select key pivotal elements to include in the play about Moms.
 * Taylor also discussed general scenes and characters with Childress and whether they should be included in the play. 
 * Childress and Taylor spoke on a regular basis about the progress of the play.
 
@@ -139,7 +139,7 @@ both of whom have normally contributed in some way
 to the creation of a work of value. 
 Care must be taken 
 to ensure that true collaborators in the creative process 
-are accorded the perquisites of co-authorship 
+are accorded the prequisites of co-authorship 
 and to guard against the risk 
 that a sole author is denied exclusive authorship status 
 simply because another person rendered some form of assistance. 
@@ -339,7 +339,6 @@ That's the story of *Cohen v. Paramount.*
 ###### United States Court of Appeals For The Ninth Circuit (1988)
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=112711324302381678)
-* [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=845+F.2d+851&appflag=67.12)
 
 HUG, Circuit Judge:
 
@@ -562,7 +561,6 @@ video cassettes is thus insignificant."
 
 Similarly, the district court in [*Rooney v. Columbia Pictures
 Industries, Inc.,* (S.D.N.Y.1982),](http://scholar.google.com/scholar_case?case=12025221074690857236) *aff'd,* [(2d Cir.1982),](http://scholar.google.com/scholar_case?about=6254988141750946468)
-*cert. denied,* [(1983)](http://scholar.google.com/scholar_case?about=1764013068463333018)
 found that the contracts in question, which granted rights to exhibit
 certain films, also gave defendants the right to sell videocassettes of
 the films. Like the contract in *Platinum,* the contracts
@@ -687,7 +685,7 @@ had no right to use the special effects footage
 unless Cohen paid Effects Associates the full contract price. 
 
 The court ruled that Effects Associates 
-had not transfered copyright in the special effects footage 
+had not transferred copyright in the special effects footage 
 because transfers of copyright must be **IN WRITING.** 
 Cohen argued that regardless of what the Copyright Act says, 
 the industry standard in the movie business 
@@ -1098,7 +1096,7 @@ either that "Get Off" was digitally sampled
 or that the recording "100 Miles" was included 
 on the sound track of *I Got the Hook Up.* 
 
-Defendant No Limit Films, 
+Defendant, No Limit Films, 
 in conjunction with Priority Records, 
 released the movie to theaters on May 27, 1998.
 The movie was apparently also released on VHS, DVD, and cable
@@ -1192,7 +1190,7 @@ example, but not three notes by way of sampling from a sound recording.
 Why is there no *de minimis* taking or why should substantial similarity
 not enter the equation. Our first answer to this question
 is what we have earlier indicated. We think this result is dictated by
-the applicable statute. Second, even  when a small part of a sound recording
+the applicable statute. Second, even when a small part of a sound recording
 is sampled, the part taken is something of value. No
 further proof of that is necessary than the fact that the producer of
 the record or the artist on the record intentionally sampled because it
@@ -1321,7 +1319,7 @@ Mainly how much? $50k, $100k, usually more.
 
 * [*GOOD COPY BAD COPY*](http://blip.tv/good-copy-bad-copy/good-copy-bad-copy-full-feature-364089), a documentary about the current state of copyright and culture, featuring Girl Talk, Danger Mouse, and many others.
 * [*Copyright Criminals*](http://vimeo.com/9958864), a documentary that examines the creative and commercial value of sampling in music. Featuring Public Enemy, De La Soul, QBert and more.
-* [Are actors employees or independent contractors?](http://www.hollywoodreporter.com/thr-esq/google-warns-muslims-ruling-will-684425) (An actress sues Google to takedown the controversial "Innocence of Muslims" video claiming that she still owns the copyright to her performance.
+* [Are actors employees or independent contractors?](http://www.hollywoodreporter.com/thr-esq/google-warns-muslims-ruling-will-684425) An actress sues Google to take down the controversial "Innocence of Muslims" video claiming that she still owns the copyright to her performance.
 * [More on Innocence of Muslims](http://www.newyorker.com/online/blogs/elements/2014/03/a-controversial-youtube-video-haunts-free-speech-again.html)
 * Lawsuit alleges Jay Z hit 'Run This Town' [illegally sampled 1960s funk song][jayz_lawsuit]
 * [Frank Ocean's 'Super Rich Kids' Named in Copyright Lawsuit](http://www.rollingstone.com/music/news/frank-oceans-super-rich-kids-named-in-copyright-lawsuit-20140211#ixzz2t3iDZnRQ)
