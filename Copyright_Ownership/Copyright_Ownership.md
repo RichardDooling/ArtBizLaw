@@ -1,11 +1,11 @@
 ---
 author: Richard Dooling
-title: Entertainment Law
-subtitle: Lawyers For The Talent
+title: Law & Business For Artists
+subtitle: Art Biz Law
 chapter: Copyright Ownership
 ---
 
-# Lawyers For The Talent
+# Law & Business For Artists
 
 ###### by Richard Dooling
 
