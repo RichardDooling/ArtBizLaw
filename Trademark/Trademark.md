@@ -65,9 +65,7 @@ reverse.
 
 #### FACTS
 
-Viewing the evidence in the light most favorable to Lamothe and Jones,
-the nonmoving parties, the facts pertinent to this appeal are that
-Lamothe, Jones and Crosby are coauthors of two songs entitled "Scene of
+&hellip;Lamothe, Jones and Crosby are coauthors of two songs entitled "Scene of
 the Crime," and "I'm Insane." These works were composed while Lamothe,
 Jones and Crosby were members of a band called Mac Meda. After Mac Meda
 disbanded, Crosby joined another musical group called RATT. While Crosby
@@ -181,20 +179,9 @@ and then selling the product in an unbranded state. *Id.*
 
 We concluded in *Smith* that by deleting Smith's name from the film and
 advertising materials and substituting the name "Bob Spencer," the
-defendants had engaged in express reverse passing off. We explained that
+defendants had engaged in express reverse passing off&hellip;
 
-> [a]s a matter of policy, such conduct, like traditional palming off,
-> is wrongful because it involves an attempt to misappropriate
->  or profit from
-> another's talents and workmanship. Moreover, in reverse palming off
-> cases, the originator of the misidentified product is involuntarily
-> deprived of the advertising value of [his] name and the goodwill that
-> otherwise would stem from public knowledge of the true source of the
-> satisfactory product. The ultimate purchaser (or viewer) is also
-> deprived of knowing the true source of the product and may even be
-> deceived into believing that it comes from a different source.
-
-*Id.* at 607 (citations omitted). In the present case, taking the
+In the present case, taking the
 allegations of the complaint as true, the defendants engaged in express
 reverse palming off, by which they deprived Lamothe and Jones of
 recognition and profits from the release of the two songs that were
@@ -217,13 +204,7 @@ fictitious person, to the group "RATT," or to some other person, this
 would be a false designation of origin. It seems to us no less "false"
 to attribute authorship to only one of several co-authors. *Cf.*
 [*Gilliam v. American Broadcasting Co.'s,* (2d
-Cir. 1976)](http://scholar.google.com/scholar_case?case=13301454329958507401)
-(stating in dicta that broadcasting heavily edited version of "Monty
-Python's Flying Circus" without appropriate disclaimer that authors had
-not approved editing amounted to violation of section 43(a)); *id.* at
-26 (Gurfein, J., concurring) ("So long as it is made clear that the ABC
-version is not approved by the Monty Python group, there is no
-misdescription of origin."). The policies we identified in *Smith,*
+Cir. 1976)](http://scholar.google.com/scholar_case?case=13301454329958507401). The policies we identified in *Smith,*
 namely, ensuring that the producer of a good or service receives
 appropriate recognition and that the consuming public receives full
 information about the origin of the good, apply with equal
@@ -411,20 +392,18 @@ and legs. Hormel is worried that sales of merchandise featuring Spa'am
 will directly cut into the sales of secondary SPAM items. The district
 court found, however, that "[p]urchasers of the secondary [SPAM]
 products are generally consumers of the luncheon meat and associate the
-secondary products with the luncheon meat." Slip Op. at 3.
+secondary products with the luncheon meat." 
 
 Moreover, the Muppets are familiar to television and motion picture
 audiences, and they are "well-known for parodies of brand names,
-trademarks, television programs, fictional characters, and celebrities."
-*Id.* at 3. The district court found that "[c]hildren
+trademarks, television programs, fictional characters, and celebrities." The district court found that "[c]hildren
 who enjoy the Muppets are familiar with the Muppet brand of humor and
 are unlikely to think that the Muppets are sponsored by the products and
-celebrities who are the subject of their jokes." *Id.*
+celebrities who are the subject of their jokes." 
 This undoubtedly led to the court's further finding that "[c]onsumers of
 merchandise bearing the likeness and/or name of Spa'am will buy it
 because they like Spa'am, the Muppets, and/or *Muppet Treasure Island* —
-not because they mistakenly think it is SPAM-related merchandise." *Id.*
-at 8.
+not because they mistakenly think it is SPAM-related merchandise." 
 
 Hormel points out that some newspaper accounts already have confused the
 names "SPAM" and "Spa'am." Hormel directed the district court's
@@ -460,22 +439,12 @@ it concluded that there was no likelihood of confusion and rejected
 Hormel's claim. Although we review de novo the district court's
 comprehensive application of the *Polaroid* factors, the district
 court's determinations as to each of the factors are factual in nature.
-These findings will be disturbed only if clearly erroneous. Moreover,
-because we are reviewing the district court's decision after a bench
-trial on the merits, we give special deference to the court's
-determinations of witness credibility. [*Anderson v. City of Bessemer
-City,* (S.Ct. 1985)](http://scholar.google.com/scholar_case?case=4660598599950299463).
-With the foregoing in mind, we examine each of the *Polaroid* factors in
-turn.
+These findings will be disturbed only if clearly erroneous.&hellip;
 
 #### *Strength of the Mark*
 
 There is little doubt that SPAM is a distinctive, widely recognized
-trademark. Hormel has sold over five billion cans of its luncheon meat
-under the SPAM mark and invested millions of dollars in advertising. As
-a result, Hormel has a 75 percent share of the canned meat market and
-SPAM is eaten in 30 percent of all American homes. Thus, SPAM truly is a
-household name. In the 
+trademark.&hellip; In the 
 usual trademark case, such an undeniably strong mark would be a factor
 favoring the trademark plaintiff. The more deeply a plaintiff's mark is
 embedded in the consumer's mind, the more likely it is that the
@@ -514,13 +483,7 @@ movie merchandise.
 
 #### *Degree of Similarity Between the Marks*
 
-Although Henson's wild boar puppet in no way resembles Hormel's luncheon
-meat or SPAM-man, Hormel contends that depiction of the puppet alone
-will conjure up the name "Spa'am," because consumers will associate the
-name that appears in the movie and media with the figure on Henson's
-merchandise. Thus, Hormel argues, use of the puppet likeness alone is in
-essence no different than its use in conjunction with its name. However,
-even combined use of the name and likeness does not present a strong
+&hellip;[C]ombined use of the name and likeness does not present a strong
 case of similarity. Viewed alone, of course, the names "Spa'am" and
 "SPAM" bear more than a passing resemblance. Indeed, Henson's parody
 depends on the correspondence between the two. However, there are also
@@ -556,24 +519,15 @@ the fact that Henson and Hormel occupy distinct merchandising markets.
 The district court found that SPAM merchandise and Muppet merchandise
 featuring Spa'am "[c]learly ... derive their associations from a primary
 product — luncheon meat, in the case of SPAM, and a Muppet motion
-picture, in the case of Spa'am." Slip Op. at 13. It
+picture, in the case of Spa'am." It
 noted that "purchasers of SPAM merchandise would generally be consumers
-of the luncheon meat," *id.,* and that "[c]onsumers of merchandise
+of the luncheon meat," and that "[c]onsumers of merchandise
 bearing the likeness and/or name of Spa'am will buy it because they like
-Spa'am, the Muppets, and/or *Muppet Treasure Island.*" *Id.* at 8. Thus, the separation between the markets for luncheon meat
+Spa'am, the Muppets, and/or *Muppet Treasure Island.*" Thus, the separation between the markets for luncheon meat
 and puppet entertainment carries over into the secondary merchandising
 market.
 
-This finding is not clearly erroneous. Our opinion in [*Universal City
-Studios, Inc. v. Nintendo Co.,* (2d Cir. 1984)](http://scholar.google.com/scholar_case?case=18336133881200662092)
-explains why. In that case, the competing marks "King Kong" and "Donkey
-Kong" appeared in different primary markets — motion pictures and video
-games respectively. As to secondary products featuring Donkey Kong, we
-noted that "since the videogame [Donkey Kong] is by far the dominant
-source of goodwill for these characters, consumer impressions of these
-other items are likely to be generated by the videogame, diminishing the
-possibility that the items will create more confusion among consumers
-than the videogame itself." *Id.* at 117 n. 7. Likewise, the character
+This finding is not clearly erroneous. &hellip;[T]he character
 Spa'am, even as he appears on merchandise, will be defined almost
 entirely by his appearance in *Muppet Treasure Island.* This connection
 will be strengthened by the presence of the *Muppet Treasure Island*
@@ -649,7 +603,7 @@ to SPAM.
 The district court found that a child or adult who would be likely to
 buy merchandise featuring Spa'am would do so "because he likes the
 Muppets, not because he mistakenly thinks that it is a SPAM [product]."
-Slip Op. at 17. Hormel complains that the district court
+ Hormel complains that the district court
 focused on consumers who want to purchase Spa'am merchandise while
 overlooking possible confusion on the part of those who would like to
 buy SPAM products. However, although the district court did not discuss
@@ -716,22 +670,6 @@ There is very little likelihood that Henson's parody will weaken the
 association between the mark SPAM and Hormel's luncheon meat. Instead,
 like other spoofs, Henson's parody will "\'tend to increase public
 identification'" of Hormel's mark with Hormel.&hellip;
-
-This conclusion is strengthened when we consider that Henson's parody
-undermines any superficial similarities the marks might share. As we
-noted above, the name "Spa'am" will always appear next to the character
-likeness and the words "Muppet Treasure Island." This dissimilarity
-alone could defeat Hormel's blurring claim, for in order to establish
-dilution by blurring, the two marks must not only be similar, they "must
-be 'very' or 'substantially' similar." [*Mead Data Central, Inc. v.
-Toyota Motor Sales, U.S.A., Inc.,* (2d Cir. 1989)](http://scholar.google.com/scholar_case?case=10399856046401781554).
-Moreover, Henson is not using the name "Spa'am" as a product brand name.
-Rather, Spa'am is a character in products branded with Henson's own
-trademark "Muppet Treasure Island." This tends to dissipate the fear
-that SPAM will no longer be considered a unique product identifier.
-Viewed against the backdrop of Henson's transparent parodic intent and
-the contextual dissimilarity between the two marks, it is clear that use
-of the name "Spa'am" does not blur Hormel's mark.
 
 ####  *Tarnishment*
 
@@ -835,8 +773,6 @@ State a Claim. For the following reasons, the Court DENIES RNC's Motion.
 
 ###II. FACTUAL BACKGROUND
 
-Plaintiff alleges the following facts:
-
 Browne is a singer and songwriter who is closely associated with liberal
 causes and Democratic political candidates. Browne's
 public support for the Democratic Party and President Barack Obama is
@@ -890,14 +826,7 @@ as the screen flashes the word "What!?" Next, an image of Senator
 McCain appears, along with the words "Senator McCain has [illegible]." The Commercial then cuts to information on Senator McCain's energy
 plan, including the words: "Expand Domestic Oil and Natural Gas
 Production; Reform Transportation Sector; Invest in Clean, Alternative
-Sources of Energy; Address Climate Change; Promote Energy Efficiency."
-
- At approximately
-thirty-seven seconds, the Commercial cuts to Senator McCain at a rally
-saying "my friends this is a national security issue and who is paying
-the most today, who is bearing the burden? Low income Americans who are
-driving the oldest automobiles. We owe it to them and we owe it to all
-Americans." 
+Sources of Energy; Address Climate Change; Promote Energy Efficiency."&hellip;
 
 At approximately fifty seconds, the Instrumental Introduction of the
 Composition begins playing as the screen displays the words "What's that
@@ -909,17 +838,7 @@ could save all the oil that they are talking about getting off drilling
 if everybody was just inflating their tires?" At approximately one
 minute eight seconds, the volume of the Composition increases as the
 Commercial cuts to a CNN broadcast of former Presidential candidate
-Senator Hillary Clinton saying "shame on you Barack Obama." 
-
-At approximately one minute ten seconds, the Commercial cuts to a photo
-of Barack Obama with the words "Barack Obama: No Solutions," which
-changes to "Baraek Obama: Not Ready to Lead" as Browne is heard singing
-the Chorus of the Composition.
-
-The Commercial then concludes with a black screen containing small print
-at the bottom that reads "Paid for by the Ohio Republican Party.
-www.ohiogop.org. Not authorized by any candidate or candidate
-committee."
+Senator Hillary Clinton saying "shame on you Barack Obama." &hellip;
 
 Neither Senator McCain, ORP, nor RNC received a license nor Browne's
 permission to use the Composition in the Commercial. 
@@ -963,11 +882,7 @@ RNC contends that Plaintiff cannot state a claim for false association
 or endorsement under 15 U.S.C. § 1125(a)(1)(A) of the Lanham Act
 ("Section 43(a)(1)(A)") because the Lanham Act applies only to
 commercial speech and does *not* apply to political speech. For the
-following reasons, the Court disagrees.
-
-RNC appears to collapse several distinct arguments into one general
-contention that the Lanham Act does not apply to political speech. Each
-distinct argument is addressed separately below.
+following reasons, the Court disagrees.&hellip;
 
 First, contrary to RNC's assertions, courts have recognized that the
 Lanham Act applies to noncommercial (i.e., political) *and* commercial
@@ -999,17 +914,14 @@ Fourth, contrary to the implications of RNC's arguments, the Lanham
 Act's reference to use "in commerce" does not require a plaintiff who
 asserts a claim under Section 43(a)(1)(A) to show that the defendant
 actually used the mark in commerce. [*United We Stand America, Inc*](http://scholar.google.com/scholar_case?case=4833614207083058193).
-Rather, the Act's reference  to use "in commerce" actually
+Rather, the Act's reference to use "in commerce" actually
 "reflects Congress's intent to legislate to the limits of its authority
 under the Commerce Clause" to regulate interstate commerce. *Id.* The
 interstate commerce jurisdictional predicate for the Lanham Act merely
 requires a party to show that the defendant's conduct affects interstate
 commerce, such as through diminishing the plaintiffs ability to control
 use of the mark, thereby affecting the mark and its relationship to
-interstate commerce. *See* [*Stauffer v. Exley,* (9th Cir. 1950)](http://scholar.google.com/scholar_case?case=15896581322123241159);
-*see, e.g.,* [*Maier Brewing Co. v. Fleischmann Distilling Corp.,* (9th Cir. 1968)](http://scholar.google.com/scholar_case?case=3785793747909278971);
-[*F.E.L. Publications, Ltd. v. National Conference of Catholic Bishops,*
-(D.C.Ill. 1978)](http://scholar.google.com/scholar_case?case=4064965770617757909).
+interstate commerce. 
 As such, the "scope of 'in commerce' as a jurisdictional predicate of
 the Lanham Act is broad and has a sweeping reach." [*Planned Parenthood
 Federation of America, Inc. v. Bucci,* (S.D.N.Y)](http://scholar.google.com/scholar_case?about=2055558481777012858))
@@ -1149,11 +1061,6 @@ Registered in 1932, this trademark, along with its component marks
 (collectively, the "LVM Marks"), are famous, distinctive, and
 incontestable.&hellip; 
 
-Louis Vuitton has invested millions of dollars and decades of time and
-effort to create a global recognition that causes consumers to associate
-the LVM Marks with high-quality, luxury goods emanating exclusively from
-Louis Vuitton.&hellip; 
-
 Warner Bros. is one of the oldest and most respected producers of motion
 pictures and television shows in the country and the world. 
 In the summer of 2011, 
@@ -1208,24 +1115,7 @@ Louis Vuitton sent Warner Bros.
 a cease and desist letter 
 noting its objection to the use of the Diophy bag in the Film. 
 Despite being informed of its objection, on December 6, 2011, 
-Warner Bros. released the Film in the United States on DVD and Blu-Ray. 
-The complaint alleges that 
-"many consumers believed the Diophy bag" 
-used in the Film 
-"was, in fact, a genuine Louis Vuitton," 
-and that Louis Vuitton consented to Warner Bros. 
-"misrepresentation" 
-that the Diophy bag was a genuine Louis Vuitton product. 
-Louis Vuitton claims that its harm has been "exacerbated 
-by the prominent use of the aforementioned scenes 
-and the LVM Marks in commercials and advertisements for the [F]ilm," 
-and that Alan's "Lewis Vuitton" line 
-has "become an oft-repeated and hallmark quote from the movie." 
-Louis Vuitton attaches to the complaint, 
-as Exhibit E, what it claims 
-are "representative Internet references and blog excerpts"
-demonstrating that consumers mistakenly believe 
-that the Diophy bag is a genuine Louis Vuitton bag. 
+Warner Bros. released the Film in the United States on DVD and Blu-Ray.&hellip;
 
 #### B. The Present Motion
 
@@ -1287,7 +1177,7 @@ question of whether consumers are likely to be confused." &hellip;
 
 #### 1. *First Amendment*
 
-In [*Rogers v.  Grimaldi*](http://scholar.google.com/scholar_case?case=1704090655237798849)*,*
+In [*Rogers v. Grimaldi*](http://scholar.google.com/scholar_case?case=1704090655237798849)*,*
 the Second Circuit held 
 that the Lanham Act is inapplicable to "artistic works" 
 as long as the defendant's use of the mark is (1) 
@@ -1300,9 +1190,7 @@ source or content of the work.
 Louis Vuitton does not dispute 
 that Warner Bros. challenged use of the mark is noncommercial, 
 placing it firmly within the purview of an "artistic work" 
-under *Rogers.  See* [*Joseph Burstyn, Inc. v. Wilson* (1952)](http://scholar.google.com/scholar_case?case=5628256980652867975) (holding that motion pictures are protected speech); *see also* [*United States v. United Foods, Inc.* (Sct. 2001)](http://scholar.google.com/scholar_case?case=905607278793226675)
-(defining "commercial speech" as "speech that does no more than propose
-a commercial transaction").
+under *Rogers.*  
 
 Louis Vuitton objects to the present motion on the following grounds:
 
@@ -1317,21 +1205,11 @@ The threshold for "artistic relevance" is purposely low
 and will be satisfied unless 
 the use "has *no* artistic relevance to the underlying work *whatsoever.*" 
 [*Rogers,*](http://scholar.google.com/scholar_case?case=1704090655237798849)
-(emphasis added); *see also* [*Rock Star Videos, Inc.*](http://scholar.google.com/scholar_case?case=6229102239124683155)
-(holding that, under *Rogers,* "the level of relevance merely must be
-above zero"); *Dillinger, LLC v. Elec. Arts Inc.*  (S.D.Ind. June 16, 2011) ("[I]t is
-not the role of the Court to determine how meaningful the relationship
-between a trademark and the content of a literary work must be;
-consistent with *Rogers,* any connection whatsoever is enough."). The
+(emphasis added). The
 artistic relevance prong ensures that the defendant intended an artistic
 — i.e., noncommercial — association with the plaintiff's mark, as
 opposed to one in which the defendant intends to associate with the mark
 to exploit the mark's popularity and good will. 
-*See* [*Rogers*](http://scholar.google.com/scholar_case?case=1704090655237798849)
-(finding that the defendant satisfied the artistic relevance prong where
-its use of the trademark was "not arbitrarily chosen just to exploit the
-publicity value of [the plaintiffs' mark] but instead ha[d] genuine
-relevance to the film's story").
 
 Warner Bros.' use of the Diophy bag meets this low threshold. Alan's
 terse remark to Teddy to "Be careful!" because his bag "is a Lewis
@@ -1392,31 +1270,6 @@ overcome the First Amendment interests. *Id.*
 *Rogers* and the cases adopting its holding 
 have consistently framed the applicable standard 
 in terms of confusion as to the defendant's artistic work. 
-*See* [*Rogers*](http://scholar.google.com/scholar_case?case=1704090655237798849)
-("The title 'Ginger and Fred' contains no explicit indication that
-Rogers endorsed the *[defendant's] film* or had a role in producing
-it.") (emphasis added) &hellip; *see also, e.g.,* [*Walking Mountain*](http://scholar.google.com/scholar_case?case=7581792703482092445)
-("The photograph titles do not explicitly mislead as to [plaintiff]
-Mattel's sponsorship of *[defendant's] works.*") (emphasis added);
-[*Parks,* 329 F.3d at
-459](http://scholar.google.com/scholar_case?case=11600086449229682086)
-("[T]he title "Rosa Parks" makes no explicit statement that the
-*[defendant's] work* is about that person in any direct sense.")
-(emphasis added); [*Westchester Media v. PRL USA Holdings, Inc.,* 214
-F.3d 658, 668 (5th
-Cir. 2000)](http://scholar.google.com/scholar_case?case=5449983782264273856)
-(finding that consumers could plausibly believe "that [*defendant's
-magazine*] is associated with [plaintiff's goods]") (emphasis added);
-[*Twin Peaks,* 996 F.2d at
-1379](http://scholar.google.com/scholar_case?case=1671961186681268324)
-("The question then is whether the title is misleading in the sense that
-it induces members of the public to believe *[defendant's] Book* was
-prepared or otherwise authorized by [the plaintiff].") (emphasis added);
-[*Cliffs Notes,* 886 F.2d at
-495](http://scholar.google.com/scholar_case?case=3543157455154245054)
-("[W]e do not believe that there is a likelihood that an ordinarily prudent
-purchaser would think that *[defendant's book]* is actually a study
-guide produced by appellee.") (emphasis added).&hellip; 
 
 It is not a coincidence that courts frame the confusion in relation to
 the defendant's artistic work, and not to someone else's. This narrow
@@ -1427,23 +1280,12 @@ are used to "dupe[] consumers into buying a product they mistakenly
 believe is sponsored by the trademark owner." [*Rock Star Videos*](http://scholar.google.com/scholar_case?case=6229102239124683155)
 (quoting [*Walking Mountain*](http://scholar.google.com/scholar_case?case=7581792703482092445)).
 When this concern is present it will generally outweigh the public's
-interest in free expression. *See* [*Rogers,* 875 F.2d at
-1000](http://scholar.google.com/scholar_case?case=1704090655237798849)
-("If such explicit references [signifying endorsement] were used in a
-title and were false as applied to the underlying work, the consumer's
-interest in avoiding deception would warrant application of the Lanham
-Act, even if the title had some artistic relevance to the work.").
+interest in free expression. 
 However, if a trademark is not used, "in any direct sense," to designate
 the source or sponsorship of the defendant's work, then "the consumer
 interest in avoiding deception is too slight to warrant application of
 the Lanham Act." [*Syler v. Woodruff* (S.D.N.Y. 2009)](http://scholar.google.com/scholar_case?case=2693087962354215527)(quoting [*Rogers,* 875 F.2d at
-1000](http://scholar.google.com/scholar_case?case=1704090655237798849));
-*see also* 4 McCarthy on Trademarks and Unfair Competition § 23:11.50
-(4th ed.) ("[I]f the defendant does not use the accused designation as
-defendant's own identifying trademark, then confusion will usually be
-unlikely. Then there are not the requisite two similar marks confusing
-the viewer into believing that the two marks identify a single
-source.").
+1000](http://scholar.google.com/scholar_case?case=1704090655237798849)).
 
 Louis Vuitton contends that the explicitly misleading prong is not
 limited to confusion as to the source or content of the Film, but
@@ -1482,22 +1324,7 @@ found actionable: "Plaintiff expects to establish on trial that the
 public may associate it with defendants' movie and be confused into
 believing that plaintiff sponsored the movie, provided some of the
 actors, licensed defendants to use the uniform, or was in some other way
-connected with the production." *Id.*
-
-The other cases Louis Vuitton cites in support of this position are
-similarly misplaced, because those cases merely cite to the same legal
-principle that *Dallas Cowboys Cheerleaders* stands for: namely, that
-the Lanham Act recognizes confusion as to the sponsorship of the
-defendant's product (in addition to confusion as to the source of it).
-*See* [*Famous Horse Inc. v. 5th Avenue Photo Inc.* (2d Cir. 2010)](http://scholar.google.com/scholar_case?case=7455508940627654660)
-(finding that the complaint adequately alleged confusion where the
-defendant implied that plaintiff "was a satisfied customer" of the
-defendant's goods and services); [*Pirone v. MacMillan* (2d
-Cir. 1990)](http://scholar.google.com/scholar_case?case=8716702468310698178)
-(agreeing with the district court that plaintiff "cannot possibly show
-confusion as to source or sponsorship of the [defendant's] calendar")
-(internal quotation marks omitted). Additionally, neither of these cases
-dealt with noncommercial speech.
+connected with the production." *Id.*&hellip;
 
 Here, the complaint alleges two distinct theories of confusion: (1) that
 consumers will be confused into believing that the Diophy bag is really
@@ -1505,49 +1332,25 @@ a genuine Louis Vuitton bag; and (2) that Louis Vuitton approved the use
 of the Diophy bag in the Film. However, even drawing all reasonable
 inferences in the light most favorable to Louis Vuitton, as the Court is
 required to do, neither of these allegations involves confusion as to
-Warner Bros.' artistic work. Specifically, Louis Vuitton does not allege
-that Warner Bros. used the Diophy bag in order to mislead consumers into
-believing that Louis Vuitton produced or endorsed the Film. Therefore,
-the complaint fails to even allege the type of confusion that could
-potentially overcome the *Rogers* protection.
-
-Even if the Court assumes, *arguendo,* that Louis Vuitton has stated a
-cognizable claim of confusion, its claim would fail anyway. The Second
-Circuit in *Rogers* emphasized that when First Amendment values are
-involved, courts should narrowly construe the Lanham Act and "weigh the
-public interest in free expression against the public interest in
-avoiding customer confusion." &hellip; As such, where an
-expressive work is alleged to infringe a trademark, "the likelihood of
-confusion must be *particularly compelling.*" [*Twin Peaks*](http://scholar.google.com/scholar_case?case=1671961186681268324)
-(emphasis added); *see also* [*Westchester Media*](http://scholar.google.com/scholar_case?case=5449983782264273856).
+Warner Bros.' artistic work.&hellip;
 
 The Court concludes that Louis Vuitton's allegations of confusion are
 not plausible, let alone "particularly compelling." First, it is highly
 unlikely that an appreciable number of people watching the Film would
-even notice that Alan's bag is a knock-off. *Cf.* [*Gottlieb Dev. LLC v.
-Paramount Pictures Corp.* (S.D.N.Y.2008) (Chin, J.)](http://scholar.google.com/scholar_case?case=7004261802942021108) (no confusion of plaintiff sponsoring defendant's film where "it would
-be difficult for even a keen observer to pick out [plaintiff's]
-trademark" since "it appears in the background of the scene" and
-"occupies only a minute fraction [of] the frame for three segments
-lasting approximately three seconds each"). In this regard, Louis
+even notice that Alan's bag is a knock-off. In this regard, Louis
 Vuitton is trying to have it both ways: arguing that the Diophy bags are
 so similar as to create consumer confusion but at the same time so
 obviously dissimilar that someone watching the Film would notice the
 slightly different symbols used on the Diophy bag. Yet, the Diophy bag
 appears on screen for no more than a few seconds at a time and for less
 than thirty seconds in total, and when it is on screen, it is usually in
-the background, out of focus, or partially obscured by other things.
-Like the appearance of the plaintiff's mark in *Gottlieb,* the Court
-finds that the difference between the authentic and knock-off bag is so
-difficult to even notice, that a claim of confusion under the Lanham Act
-"is simply not plausible." [*Gottlieb*](http://scholar.google.com/scholar_case?case=7004261802942021108).
+the background, out of focus, or partially obscured by other things.&hellip;
 Furthermore, Louis Vuitton's position assumes that viewers of the Film
 would take seriously enough Alan's statements about designer handbags
 (even about those he does not correctly pronounce) that they would
 attribute his views to the company that produced the
 Film. This assumption is hardly conceivable, and it does
-not cross the line into the realm of plausibility. *See* [*Twombly*
-(S.Ct. 1955)](http://scholar.google.com/scholar_case?case=18057384228100022643).
+not cross the line into the realm of plausibility. 
 Lastly, Louis Vuitton is objecting to a statement made by a fictional
 character in a fictional movie, which it characterizes as an affirmative
 misrepresentation. However, this assumes that the fictional Alan
@@ -1556,7 +1359,7 @@ be (innocently) misinformed about the origin of his bag. For these
 reasons, the Court concludes that the likelihood of confusion is at best
 minimal, and when balanced against the First Amendment concerns
 implicated here, it is not nearly significant enough to be considered
-"particularly compelling." *See* [*Twin Peaks*](http://scholar.google.com/scholar_case?case=1671961186681268324).
+"particularly compelling." 
 
 Under the expansive view Louis Vuitton advances, Warner Bros. would be
 liable — not for identifying its own product with the LVM Marks — but
@@ -1570,33 +1373,16 @@ true since the relevant confusion is caused by a third-party — one with
 whom Warner Bros. has no relationship whatsoever. Any
  confusion created by
 Warner Bros. is at most indirect and thus "too slight to warrant
-application of the Lanham Act." *See* [*Syler*](http://scholar.google.com/scholar_case?case=2693087962354215527) (quoting [*Rogers*](http://scholar.google.com/scholar_case?case=1704090655237798849)).
+application of the Lanham Act."&hellip;
 
 [This limitation on the reach of the Lanham Act is consistent with the text of § 43(a)(1)(A), which expressly requires the "confusion," "mistake," or "dece[ption]" to be "of [the defendant's] goods, services, or commercial activities," and with the core concern of trademark law, which is confusion related to purchasing decisions and not confusion generally.]
-
-Louis Vuitton maintains that the *Rogers* test cannot be assessed on a
-motion to dismiss. (Opp. at 14-18.) The Court disagrees. Although many
-courts have considered the *Rogers* test on a summary judgment motion,
-not on a motion to dismiss, the circuit has never stated that a court
-cannot properly apply the *Rogers* test (or the likelihood of confusion
-factors) on a motion to dismiss. In fact, the Second Circuit has
-suggested that it would be appropriate "where the court is satisfied
-that the products or marks are so dissimilar that no question of fact is
-presented." &hellip; 
 
 Here, there is no likelihood of confusion that viewers would believe
 that the Diophy bag is a real Louis Vuitton bag just because a fictional
 character made this claim in the context of a fictional movie. Neither
 is there a likelihood of confusion that this statement would cause
 viewers to believe that Louis Vuitton approved of Warner Bros.' use of
-the Diophy bag. In a case such as this one, no amount of discovery will
-tilt the scales in favor of the mark holder at the expense of the
-public's right to free expression.
-
-Therefore, even assuming, *arguendo,* that Louis Vuitton could state a
-cognizable claim of confusion, Warner Bros.' use of the Diophy bag is
-protected under *Rogers* because it has some artistic relevance to the
-Film and is not explicitly misleading.
+the Diophy bag.&hellip;
 
 ## C. State Law Claims
 
