@@ -875,7 +875,7 @@ were in the public domain.
 Thus, Matthews became a public figure through his activities. The
 subject matter of his statements — narcotics officers using drugs,
 perjuring themselves, and making fraudulent charges — was a matter of
-public interest.&hellip;  
+public interest.&hellip; 
 
 Because all of the events were a part of the public domain, defendants
 were entitled to  their fair use, including their narration in
@@ -1105,7 +1105,7 @@ Hayneses' lawsuit is founded.
 
 ### Defamation
 
-The charge of libel is confined to three statements in the book: that Haynes left his children alone at night when he was supposed to be watching them; that he lost a job or jobs because of drinking; and that he spent money on a car that he should have used to buy shoes for his children.&hellip;  
+The charge of libel is confined to three statements in the book: that Haynes left his children alone at night when he was supposed to be watching them; that he lost a job or jobs because of drinking; and that he spent money on a car that he should have used to buy shoes for his children.&hellip; 
 
 [The court said that the district court properly dismissed these claims because they were substantial true, and (as we know) truth is a defense to a claim of defamation.]
 
@@ -1546,7 +1546,7 @@ liability on the basis of the jurors' tastes or views, or perhaps on the
 basis of their dislike of a particular expression. An "outrageousness"
 standard thus runs afoul of our longstanding refusal to allow damages to
 be awarded because the speech in question may have an adverse emotional
-impact on the audience.&hellip;  
+impact on the audience.&hellip; 
 
 > We conclude that public figures and public officials may not recover for
 the tort of intentional infliction of emotional distress by reason of
