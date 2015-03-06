@@ -90,15 +90,7 @@ of copyright infringement and is therefore preempted.
 Yet we had also recognized a claim for breach of contract that was not
 preempted where the plaintiff establishes he had a reasonable
 expectation of payment for use. [*Landsberg v. Scrabble Crossword Game
-Players, Inc.,* (9th Cir. 1986)](http://scholar.google.com/scholar_case?case=9998669200720427052).
-
-We recently followed *Grosso* in [*Benay v. Warner Bros. Entm't, Inc.,*
-(9th Cir. 2010),](http://scholar.google.com/scholar_case?case=1156296074793113648)
-and held a contractual claim was not preempted. We said that "[c]ontract
-law, whether through express or implied-in-fact contracts, is the most
-significant remaining state-law protection for literary or artistic
-ideas." *Id.* at 629. The three judge panel in this case, however, found
-a similar claim preempted.
+Players, Inc.,* (9th Cir. 1986)](http://scholar.google.com/scholar_case?case=9998669200720427052).&hellip;
 
 We again hold that copyright law does not preempt a contract claim where
 plaintiff alleges a bilateral expectation that he would be compensated
@@ -188,29 +180,7 @@ those ideas and concepts, and profiting therefrom to the Plaintiffs'
 exclusion.&hellip;" The complaint therefore alleged a claim
 under California law of breach of confidence.
 
-### II. Procedural Background
-
-Defendants moved to dismiss the complaint under Federal Rule of Civil
-Procedure 12(b)(6) &hellip; The district court granted in part and denied in part the
-defendants' motion. The court concluded that the complaint alleged facts
-sufficient to state a federal copyright claim, but that federal
-copyright law preempted the plaintiffs' state-law claims. The court
-dismissed the state-law claims with prejudice and without leave to
-amend.
-
-Plaintiffs amended their copyright claim and added Universal Television
-Networks as a defendant. Subsequently, the parties stipulated to the
-voluntary dismissal of the amended copyright claim with prejudice. With
-no remaining claims to be adjudicated, the district court entered final
-judgment in favor of the defendants. The plaintiffs timely appealed the
-dismissal of their breach of implied contract and breach of confidence
-claims.
-
-On June 3, 2010, the three-judge panel affirmed, holding both claims
-preempted by federal copyright law. [*Montz v. Pilgrim Films &
-Television, Inc.,* (9th Cir. 2010)](http://scholar.google.com/scholar_case?case=8201668797759697176).
-We ordered a rehearing of this case en banc pursuant to a vote of the
-majority of active judges. 
+\* \* \*
 
 ### III. California Implied-in-Fact Contract Law
 
@@ -226,16 +196,7 @@ film or television show cannot be protected by a copyright. But the concept can 
 In *Desny,* the California Supreme Court recognized that a writer and
 producer form an implied contract under circumstances where both
 understand that the writer is disclosing his idea on the condition that
-he will be compensated if it is used. [*Desny*](http://scholar.google.com/scholar_case?case=3141417353271271191).
-There, defendant Billy Wilder, famed director of *Sunset Boulevard* and
-*Witness for the Prosecution,* allegedly entered into an implied
-contractual arrangement that was initiated when the plaintiff telephoned
-Wilder's office and pitched a movie idea to Wilder's secretary who,
-along with Wilder, understood Wilder was to pay if he used the story.
-*Id.* at 273-74. Wilder produced a film, *Ace in the Hole,* allegedly
-based on the idea plaintiff had pitched for a movie inspired by the
-"life story of Floyd Collins who was trapped [in a cave] and made
-sensational news for two weeks." *Id.* at 262. Wilder allegedly failed
+he will be compensated if it is used. [*Desny*](http://scholar.google.com/scholar_case?case=3141417353271271191).&hellip; Wilder allegedly failed
 to compensate the plaintiff, and the California Supreme Court held that,
 given the entertainment industry norms, the plaintiff had sufficiently
 pled the breach of an implied contract to pay for use of his idea. The
@@ -313,21 +274,7 @@ preemption. The claim protects the duty of trust or confidential
 relationship between the parties, an extra element that makes it
 qualitatively different from a copyright claim. 
 
-### V. Sufficiency of the Complaint as to the Breach of Implied Contract and Breach of Confidence Claims
-
-Defendants argue that the complaint fails to allege sufficient facts to
-make out a claim for breach of implied contract. They assert that it
-lacks any allegation (1) that Montz and Smoller disclosed their idea for
-sale, (2) that they expected to be reasonably compensated for the idea,
-and (3) that defendants knew the conditions on which it was offered. Yet
-the complaint makes all three allegations and closely tracks the
-complaint we found sufficient in *Grosso.*
-
-Defendants similarly argue that Montz and Smoller failed to allege
-sufficient facts to make out their claim for breach of confidence. They
-argue that there is no allegation (1) that plaintiffs disclosed
-"confidential and novel information," and (2) that defendants knew it
-was supposed to be kept confidential. But the complaint clearly contains these allegations as well.
+\* \* \*
 
 ### VI. Conclusion
 
@@ -534,7 +481,7 @@ in Montz's breach-of-confidence claim from the rights protected by the
 Copyright Act. First, the breach-of-confidence claim requires Montz to
 show that Pilgrim disclosed confidential material (i.e., the ideas
 embodied in  Montz's
-materials) to third parties. Maj. op. at 981-82. But a copyright affords
+materials) to third parties. But a copyright affords
 its owner the same right: the right against unauthorized disclosure of
 copyrighted work. 
 Second, the breach-of-confidence claim requires that Montz show Pilgrim
@@ -550,16 +497,7 @@ everyone, regardless of whether one had a confidential relationship with
 the copyright holder.
 
 Because Montz's breach-of-confidence claim is not qualitatively
-different from a copyright claim, it is preempted.
-
-### III
-
-Montz does not allege that he sold the ideas embodied in his *Ghost
-Hunters* materials to Pilgrim and that Pilgrim simply failed to make
-good on its promise to pay. Instead, he alleges that Pilgrim used the
-ideas embodied in Montz's copyrighted material without his permission.
-Because the Copyright Act protects such equivalent rights, I
-respectfully dissent.
+different from a copyright claim, it is preempted.&hellip;
 
 GOULD, Circuit Judge, dissenting:
 
