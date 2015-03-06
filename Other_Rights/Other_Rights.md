@@ -36,7 +36,7 @@ Norman Granz, well-known promoter and producer of jazz concerts,
 had one of his concerts recorded featuring two popular pieces titled 
 "How High The Moon" and "Lady Be Good." 
 
-Granz LICENSED Herbert Harris a record producer to manufacture and sell recordings WITH THE CREDIT LINE “Presented by Norman Granz.”
+Granz LICENSED Herbert Harris (a record producer) to manufacture and sell recordings WITH THE CREDIT LINE “Presented by Norman Granz.”
 
 Harris produced records, 
 but he omitted 8 minutes of the original songs 
