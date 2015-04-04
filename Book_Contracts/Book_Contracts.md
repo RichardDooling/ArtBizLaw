@@ -1,7 +1,8 @@
 ---
 author: Richard Dooling
-title: Lawyers For The Talent
-subtitle: Book Contracts
+title: Law & Business For Artists
+subtitle: ArtBizLaw
+chapter: Book Contracts
 ---
 
 # Book Contracts
