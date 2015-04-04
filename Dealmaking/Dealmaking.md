@@ -46,7 +46,7 @@ Alas the law does not enforce negotiations
 
 The entertainment industries move too fast 
 and involve too many players and contingent deals 
-to wait for lawyers fuss over contract language and obtain signatures. 
+to wait for lawyers to fuss over contract language and obtain signatures. 
 Usually the bargains struck work out fine. 
 Blockbusters and tentpoles get made, 
 and the players compromise on any terms that weren't
@@ -472,7 +472,7 @@ even though she never made a final, formal contract.
 
 Voila. Promissory estoppel. It requires: 
 
-* A makes a clear and unambiguous promise to B;
+* A makes a clear and unambiguous promise to B.
 * B relies on that promise. 
 * B is "injured" (loses money, suffers other damages) 
 when A fails to keep the promise.
@@ -523,17 +523,7 @@ by reason of his reliance.&hellip;
 The circumstances [must be] such as to render it unconscionable to deny the promise upon which plaintiff has relied.
 
 It is difficult to imagine a more fitting case 
-for applying the above-described doctrine. 
-Although for her own business purposes 
-Franklin insisted that the formal contract 
-be with the corporate entity 
-through which her services were to be "furnished," 
-in the real world the agreement was with her, 
-and we find that she had 
-unequivocally and intentionally 
-committed herself to appear in the production 
-long before day on which it was intended 
-that the finalized agreement with her corporation would be signed.
+for applying the above-described doctrine&hellip;
 
 First, 
 it is clear from the testimony of all of the witnesses 
@@ -675,12 +665,12 @@ RKO argued that the words "we have a deal" were ambiguous:
 
 > it could not be determined therefrom whether the parties were not to be bound until the formal agreement was signed, or whether they were to be bound immediately and that the formal agreement to be prepared would be a memorial of their present agreement.
 
-> [the words] meant that the parties had agreed upon the basic points (story, star and money) and that other points were details as to which, it was anticipated, the parties could agree without difficulty; but that a formal agreement would be prepared.
+> [The words] meant that the parties had agreed upon the basic points (story, star and money) and that other points were details as to which, it was anticipated, the parties could agree without difficulty; but that a formal agreement would be prepared.
 
 ### Excerpts from *Gold Seal v. RKO*
 
 RKO contends, as above stated, 
-that the evidence was insufficient to support the finding that the parties entered into a contract. It concedes that the basic terms of such a contract, namely the story, leading actor and money consideration, were agreed upon. It argues, however, that the alleged agreement of May 16 left various terms of the final contract open for future agreement; and the parties did not intend to be bound until a written contract was signed. Some of the terms which, appellant asserts, were left open were: the starting date; budget; director and principal cast; minor revisions of the script; assignment of television, radio, and stageplay rights to the novel &hellip; With reference to those terms, which allegedly were left open, appellant refers to the Gwenaud contract (the pattern of which allegedly was to be followed herein) and states in effect that provisions therein, regarding terms allegedly left open herein, manifestly were not applicable to the present case by reason of different dates, names, amounts, etc., and therefore that the parties in the present case must have contemplated further agreement as to those matters.
+that the evidence was insufficient to support the finding that the parties entered into a contract&hellip;
 
 With reference to the parties not intending to be bound 
 until a contract was signed, 
@@ -719,9 +709,9 @@ was prepared in order to memorialize the oral contract entered into between the 
 
 In *Mancuso v. Krackov,* it was said: "It is not necessary that each term [of an oral contract] be spelled out in minute detail." In *Thompson v. Schurman,* it was said: 
 
-> The rule is well established and uniformly followed that when the respective parties orally agree upon all the terms and conditions of a contract with the mutual intention that it shall thereupon become binding, the mere fact that a formal written agreement to the same effect is to be thereafter prepared and signed does not alter the binding validity of the original contract. &hellip;  The question as to whether an oral agreement, including all the essential terms and conditions thereof, which according to the mutual understanding of the parties is to be subsequently reduced to writing, shall take effect forthwith as a completed contract depends on the intention of the parties, to be determined by the surrounding facts and circumstances of a particular case. &hellip; 
+> &hellip;[W]hen the respective parties orally agree upon all the terms and conditions of a contract with the mutual intention that it shall thereupon become binding, the mere fact that a formal written agreement to the same effect is to be thereafter prepared and signed does not alter the binding validity of the original contract. &hellip;  The question as to whether an oral agreement, including all the essential terms and conditions thereof, which according to the mutual understanding of the parties is to be subsequently reduced to writing, shall take effect forthwith as a completed contract depends on the intention of the parties, to be determined by the surrounding facts and circumstances of a particular case. &hellip; 
 
-> The significance of shaking hands, under such circumstances and following the conversation hereinbefore mentioned, and at the same time saying ‘We have a deal,’ was material. The intention of the persons who shook hands and used those words, under such circumstances, was material. The testimony of both persons, with respect to intention, was to the same effect—that they intended to close the deal.
+The significance of shaking hands, under such circumstances and following the conversation hereinbefore mentioned, and at the same time saying ‘We have a deal,’ was material. The intention of the persons who shook hands and used those words, under such circumstances, was material. The testimony of both persons, with respect to intention, was to the same effect—that they intended to close the deal.
 
 [The court ultimately decided that on May 16th the parties entered into an oral contract and that they intended it to be legally binding.
 
@@ -764,29 +754,11 @@ Consideration fulfills at least two functions in entertainment law contracts:
 
 Must both sides assume some detriment or obligation?
 
-### *Wood v. Lucy, Lady Duff-Gordon*
-
-###### New York (1917)
-
-We all recall from first-year contracts, the famous case.
-
-* Fashion designer Lady Duff-Gordon gives Wood the exclusive rights to market her designs.
-* Wood agrees to pay Lady DG half the profits from selling Lady DG products.
-* Lady DG breaches the K by endorsing the products of someone else.
-* Wood sues for breach of K.
-* Lady Duff-Gordon says she hasn't breached because no valid contract existed between her and Wood, because the deal they made could not be enforced for lack of consideration. 
-
-Judge Cardozo famously found that the agreement contained an implied promise:
-
-> The law has outgrown its primitive stage of formalism when the precise word was the sovereign talisman, and every slip was fatal. It takes a broader view to-day. A promise may be lacking, and yet the whole writing may be "instinct with an obligation," imperfectly expressed. If that is so, there is a contract.
-
 ## Bonner v. Westbound Records 
 
 ###### Illinois Court of Appeals (1979)
 
 [Case on Westlaw][bonner]
-
-Mr. PRESIDING JUSTICE SIMON delivered the opinion of the court:
 
 The defendants Westbound Records, Inc. (Westbound), and Bridgeport
 Music, Inc. (Bridgeport), appeal from a summary judgment in favor of the
@@ -854,9 +826,7 @@ Players would not have been obligated to return it. By making the
 $4,000 advance, Westbound suffered a legal detriment and The Ohio
 Players received a legal advantage.&hellip; 
 
-Although the $4,000 payment to plaintiffs was not recited in either of
-the agreements, parol evidence was properly admitted to establish that
-the payment was made in consideration of the agreements. Where a contract is silent as to consideration, its existence may be established through parol evidence.&hellip; The agreements are valid and enforceable even if they lack mutuality because they are supported by the executed consideration of $4,000
+The agreements are valid and enforceable even if they lack mutuality because they are supported by the executed consideration of $4,000
 passing from the defendants to The Ohio Players.&hellip; 
 
 Even had the defendants not made the $4,000 advance, the plaintiffs
@@ -879,7 +849,7 @@ compelled by the rule that the law implies mutual promises to use good
 faith in interpreting an agreement and good faith and fair dealing in
 carrying out its purposes.
 
-In [*Wood v.  Lucy*](http://scholar.google.com/scholar_case?about=17497756576520329824)*,* an often-cited decision, the plaintiff, a dress manufacturer, obtained exclusive rights to market dresses designed by the defendant, a prominent designer, in return for the plaintiff's agreement to pay the designer one-half of its profits. The designer endorsed fabrics and dresses of plaintiff's competitors, and defended the plaintiff's suit for damages by contending, as the plaintiffs in this case argue, that the contract lacked mutuality because it did not require the plaintiff to do anything. Mr. Justice Cardozo, speaking for the New York Court of Appeals, rejected this argument, saying:
+In [*Wood v. Lucy*](http://scholar.google.com/scholar_case?about=17497756576520329824)*,* an often-cited decision, the plaintiff, a dress manufacturer, obtained exclusive rights to market dresses designed by the defendant, a prominent designer, in return for the plaintiff's agreement to pay the designer one-half of its profits. The designer endorsed fabrics and dresses of plaintiff's competitors, and defended the plaintiff's suit for damages by contending, as the plaintiffs in this case argue, that the contract lacked mutuality because it did not require the plaintiff to do anything. Mr. Justice Cardozo, speaking for the New York Court of Appeals, rejected this argument, saying:
 
 > "[The defendant insists] that the plaintiff does not bind himself to
 > anything. *It is true that he does not promise in so many words that
@@ -958,43 +928,7 @@ provisions states that Westbound and Bridgeport may sit idly by for 5
 years, and they did not. Neither agreement states that Westbound and
 Bridgeport may act in bad faith. Neither provision quoted above
 contradicts the implied promises of good faith which we attribute to the
-agreements.
-
-As we interpret the provision of the recording agreement quoted above,
-it states only that Westbound is not obligated to record the full
-minimum number of records set forth in another provision of the contract
-which The Ohio Players were obligated to record, or after going to the
-expense of making master recordings, to license them or make or sell
-records from the master recordings in the event the master recordings
-proved not to be suitable for that purpose. It does not mean, as
-plaintiffs urge, that Westbound is not required to make even one
-recording with The Ohio Players. And, the Bridgeport provision merely
-left to the discretion of the publisher the amount of advertising and
-publicity that would be given to any musical composition written by The
-Ohio Players. These provisions reserve to Westbound and Bridgeport
-discretion to control the content of recordings and the timing and
-number of releases. Flexibility of this type was essential in order to
-achieve the greatest success for The Ohio Players as well as Westbound
-and Bridgeport. Nothing in either the recording agreement or the
-publishing agreement or in the conduct of the parties demonstrates that
-Westbound or Bridgeport could or did use this discretion arbitrarily or
-in bad faith.
-
-This interpretation of the recording agreement finds support in a
-seemingly unrelated provision of that agreement. The agreement was to
-run for an initial term of 5 years, but Westbound had the option to
-extend it for 2 years. If, as the plaintiffs contend, Westbound had
-absolutely no obligations under the contract, that extension would be
-practically automatic, for Westbound would have nothing to lose by
-exercising its option, and perhaps something to gain. The agreement
-would be essentially for one 7-year term, and the "option" phrasing a
-meaningless complication. Under our interpretation of the contract,
-however, the option provision makes perfect sense: Westbound could
-extend its right to the plaintiffs' services, but only at the cost of
-renewing its own obligation to use reasonable efforts on their behalf.
-The law prefers an interpretation that makes sense of the entire
-contract to one that leaves a provision with no sense or reason for
-being a part of a contract.&hellip; 
+agreements&hellip;
 
 The circuit court also erred in failing to give effect to the
 doctrine of promissory estoppel as a substitute for consideration.
