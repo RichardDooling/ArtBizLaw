@@ -52,21 +52,21 @@ and falsely designated a third artist as an author.
 
 DAVID R. THOMPSON, Circuit Judge:
 
-The district court held that summary judgment was appropriate because
-Lamothe and Jones failed to establish that section 43(a) of the Lanham
-Act, 15 U.S.C. § 1125(a), provides relief to co-authors whose names have
-been omitted from a record album cover and sheet music featuring the
-co-authored compositions. Because the court concluded that no federal
-cause of action existed, the court also dismissed the plaintiffs'
-pendent state law claims for an accounting, defamation, and
-misattribution of authorship.
+The district court held that summary judgment was appropriate 
+because Lamothe and Jones failed to establish 
+that section 43(a) of the Lanham Act, 15 U.S.C. § 1125(a), 
+provides relief to co-authors 
+whose names have been omitted from a record album cover 
+and sheet music featuring the co-authored compositions. 
+Because the court concluded that no federal cause of action existed, 
+the court also dismissed the plaintiffs'pendent state law claims for an accounting, defamation, and misattribution of authorship.
 
 We have jurisdiction of this appeal under 28 U.S.C. § 1291, and we
 reverse.
 
 #### FACTS
 
-&hellip;Lamothe, Jones and Crosby are coauthors of two songs entitled "Scene of
+ &hellip; Lamothe, Jones and Crosby are coauthors of two songs entitled "Scene of
 the Crime," and "I'm Insane." These works were composed while Lamothe,
 Jones and Crosby were members of a band called Mac Meda. After Mac Meda
 disbanded, Crosby joined another musical group called RATT. While Crosby
@@ -198,7 +198,8 @@ that a partially accurate designation of origin, which obscures the
 contribution of another to the final product, is a permissible form of
 competition.&hellip; 
 
-In the present case, the defendants unilaterally decided to attribute
+In the present case, 
+the defendants unilaterally decided to attribute
 authorship to less than all of the joint authors of the musical
 compositions. Had the defendants decided to attribute authorship to a
 fictitious person, to the group "RATT," or to some other person, this
@@ -1157,7 +1158,7 @@ Vuitton asserts three causes of action:
 Warner Bros. now moves to dismiss the complaint in its entirety 
 on the ground that its use of the Diophy bag in the Film is protected by the
 First Amendment under the framework established by [*Rogers v.
-Grimaldi,* (2d Cir.1989)](http://scholar.google.com/scholar_case?case=1704090655237798849).[^5]
+Grimaldi,* (2d Cir.1989)](http://scholar.google.com/scholar_case?case=1704090655237798849).
 
 ### DISCUSSION
 
@@ -1178,11 +1179,7 @@ question of whether consumers are likely to be confused." &hellip;
 
 #### 1. *First Amendment*
 
-<<<<<<< HEAD
-In [*Rogers v. Grimaldi*](http://scholar.google.com/scholar_case?case=1704090655237798849)*,*
-=======
 In [*Rogers v.  Grimaldi*](http://scholar.google.com/scholar_case?case=1704090655237798849),
->>>>>>> fe44b481f2359387918ea7302c86311f4117b1a3
 the Second Circuit held 
 that the Lanham Act is inapplicable to "artistic works" 
 as long as the defendant's use of the mark is 
@@ -1204,20 +1201,18 @@ Louis Vuitton objects to the present motion on the following grounds:
 3. Warner Bros. is not afforded First Amendment protection for using an infringing product; and
 4. Disposing this case on a motion to dismiss is otherwise inappropriate. 
 
-#### *a. Artistic Relevance*
+#### a. Artistic Relevance
 
 The threshold for "artistic relevance" is purposely low 
 and will be satisfied unless the use 
 "has *no* artistic relevance to the underlying work *whatsoever.*" 
-[*Rogers,*](http://scholar.google.com/scholar_case?case=1704090655237798849)
-<<<<<<< HEAD
-(emphasis added). The
-artistic relevance prong ensures that the defendant intended an artistic
-— i.e., noncommercial — association with the plaintiff's mark, as
-opposed to one in which the defendant intends to associate with the mark
-to exploit the mark's popularity and good will. 
-=======
-(emphasis added); 
+[*Rogers,*][rogers] 
+(emphasis added). 
+The artistic relevance prong ensures 
+that the defendant intended an artistic---
+i.e., noncommercial---association with the plaintiff's mark, 
+as opposed to one in which the defendant intends to associate with the mark
+to exploit the mark's popularity and good will. (emphasis added); 
 *see also* [*Rock Star Videos, Inc.*](http://scholar.google.com/scholar_case?case=6229102239124683155)
 (holding that, under *Rogers,* "the level of relevance merely must be
 above zero"); 
@@ -1231,12 +1226,10 @@ that the defendant intended an artistic---i.e., noncommercial---
 association with the plaintiff's mark, 
 as opposed to one in which the defendant intends 
 to associate with the mark to exploit the mark's popularity and good will. 
-*See* [*Rogers*](http://scholar.google.com/scholar_case?case=1704090655237798849)
-(finding that the defendant satisfied the artistic relevance prong where
+*See* [*Rogers*][rogers] (finding that the defendant satisfied the artistic relevance prong where
 its use of the trademark was "not arbitrarily chosen just to exploit the
 publicity value of [the plaintiffs' mark] but instead ha[d] genuine
 relevance to the film's story").
->>>>>>> fe44b481f2359387918ea7302c86311f4117b1a3
 
 Warner Bros' use of the Diophy bag meets this low threshold. 
 Alan's terse remark to Teddy to "Be careful!" 
@@ -1494,6 +1487,7 @@ it's one less thing to worry about
 and one less issue for insurers or distributors 
 who want to buy your film.
 
+[rogers]: http://scholar.google.com/scholar_case?case=1704090655237798849 "Rogers v. Grimaldi"
 
 <!-- BEGIN COMMENT -->
 
