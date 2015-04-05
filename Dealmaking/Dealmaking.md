@@ -5,7 +5,9 @@ subtitle: ArtBizLaw
 chapter: Dealmaking
 ---
 
-# Lawyers For The Talent
+# Law & Business For Artists
+
+## Dealmaking
 
 ###### by Richard Dooling
 
