@@ -1,11 +1,11 @@
 ---
 author: Richard Dooling
-title: Entertainment Law
-subtitle: Lawyers For The Talent
+title: Law & Business For Artists
+subtitle: Art Biz Law
 chapter: Representation
 ---
 
-#  Lawyers For The Talent
+#  Law & Business For Artists
 
 ###### by Richard Dooling
 
@@ -135,7 +135,6 @@ who also happens to be represented by your large talent agency?
 The big agencies will often provide a second opinion, 
 a disinterested review of the terms to guard against conflicts of interest.
 
-
 #### The Interminable Agency Clause
 
 * [Description of clause](http://accrispin.blogspot.com/2011/04/interminable-agency-clause.html)
@@ -146,7 +145,6 @@ a disinterested review of the terms to guard against conflicts of interest.
 ###### Superior Court New York (2010)
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=2622311633908231934)
-* [case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=958+N.Y.S.2d+310&appflag=67.12)
 
 BERNARD J. FRIED, J.
 
@@ -367,9 +365,14 @@ causes of action is granted; and it is further
 
 ### Notes on *Peter Lampack Agency, Inc. v. Grimes*
 
-The Peter Lampack Agency (PLA, a literary agency) sued Martha Grimes, an author of literary and commercial fiction, for unpaid commissions allegedly due and owing under contracts negotiated by PLA on behalf of Grimes.
+The Peter Lampack Agency (PLA, a literary agency) 
+sued Martha Grimes, an author of literary and commercial fiction, 
+for unpaid commissions allegedly due and owing under contracts 
+negotiated by PLA on behalf of Grimes.
 
-PLA had acted as literary agent for Grimes for twelve years and had procured publishing agreements for works authored by Grimes. Those works were published, and Grimes received
+PLA had acted as literary agent for Grimes for twelve years 
+and had procured publishing agreements for works authored by Grimes. 
+Those works were published, and Grimes received
 over $12 million dollars from the publication and domestic and
 international sale of her novels. 
 
@@ -377,7 +380,16 @@ Among the contracts PLA procured for Grimes was a four-book publishing agreement
 
 That 2005 agreement contained an option clause, similar to option clauses found in many publishing agreements, in effect giving the publisher the right of "first look" at the author's next work:
 
-> [T]he Author hereby grants to the Publisher the exclusive right and option to publish . . . her next book-length work of fiction . . . . The Publisher shall have a period of thirty (30) days after receipt by the Publisher of the notification from the Author or her agent of the Author's desire to commence negotiation concerning such next book-length work of fiction within which to notify the Author whether it desires to publish such work and to negotiate the terms and conditions of such publication.
+> [T]he Author hereby grants to the Publisher 
+> the exclusive right and option to publish &hellip; 
+> her next book-length work of fiction . . . . 
+> The Publisher shall have a period of thirty (30) days 
+> after receipt by the Publisher of the notification from the Author 
+> or her agent of the Author's desire to commence negotiation 
+> concerning such next book-length work of fiction 
+> within which to notify the Author 
+> whether it desires to publish such work 
+> and to negotiate the terms and conditions of such publication.
 
 The 2005 Penguin agreement also contained an agency commission clause, providing that:
 
