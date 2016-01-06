@@ -39,6 +39,47 @@ The Copyright Act defines a "joint work" as:
 > be merged into inseparable or interdependent parts 
 > of a unitary whole.
 
+[§ 101 - Definitions][101]
+
+### Who Controls the Copyright?
+
+In [All You Need to Know About the Music Business][passman], 
+Donald Passman uses the following simple example:
+
+> Suppose you and your cousin Louis write a brilliant song together. 
+> Which one of you owns it? 
+
+> [Section 201(a)][201] of the Copyright Act &hellip; 
+> says that you and Louis have created a **joint work**, 
+> meaning it was created jointly by the efforts of two or more people. 
+> When you have a joint work, 
+> either of the authors/owners can deal *non-exclusively* 
+> with the *entire* composition, 
+> subject to the obligation to pay the other person 
+> his or her share of the proceeds. 
+> That means you can give all the non-exclusive licenses you want 
+> to record companies, film companies, etc., 
+> subject to paying Louie for his share of the song. 
+> And Louie can do the same.
+
+What if you write only the music and Louie writes only the lyrics? 
+Can you take back your music, cut out Louie, 
+and ask somebody else to write new lyrics?
+No. Passman compares creating a joint work to adding water to a ball of clay and squishing it. Or scrambling the white and the yolk of an egg. 
+
+> The law says that, 
+> even if two people create separate, distinct parts of a work, 
+> they each own an interest in the *whole copyright*, 
+> not just their own contribution. 
+> Thus, Louie owns half the music and half the lyrics, and so do you. 
+> You can't just pick up and leave each other. 
+> Even if you add new lyrics, 
+> Louis has a percentage of the song.
+
+[All You Need to Know About the Music Business][passman], by Donald Passman.
+
+### Copyrightable Contributions
+
 To be considered joint authors, each author must:
 
 1. Contribute *copyrightable* elements to the joint work, and
@@ -48,7 +89,7 @@ These rules govern WHO OWNS THE COPYRIGHT at the outset.
 As always, the parties are free to adjust ownership 
 by making deals for partial ownership of the copyright. 
 
-> [T]he person with noncopyrightable material 
+> The person with noncopyrightable material 
 > who proposes to join forces with a skilled writer
 > to produce a copyrightable work 
 > is free to make a contract to disclose his or her material 
@@ -148,7 +189,7 @@ when it carefully draws the bounds of "joint authorship"
 so as to protect the legitimate claims 
 of both sole authors and coauthors.&hellip; 
 
-[T]he prevailing view strikes an appropriate balance 
+The prevailing view strikes an appropriate balance 
 in the domains of both copyright and contract law. 
 In the absence of contract, 
 the copyright remains with the one or more persons 
@@ -321,13 +362,20 @@ In the words of Francois La Rochefoucauld:
 Please read this case in its entirety by 
 [reading at Google Scholar](http://scholar.google.com/scholar_case?case=3326238332286533012). 
 
-This case is an important United States Supreme Court case decided on its facts and on a careful reading of the work for hire provisions of the Copyright Act. It has major implications in many areas of the law (contract, employment, intellectual property, torts), because it addresses the crucial status of an artist as either empolyee or independent contractor. 
+This case is an important United States Supreme Court case 
+decided on its facts 
+and on a careful reading 
+of the work for hire provisions of the Copyright Act. 
+It has major implications in many areas of the law 
+(contract, employment, intellectual property, torts), 
+because it addresses the crucial status of an artist 
+as either employee or independent contractor. 
 
 ## Licensing
 
 Courts must often apply old contract language to new technologies. 
 
-Suppose an author licenses a publisher to print her books in hardcover or paperback. Does that license also include the right to publish the same book as an e-book? What if e-book technology did not exist the author made the original publishing deal?
+Suppose an author licenses a publisher to print her books in hardcover or paperback. Does that license also include the right to publish the same book as an e-book? What if e-book technology did not exist when the author made the original publishing deal?
 
 What happens when a person with a license to exhibit a movie on television now wants to exhibit a movie using VCR tapes or DVD discs? What if these technologies didn't even exist when the artist made his deal with the studio? 
 
@@ -608,7 +656,7 @@ judgment in favor of Paramount is reversed.
 
 REVERSED and REMANDED.
 
-##### Dooling Case Summary (from slides)
+#### Notes on *Cohen v. Paramount Pictures Corp.*
 
 In 1969, Herbert Cohen owned copyright in a song called “Merry-Go-Round.” 
 Cohen granted a “synchronization” license 
@@ -641,7 +689,7 @@ so Cohen could not have known
 he was selling the right to display a movie using his song on videocassette.
 
 Paramount argued that the terms of Cohen's license 
-were similar to agreements in two other other early videocassette cases,
+were similar to agreements in two other early videocassette cases,
 in which an original grant of rights included videocassette rights, even though such rights did not exist at the time of the original deal. 
 
 1. A contract between *Platinum Record Co. v. LucasFilm* (DCNJ 1983) giving the right: "to exhibit, distribute, exploit, market and perform said motion picture, its air, screen and television trailers, **perpetually throughout the world by any means or methods now or hereafter known.**"
@@ -726,6 +774,10 @@ The court called copyright ownership "a bundle of rights":
 
 See for yourself! [YouTube: The Disputed Footage In *Cohen*](http://www.youtube.com/watch?v=1LnisuqGSsY).
 
+[JUNE 29, 2015 9:53am PT by Eriq Gardner
+Appeals Court Rules Producer, Not Director, Gets Film Copyright](
+http://www.hollywoodreporter.com/thr-esq/appeals-court-rules-producer-not-805650)
+
 ## Digital Sampling and Imaging
 
 [Circular 56a][circ56a], 
@@ -762,6 +814,8 @@ copyright in the underlying musical composition.
 ###### United States Court of Appeals Ninth Circuit (2003)
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=7229536370368292204)
+* [James Newton: Choir](http://www.dailymotion.com/video/x7vqs7_james-newton-choir_music)
+* [Beastie Boys: Pass The Mic](https://www.youtube.com/watch?v=NpsvBvwRuf0)
 
 Opinion by Chief Judge SCHROEDER. Dissent by Judge GRABER.
 
@@ -1081,6 +1135,10 @@ Newton should be allowed to present his claims of infringement to a
 jury. I therefore dissent from the majority's conclusion to the
 contrary.
 
+####Note on *Newton v. Diamond*
+
+For anyone interested, in 2012, Bloomberg Law made a short [Youtube video][beastie] on the Beastie Boys' legal troubles that features the 3-note sample in question in this case.
+
 ### Bridgeport Music, Inc. v. Dimension Films
 
 ###### United States Court of Appeals Sixth Circuit (2005)
@@ -1248,21 +1306,23 @@ no opinion on its applicability to these facts.
 
 ## Future of Sampling
 
-**If you sample, you must license** seems to be the rule following *Bridgeport*. But why? Why is this not subject to a simple fair use analysis?
+**"If you sample, you must license"** seems to be the rule following *Bridgeport*. But why? Why is this not subject to a simple fair use analysis?
 
 ### Good Copy Bad Copy
 
-Please watch the first 14 minutes of [*GOOD COPY BAD COPY*](http://blip.tv/good-copy-bad-copy/good-copy-bad-copy-full-feature-364089), a documentary about the current state of copyright and culture, featuring Girl Talk, Danger Mouse, and many others.
+Please watch the first 14 minutes of [*GOOD COPY BAD COPY*](https://www.youtube.com/watch?v=WEKl5I_Q044), a documentary about the current state of copyright and culture, featuring Girl Talk, Danger Mouse, and many others.
 
 * [Why Hasn't The Recording Industry Sued Girl Talk?](https://www.techdirt.com/articles/20090707/0237205466.shtml)
-* [Why The Music Industry Isn’t Suing Mashup Star ‘Girl Talk’] (https://gigaom.com/2010/11/16/419-why-the-music-industry-isnt-suing-mashup-star-girl-talk/)
+* [Why The Music Industry Isn’t Suing Mashup Star ‘Girl Talk’](https://gigaom.com/2010/11/16/419-why-the-music-industry-isnt-suing-mashup-star-girl-talk/)
 
 
-### How To Acquire Music For Films
+## How To Acquire Music For Films
+
+In general, there are 3 ways music is acquired for a film: (1) the filmmaker licenses music that already exists prior to filming, (2) the filmmaker hires an artist to re-record music for the film (usually used when you can't acquire a license), or (3) an artist or composer is hired to make new music specifically for the film being produced.
 
 [From ASCAP.com](http://www.ascap.com/music-career/articles-advice/film-tv/how-to-acquire-music-for-films.aspx):
 
-Frequently Asked Questions For Student and Independent Filmmakers
+**Frequently Asked Questions For Student and Independent Filmmakers**
 
 **Q:** What Licenses Must I Get To Use A Song In My Film?
 
@@ -1272,17 +1332,33 @@ Frequently Asked Questions For Student and Independent Filmmakers
 
 - **Master Use License:** This is the right to reproduce a specific recording of a song in your film. You clear this right with the record label who owns the specific recording you would like to use; see the liner notes of the recording to find out which company this is. Alternatively, you can get contact information for record labels by calling ASCAP's Film/TV Department. You will be provided with a contact at the record label's Business Affairs Department.
 
+[Note: It's not a bad idea for filmmakers to also secure a **Performance License** and a **Videogram License**, which allows the film containing the song to be broadcast on television and copies of the film to be made and sold. Interestingly, in the United States, no special license is required to show the movie in a movie theater.]
+
 **Q:** Can I Use These Songs On My Soundtrack Album?
 
 **A:** If you intend to use these songs on a soundtrack album, you will need to negotiate additional soundtrack rights with the publisher and record label as you negotiate the synch and master use rights for your film.
 
 #### Find Out Who Owns Music Rights
 
-* [AllMusic.com](http://allmusic.com). The near-equivalent to IMDB in the music world is Like IMDB it lists credits, albums, and songs of all musicians. But to my knowledge there is no "Pro" feature providing information about representation. The American Society of Composers, Authors and Publishers ([ASCAP](http://en.wikipedia.org/wiki/American_Society_of_Composers,_Authors_and_Publishers)) and Broadcast Music, Inc. ([BMI](the http://en.wikipedia.org/wiki/Broadcast_Music,_Inc.)) also provide databases where you can search for music by title or by artist and discover the publisher for each song:
+* [AllMusic.com](http://allmusic.com). The near-equivalent to IMDB in the music world is Like IMDB it lists credits, albums, and songs of all musicians. But to my knowledge there is no "Pro" feature providing information about representation. The American Society of Composers, Authors and Publishers ([ASCAP](http://en.wikipedia.org/wiki/American_Society_of_Composers,_Authors_and_Publishers)) and Broadcast Music, Inc. ([BMI](http://en.wikipedia.org/wiki/Broadcast_Music,_Inc.)) also provide databases where you can search for music by title or by artist and discover the publisher for each song:
     * [ASCAP title search](https://www.ascap.com/home/ace-title-search/index.aspx)
     * [BMI repertoire search](http://repertoire.bmi.com/startpage.asp)
 
-### Film Options
+#### Music Licensing Agreements
+
+Once a copyright owner agrees to let a filmmaker license their song for a film, best practice requires drawing up an official licensing contract. This license will usually be nonexclusive, meaning that the owner can allow anyone else they want to use the song as well (exclusive licenses are rarer and, understandably, harder to negotiate). A good licensing agreement will set forward **where the license applies** (the one receiving the license will want this to be broad as possible -- "the world", for example; but it will cost less to license for local use -- say, for a local television ad), all **forms of media** where the song will be used (not just "film", but broadcast, cable, and satellite television, in-flight movies, DVD, etc. -- again, the filmmaker will want this to be as broad as possible), and the **license fee** (for popular songs, a license can run you tens of thousands of dollars, and some copyright owners will want royalties, as well). If the filmmaker will be modifying the song in any way, they will need to include this in the license agreement.
+
+#### Re-recording and Sound-Alike Recordings
+
+Some filmmakers choose to re-record a song in an effort to save some money on licensing fees. This option still requires obtaining licenses from the publishing company (you will still need a synchronization license, and performance and videogram licenses, if applicable). You will also need to hire musicians to do the new recording (which can have its own contracting foibles).
+
+But, could you hire a cover band that sounds exactly like the artist denying your request to re-record the song so that the audience will be fooled into thinking it's the original song (known as a "sound-alike recording")? Probably not, as this may violate the original artist's right of publicity (this falls under the laws of unfair competition).
+
+#### Commissioning Music
+
+Often, filmmakers want new music made specifically for their movie (think of the great movie composers, like John Williams or Hans Zimmer). Filmmakers will then negotiate a composer's service agreement that structures the relationship as a work made for hire. This solves the issue of ownership -- the rights to the recording and the composition itself will belong to the production company, not the composer.
+
+## Film Options
 
 #### Five Stages of Film Production
 
@@ -1308,8 +1384,8 @@ instead of buying them outright.
 #### The Movie Option 3 Essential Terms
 
 1. The option period 
-2. The option payment. 
-3. The purchase price. 
+2. The option payment 
+3. The purchase price 
 
 ##### 1. The Option Period
 
@@ -1337,15 +1413,18 @@ Mainly how much? $50k, $100k, usually more.
 
 * [*GOOD COPY BAD COPY*](http://blip.tv/good-copy-bad-copy/good-copy-bad-copy-full-feature-364089), a documentary about the current state of copyright and culture, featuring Girl Talk, Danger Mouse, and many others.
 * [*Copyright Criminals*](http://vimeo.com/9958864), a documentary that examines the creative and commercial value of sampling in music. Featuring Public Enemy, De La Soul, QBert and more.
-* [Are actors employees or independent contractors?](http://www.hollywoodreporter.com/thr-esq/google-warns-muslims-ruling-will-684425) An actress sues Google to take down the controversial "Innocence of Muslims" video claiming that she still owns the copyright to her performance.
-* [More on Innocence of Muslims](http://www.newyorker.com/online/blogs/elements/2014/03/a-controversial-youtube-video-haunts-free-speech-again.html)
+* [Are actors employees or independent contractors?](http://www.hollywoodreporter.com/thr-esq/google-warns-muslims-ruling-will-684425) (An actress sues Google to takedown the controversial "Innocence of Muslims" video claiming that she still owns the copyright to her performance.
+* [More on "Innocence of Muslims"](http://www.newyorker.com/online/blogs/elements/2014/03/a-controversial-youtube-video-haunts-free-speech-again.html)
 * Lawsuit alleges Jay Z hit 'Run This Town' [illegally sampled 1960s funk song][jayz_lawsuit]
 * [Frank Ocean's 'Super Rich Kids' Named in Copyright Lawsuit](http://www.rollingstone.com/music/news/frank-oceans-super-rich-kids-named-in-copyright-lawsuit-20140211#ixzz2t3iDZnRQ)
 * [Wikipedia Defends the Monkey Selfie](http://www.newyorker.com/news/daily-comment/monkey-see-monkey-click)
 
 ##### Totally Optional: For Musicians & Recording Artists
 
-* [Harvard Law School Recording Artists Project: Copyright Basics](http://www.law.harvard.edu/academics/clinical/tlc/rap/rap-for-clients/copyright.html)
+* [Harvard Law School Recording Artists Project: Copyright Basics](http://www.law.harvard.edu/academics/clinical/tlc/rap/rap-for-clients/copyright.html).
+* [Hit Charade: Meet the bald Norwegians and other unknowns who actually
+create the songs that top the charts](http://www.theatlantic.com/magazine/archive/2015/10/hit-charade/403192/).
+* [The Song Machine: Inside the Hit Factory Hardcover – October 5, 2015 by John Seabrook](http://www.amazon.com/The-Song-Machine-Inside-Factory/dp/0393241920).
 
 [leslie]: http://lottfischer.com/general.php?category=Resources&subhead=Articles&headline=+When+does+an+Editor%E2%80%99s+input+create+a+Joint+Work+of+Authorship "When Does Creative Input Become Joint Authorship?"
 [ccnv]:	http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=109+S.Ct.+2166&appflag=67.12 "Community For Creative Non-Violence v. Reid"
@@ -1356,3 +1435,5 @@ Mainly how much? $50k, $100k, usually more.
 [102]: http://www.copyright.gov/title17/92chap1.html#102 "Section 102: Subject Matter"
 [106]: http://www.copyright.gov/title17/92chap1.html#106 "Section 106: Exlusive rights in copyrighted works"
 [201]: http://www.copyright.gov/title17/92chap2.html#201 "Section 201: Ownership of Copyright"
+[beastie]: https://www.youtube.com/watch?v=KARQOgivaGA
+[passman]: http://www.amazon.com/Need-Know-About-Music-Business/dp/1451682468/inscape-20 "Donald Passman, All You Need To Know About The Music Business"

@@ -19,7 +19,7 @@ These materials are published under an [MIT license](https://github.com/RichardD
 
 ### Infringement
 
-Copyright is violated only if the prior work has been *copied.* 
+Copyright is violated only if the prior, copyrighted work has actually been *copied.* 
 
 If I write an original song, 
 then you come along, *copy* it, 
@@ -36,7 +36,7 @@ Judge Learned Hand put it this way:
 > If by some magic a man who had never known it 
 > were to compose anew Keats's *Ode on a Grecian Urn*, 
 > he would be an 'author,' 
-> and if he copyright it, 
+> and if he copyrights it, 
 > others might not copy that poem, 
 > though they might of course copy Keats's . . .
 
@@ -98,9 +98,9 @@ See [*Selle v. Gibb*](http://scholar.google.com/scholar_case?case=15134673856711
 * [Case on Google Scholar](http://scholar.google.com/scholar_case?case=7721050309378220492)
 * [Case on Wikipedia](http://en.wikipedia.org/wiki/My_Sweet_Lord#Copyright_infringement_suit).
 
-One of the most famous copyright infringement suit of all time. 
+One of the most famous copyright infringement suits of all time. 
 
-First listen to ["He's So Fine,"](https://www.youtube.com/watch?v=JU5qP20iJl0&feature=kp), a hit song composed by Ronnie Mack and performed by The Chiffons in the sixties.
+First listen to ["He's So Fine,"](https://www.youtube.com/watch?v=JU5qP20iJl0&feature=kp) a hit song composed by Ronnie Mack and performed by The Chiffons in the sixties.
 
 Then listen to George Harrison's massive soulful hit ["My Sweet Lord"](https://www.youtube.com/watch?v=0kNGnIKUdMI&feature=kp).
 
@@ -113,7 +113,7 @@ and indeed may even be "unconscious"
 or take place in the "subconscious." 
 Metaphysics meets copyright. 
 When your client wrote her song, 
-did she unintentionally infringe on lullaby her mother sang to her?
+did she unintentionally infringe on a lullaby her mother sang to her?
 
 #### Excerpts from *Bright Tunes* opinion
 
@@ -670,7 +670,7 @@ or that both copies are based on a common source in the public domain.
 > because the jury cannot draw an inference of access 
 > based upon speculation and conjecture alone.
 
-## Subsantial Similarity
+## Substantial Similarity
 
 Copyright plaintiffs must prove 
 that alleged infringers had access to plaintiff's copyrighted work 
@@ -683,7 +683,7 @@ as having been appropriated from the copyrighted work."
 
 In [*Nichols v Universal* (2d Cir. 1930)](http://scholar.google.com/scholar_case?case=14991934121439658064), 
 Judge Learned Hand compared a play, *Abie's Irish Rose*, 
-with a movie *The Cohens and the Kellys* in a copyright suit.
+with a movie, *The Cohens and the Kellys*, in a copyright suit.
 
 Copyright in literary works “cannot be limited literally to the text, 
 else a plagiarist would escape by immaterial variations.” 
@@ -1278,7 +1278,7 @@ SO ORDERED.
 
 #### Copyright Statute
 
-###### § 107 -Limitations on exclusive rights: Fair use
+###### § 107 - Limitations on exclusive rights: Fair use
 
 > Notwithstanding the provisions of sections 106 and 106A, the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include: 
 
@@ -1296,7 +1296,7 @@ if such finding is made upon consideration of all the above factors.
 The court does. AFTER the fact. 
 Meaning that the accused infringer 
 has already been hauled into court by the copyright holder. 
-Attorneys fees (kaching!) 
+Attorney's fees (ka-ching!). 
 This why copyright CLEARANCES and LICENSING are essential 
 BEFORE the movie is made. 
 Clearances are designed to keep the artist from being sued in the first place.
@@ -1307,7 +1307,7 @@ Clearances are designed to keep the artist from being sued in the first place.
 * [case at Westlaw][harper]
 * [case at Wikipedia](http://en.wikipedia.org/wiki/Harper_%26_Row_v._Nation_Enterprises)
 
-The Watergate Scandall forced Richard Nixon 
+The Watergate Scandal forced Richard Nixon 
 to resign as President of the United States in 1974. 
 Vice President Gerald Ford became president, 
 and thirty days later granted Nixon a full pardon 
@@ -1389,7 +1389,7 @@ As the Court put it:
 
 > In absolute terms, the words actually quoted were an insubstantial portion of “A Time to Heal.” The District Court, however, found that “[T]he Nation took what was essentially the heart of the book.”
 
-4. the effect of the use upon the potential market for or value of the copyrighted work.
+4. The effect of the use upon the potential market for or value of the copyrighted work.
 
 The Court found that "this last factor is undoubtedly the single most important element of fair use." And The Nation's advanced publication of excerpts destroyed the market for first serial rights, because when Time Magazine learned of The Nation's publication it canceled the deal, and with good reason.
 
@@ -1401,6 +1401,8 @@ The Court found that "this last factor is undoubtedly the single most important 
 
 * [case on Google Scholar](http://scholar.google.com/scholar_case?case=16686162998040575773)
 * [case at Wikipedia](http://en.wikipedia.org/wiki/Campbell_v._Acuff-Rose_Music,_Inc.). 
+* [Listen to Roy Orbison's "Pretty Woman"](https://www.youtube.com/watch?v=mHPgco6GQk8).
+* [Listen to Two Live Crew's parody of "Pretty Woman"](https://www.youtube.com/watch?v=65GQ70Rf_8Y).
 
 JUSTICE SOUTER delivered the opinion of the Court.
 
@@ -1629,7 +1631,7 @@ value, as Acuff-Rose itself does not deny. Like less ostensibly humorous
 forms of criticism, it can provide social benefit, by shedding light on
 an earlier work, and, in the process, creating a new one. We thus line
 up with the courts that have held that parody, like other comment or
-criticism, may claim fair use under § 107.&hellip;  
+criticism, may claim fair use under § 107.&hellip; 
 
 The germ of parody lies in the definition of the Greek *parodeia,*
 quoted in Judge Nelson's Court of Appeals dissent, as "a song sung
@@ -1986,7 +1988,7 @@ Court essentially passed  on this issue, observing that
 Acuff-Rose is free to record "whatever version of the original it
 desires," &hellip; the Court of Appeals went the other way
 by erroneous presumption. Contrary to each treatment, it is impossible
-to deal with the fourth factor except by recognizing that a silentrecord
+to deal with the fourth factor except by recognizing that a silent record
 on an important factor bearing on fair use disentitled the proponent of
 the defense, 2 Live Crew, to summary judgment. The evidentiary hole will
 doubtless be plugged on remand.
@@ -2103,6 +2105,8 @@ taking fiction is less fair.
 #### Totally Optional Readings and Viewings ####
 
 * [Shepard Fairey and the Obama "Hope" Poster](http://en.wikipedia.org/wiki/Barack_Obama_%22Hope%22_poster).
+* ['Hope' poster artist Shepard Fairey faces arrest in Detroit](
+http://www.politico.com/story/2015/06/shepard-fairey-arrest-warrant-graffiti-119413.html) By Nick Gass, 6/25/15 6:31 AM EDT.
 * [The New Yorker: Who Owns This Image?](http://www.newyorker.com/online/blogs/currency/2014/02/who-owns-this-image.html)
 * [Woody Allen's Midnight In Paris: Copyright Infringement?](http://www.theguardian.com/film/2013/jul/19/midnight-in-paris-copyright-william-faulkner) (In the film, Owen Wilson's character says: "The past is not dead. Actually, it's not even past." In *Requiem for a Nun*, Faulkner wrote: "The past is never dead. It's not even past." Faulkner Literary Rights argued this amounted to copyright infringement, but Sony countered by claiming de minimis and "fair use").
 * [*Woods v. Universal*](http://www.leagle.com/decision/1996982920FSupp62_1966.xml/WOODS%20v.%20UNIVERSAL%20CITY%20STUDIOS,%20INC.) (SDNY 1996)(*12 Monkeys* scene featuring Bruce Willis being interrogated in a futuristic chair infringes on drawing called *Neomechanical Tower (Upper) Chamber*).
@@ -2120,6 +2124,7 @@ taking fiction is less fair.
 * [Marvin Gaye's Children Use Audio Mashup to Prove 'Blurred Lines' Is Infringing](http://www.hollywoodreporter.com/thr-esq/marvin-gayes-children-use-audio-731178)
 * [Documentary Filmmakers' Statement Of Best Practices In Fair Use](http://www.cmsimpact.org/sites/default/files/fair_use_final.pdf) (see *Pocket Lawyer* page 246).
 * [Code Of Best Practices In Fair Use For Online Video](http://www.cmsimpact.org/sites/default/files/online_best_practices_in_fair_use.pdf) (see *Pocket Lawyer* page 246).
+* [The Fair Use App An Interactive Guide for Filmmakers and Video Creators](http://www.newmediarights.org/fairuse/)
 
 [aba-copyright]: http://www.americanbar.org/groups/young_lawyers/publications/the_101_201_practice_series/elements_of_a_copyright.html "Elements of Copyright Claim"
 [harper]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=105+S.Ct.+2218&appflag=67.12 "Harper & Row v. Nation Enterprises"

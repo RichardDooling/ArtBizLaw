@@ -1,7 +1,7 @@
 ---
 author: Richard Dooling
 title: Law & Business For Artists
-subtitle: Copyright Basics
+chapte: Copyright Basics
 ---
 
 # Law & Business For Artists
@@ -19,15 +19,20 @@ to help educate people about the copyright laws.
 
 * [Copyright Basics](http://www.copyright.gov/circs/circ01.pdf) (read first 6 pages of Copyright Basics; stop at page 7, Copyright Registration)
 
+Crash Course on Copyright is also great for introduction and review:
+
+* [Copyright Basics: Crash Course Intellectual Property 2](https://www.youtube.com/watch?v=Tamoj84j64I&list=PL8dPuuaLjXtMwV2btpcij8S3YohW9gUGN&index=2)
+* [Copyright, Exceptions, and Fair Use: Crash Course Intellectual Property 3](https://www.youtube.com/watch?v=Q_9O8J9skL0)
+
 ### History of Copyright
 
-> Copyright turns the content of protected works into a private good 
+> "Copyright turns the content of protected works into a private good 
 > whose authors can grant or withhold consent to others 
 > to use and distribute it." 
 
 > Paul Weiler, *Entertainment, Media and The Law*
 
-The constitution gives Congress the power, 
+Essentially, a "copyright" grants authors and artists certain exclusive rights (see list below) to their intellectual property (the work they created). The constitution gives Congress the power to develop laws to protect and regulate intellectual property, 
 under Article I, Section 8, Clause 8:
 
 > To promote the progress of Science and useful Arts 
@@ -35,15 +40,15 @@ under Article I, Section 8, Clause 8:
 > the exclusive Right to their respective Writings and Discoveries.
 
 And Congress has passed laws (copyright, trademark, patent) 
-in an attempt to do achieve these ends. 
+in an attempt to achieve these ends. 
 
 The courts then try to strike a delicate balance 
 between intellectual property rights and free speech rights.
 
 We do not have time to explore the particulars of 
 [copyright terms](http://en.wikipedia.org/wiki/Copyright_term) 
-or (the length of time copyright protects a work 
-before it passes into the public domain). 
+(the length of time copyright protects a work 
+before it passes into the public domain and can be freely used by anyone). 
 In most of the world, 
 the default length of copyright 
 is the life of the author plus either 50 or 70 years. 
@@ -55,7 +60,7 @@ in the United States is CGP Grey's YouTube presentation:
 [Forever Less One Day: Meet Copyright!][4ever-1day]. 
 We saw it in class. It bears rewatching.
 
-#### Rights Protected Include:
+#### Rights Protected by Copyright Include:
 
 * Production of the initial work
 * Production of derivative works
@@ -66,11 +71,11 @@ We saw it in class. It bears rewatching.
 #### Who Owns The Rights?
 
 Artists invest time, talent, and money to produce intellectual property, 
-which consumers then presumably purchase the right to enjoy. 
-But artists may also wish to share under various alternative licensing schemes: 
+which consumers then presumably purchase the right to enjoy. Simply purchasing a copyrighted work (say, a book), however, does not grant the buyer all of the same rights held by the copyright owner.
+But artists may also wish to share their work under various alternative licensing schemes: 
 [Copyleft](http://en.wikipedia.org/wiki/Copyleft), 
 [MIT license](http://opensource.org/licenses/MIT), 
-[Creative Commons](https://creativecommons.org/), and so on. 
+[Creative Commons](https://creativecommons.org/), and so on. Copyrights may also be transferred. 
 
 ### Copyrightable Works
 
@@ -97,7 +102,7 @@ instead of ordering more from Bleistein,
 the promoter hired the Donaldson Lithographing company 
 to make copies of the posters.
 
-When Bleistein the sketch artist sued, 
+When Bleistein (the sketch artist) sued, 
 a lower court dismissed his case 
 holding that the prints were just sketches 
 and had "no other use than as a pure advertisement" 
@@ -152,7 +157,7 @@ look at each borderline case based on its own facts.
 In 1987, Atari games wanted to register the video game *Breakout,* 
 which consisted of little more than a flat image of a paddle 
 and basic colored geometric shapes on a screen. 
-At first the Copyright Registrar Ralph Oman 
+At first, the Copyright Registrar Ralph Oman 
 refused to register the work 
 because it "did not contain at least a minimum amount 
 of original pictorial or graphic authorship, 
@@ -165,7 +170,7 @@ The appellate court said:
 > It also must possess a certain low level of creativity 
 > which courts have described as "very slight," "minimal," "modest." 
 
-In [*Feist v. Rural*][feist] the United States Supreme Court said 
+In [*Feist v. Rural*][feist], the United States Supreme Court said 
 that "the requisite level of creativity is extremely low; 
 even a slight amount will suffice." 
 
@@ -174,18 +179,20 @@ in a particular sequence alongside audio,
 the Court found it met the requisite level of Copyright. 
 
 Even five distinctive musical notes are copyrightable. 
-Watch this video clip from 
-[*Close Encounters Of The Third Kind*](http://www.youtube.com/watch?v=mYCBgSRNjk0). 
-Beginning at the 5:00 mark, 
-the five second tones played to make contact with the alien ship 
-were created by famed movie composer John Williams 
-and a copyright successfully registered to protect them.
+In *Close Encounters Of The Third Kind*,
+a sci-fi movie from the 1970s by Steven Spielberg,
+humans seek to communicate with approaching alien spaceships 
+by using a distinctive series of five musical notes.
+Famed movie composer John Williams and the filmmakers 
+successfully registered a copyright to protect them.
+If you'd like to hear the notes, TURN DOWN THE VOLUME on your computer.
+It's a bit loud: [*Close Encounters Of The Third Kind* - five-note sequence](https://www.youtube.com/watch?v=kpsEqINeMS4). 
  
 ### Fixation
 
 Copyright protection does not require a work to be published, 
 but does require that the work be 
-"fixed in a tangible medium of expression" [&sect; 102(a)][102] 
+"fixed in a tangible medium of expression." [&sect; 102(a)][102] 
 
 > A work is 'fixed' &hellip; 
 > when its embodiment in a copy or phonorecord &hellip; 
@@ -239,7 +246,7 @@ The copyright laws do not protect research.
 
 #### *Facts*
 
-In December 1968 
+In December 1968, 
 the college-aged daughter of a wealthy Florida land developer 
 was abducted from an Atlanta motel room and buried alive 
 in a plywood and fiberglass capsule. 
@@ -274,7 +281,7 @@ that “research is copyrightable.”
 
 It is well settled that copyright protection extends 
 only to an author's expression of facts 
-and not to the facts themselves.&hellip; 
+and not to the facts themselves&hellip; 
 This dichotomy between facts and their expression 
 derives from the concept of originality 
 which is the premise of copyright law. 
@@ -400,7 +407,7 @@ it rejected the language regarding independent research:
 
 The Second Circuit has adhered to its position 
 in the most recent appellate case to address the question, 
-[*Hoehling v. Universal City Studios, Inc.,* (2d Cir. 1980)][hoehling]
+[*Hoehling v. Universal City Studios, Inc.,* (2d Cir. 1980)][hoehling].
 *Hoehling* involved various literary accounts 
 of the last voyage and mysterious destruction 
 of the German dirigible Hindenberg. 
@@ -414,9 +421,8 @@ by a member of its crew to embarrass the Nazi regime.
 
 Ten years later, 
 defendant Michael McDonald Mooney published his book, *The Hindenberg.* 
-While a more literary than historical account, 
-it also hypothesized sabotage. 
-
+While more literary than historical, 
+Mooney's account also hypothesized sabotage. 
 Universal City Studios purchased the movie rights to Mooney's book 
 and produced a movie under the same title, 
 although the movie differed somewhat from the book. 
@@ -532,7 +538,7 @@ the Second Circuit observed:
 > and each generation remains free 
 > to draw upon the discoveries and insights of the past.” 
 
-### Sc&#232;nes-&#192;-Faire
+#### Sc&#232;nes-&#192;-Faire
 
 Definition: [Sc&#232;nes-&#192;-Faire at Wikipedia](http://en.wikipedia.org/wiki/Sc%C3%A8nes_%C3%A0_faire) 
 
@@ -542,7 +548,7 @@ Definition: [Sc&#232;nes-&#192;-Faire at Wikipedia](http://en.wikipedia.org/wiki
 
 Copyright protects "original works of art." 
 A story about greedy miser is or a cruel slave master, 
-maybe be protected by copyright, 
+may be protected by copyright, 
 but not the greedy miser or cruel slave master.
 
 I know! Here's a story!
@@ -556,7 +562,7 @@ But nobody owns a copyright in star-crossed lovers or greedy misers,
 or in awkward adolescents finding their way in life, 
 or tortured geniuses who perservere against all odds. 
 
-These are sc&#232;nes-&#192;-faire, 
+These are Sc&#232;nes-&#192;-Faire, 
 which most of us recognize as clich&#233;s 
 and not copyrightable. 
 Maybe Robert Louis Stevenson could have at least 
@@ -585,6 +591,8 @@ Why? Because they are not ORIGINAL.
 
 * [Circular 34: Copyright Protection Not Available for Names, Titles, or Short Phrases](http://www.copyright.gov/circs/circ34.pdf)
 
+There may be some remedy under the laws of trademark or unfair competition for the use of business and product names created by another without their permission, but this does not fall under the purview of copyright.
+
 #### Characters
 
 What if another author writes her own version 
@@ -593,7 +601,7 @@ Probably the other author gets sued by J.K. Rowling
 for infringement because the other novel 
 is too similar to the original Harry Potter, 
 or it is a derivative work requiring a license. 
-But authors galore my write novels about young magicians 
+But authors galore may write novels about young magicians 
 and make them original enough to avoid copyright problems.
 
 * [Protecting Fictional Characters: Could You Legally Write A New Harry Potter Novel?](http://www.forbes.com/sites/oliverherzfeld/2012/11/08/protecting-fictional-characters-could-you-legally-write-a-new-harry-potter-novel/)

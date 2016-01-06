@@ -33,7 +33,7 @@ like:
 
 - the "Out of Print" provision,
 - lawsuits for infringement, and 
-- the agency clause (which provides that all contract payments are made to literary agents, who take their 15% commissions, and send the rest to their authors).  
+- the agency clause (which provides that all contract payments are made to literary agents, who take their 15% commissions, and send the rest to their authors).
 
 ## Standard Publishing Agreements
 
@@ -74,7 +74,7 @@ the way real estate agents
 Literary agents swear that they do not provide legal advice 
 about book contract provisions 
 (to avoid violating the admittedly vague rules in all fifty states 
-against the unauthorized practice of law (UPL), 
+against the unauthorized practice of law)(UPL), 
 but agents do provide advice, 
 often better real-world advice 
 than an author could get from a lawyer with or without publishing experience.
@@ -98,7 +98,7 @@ it takes industry experience just to know what is and is not customarily negotia
 
 Agent Richard Balkin described it this way: 
 
-> There is no need to be daunted or intimidated by the printed word in contracts, for most authors and all agents make many changes on the boilerplate. Still, the problem for the initiate is not only which changes to make, but which changes *can be made*. That is, you want to know which clauses and provisions editors are willing to haggle over and which terms reflect fixed house policy or are so taken for granted by those in the industry that a writer's request to change them will be met with great resistance or complete inflexibility.  
+> There is no need to be daunted or intimidated by the printed word in contracts, for most authors and all agents make many changes on the boilerplate. Still, the problem for the initiate is not only which changes to make, but which changes *can be made*. That is, you want to know which clauses and provisions editors are willing to haggle over and which terms reflect fixed house policy or are so taken for granted by those in the industry that a writer's request to change them will be met with great resistance or complete inflexibility. 
 
 > [*A Writer's Guide To Contract Negotiations*,][balkin] by Richard Balkin, Writers Digest Books, 1985.
 
@@ -113,7 +113,7 @@ Most literary agents have a relationship with one or more agents in Hollywood wh
 
 As a rule, first-time authors either get lucky and "get an agent,"
 or they must fend for themselves by self-publishing 
-or by dealing with small or academic publishers.  
+or by dealing with small or academic publishers. 
 
 ### The Authors Guild
 
@@ -130,22 +130,22 @@ a short summary follows.
 
 1. **Regular Membership:** For authors published by "an established U.S. book publisher," for writers published by "periodicals of general circulation in the U.S.," or authors and writers who have earned "writing income" (including from self-published works) of at least $5,000 in an 18-month period. 
 
-2. **Associate Membership:** For authors have who have been "offered a contract with an established American book publisher, if an established literary agency has offered to represent you, or if you have earned at least $500 in writing income (including self-published writing income) as a book author or freelance writer in the 18 months prior to applying for membership." 
+2. **Associate Membership:** For authors who have been "offered a contract with an established American book publisher, if an established literary agency has offered to represent you, or if you have earned at least $500 in writing income (including self-published writing income) as a book author or freelance writer in the 18 months prior to applying for membership." 
 
 3. **Membership-at-Large:** is a non-voting membership category available to:
     * Heirs, trustees, or executors representing the estate of a deceased author whose literary work would have qualified the author for Regular membership.
     * Literary agents who have placed work with established American publishers.
     * Attorneys and accountants who represent authors.
 
-Dues: First year dues are $90. (After the first year, dues are charged on a sliding scale, depending on your writing income. Most members continue to pay $90.)  Application Form.
+Dues: First year dues are $90. (After the first year, dues are charged on a sliding scale, depending on your writing income. Most members continue to pay $90.)  [Application Form](https://www.authorsguild.net/services/join/).
 
 #### Contract Reviews
 
 The Authors Guild offers 
 [free contract reviews for authors or their representatives and free assistance during contract negotiations][reviews].
-The Guild recommends a three-step process. First, the author or representative should join the guild and obtain a free (for members) copy of the [Authors Guild Model Book Contract][model]. Then the Guild will provide a written contract review, and also help with tips during contract negotiations.  
+The Guild recommends a three-step process. First, the author or representative should join the guild and obtain a free (for members) copy of the [Authors Guild Model Book Contract][model]. Then the Guild will provide a written contract review, and also help with tips during contract negotiations. 
 
-If you are an author or novelist (or someone trying to provide legal advice to one), you may both receive invaluable assistance from the Authors Guild.  
+If you are an author or novelist (or someone trying to provide legal advice to one), you may both receive invaluable assistance from the Authors Guild. 
 
 ## Important Book Contract Provisions
 
@@ -161,7 +161,7 @@ If you are an author or novelist (or someone trying to provide legal advice to o
 
 > The Author hereby grants and assigns to the Publisher for the legal term of copyright (including any renewals, extensions, reversions and continuations thereof) all rights and interests in the Work and any new or revised, adapted or abridged editions thereof, including without limitation the exclusive rights, by itself and/or with others, to print, publish, republish, transmit, display, sell and distribute the Work and to prepare, publish and distribute derivative works based thereon, in all languages throughout the world, in any form or media of expression whatsoever now known or hereafter developed or invented (including without limitation any form of electronic publication distribution or transmission that the Publisher may wish); and to license such rights to others as set forth in Schedule II on such terms as the Publisher may determine.
 
-> The copyright in the Work will belong to the Publisher. The Publisher will cause the copyright notice authorized by U.S. copyright law to be imprinted in each copy of the Work issued by it. The grant in Paragraph 1.1 above includes a grant to the Publisher of the right to secure registration of copyright in the Work in the Publisher’s name or any other name the Publisher elects in such countries as the Publisher may deem expedient; the Author agrees to take all steps necessary to effect such registration or any renewal thereof. The Author agrees to execute and deliver to the Publisher any and all documents in proper or customary form necessary or helpful to record in the United States or other copyright office the Publisher’s ownership of the copyright in the Work.  
+> The copyright in the Work will belong to the Publisher. The Publisher will cause the copyright notice authorized by U.S. copyright law to be imprinted in each copy of the Work issued by it. The grant in Paragraph 1.1 above includes a grant to the Publisher of the right to secure registration of copyright in the Work in the Publisher’s name or any other name the Publisher elects in such countries as the Publisher may deem expedient; the Author agrees to take all steps necessary to effect such registration or any renewal thereof. The Author agrees to execute and deliver to the Publisher any and all documents in proper or customary form necessary or helpful to record in the United States or other copyright office the Publisher’s ownership of the copyright in the Work. 
 
 #### Notes on Grant of Rights
 
@@ -318,6 +318,14 @@ another 5% ($6,000) comes out for legal fees.
 Like agents, talent and publishing lawyers 
 are often paid a certain percentage of any publishing or movie deals made on behalf of their clients. 
 
+As structured payments, the amounts look this way:
+
+| $120k advance | Agent | Lawyer| Author |
+| :--------- | :----: | :----: | ----: |
+| 1/3 ($40k) signing | 15% - $6k | 5% - $2k | $32k |
+| 1/3 ($40k) delivery | 15% - $6k | 5% - $2k | $32k | 
+| 1/3 ($40k) publication | 15% - $6k | 5% - $2k | $32k | 
+
 The book gets published and the cover price is $20, so every book sold gets your client $3.00 (15% of $20).
 
 Let’s say the book sells 50,000 copies:
@@ -325,8 +333,9 @@ Let’s say the book sells 50,000 copies:
 * $3.00 x $50,000 = $150,000 gross royalties
 * $150,000 - $120,000 (advance) = $30,000.
 
-On next royalty statement, your client will earn $30,000, 
+On the next royalty statement, Author will earn $30,000, 
 the literary agent will take $4,500 and the lawyer will take $1,500.
+
 ### Option Clauses
 
 #### A Sample Option Clause
@@ -359,9 +368,9 @@ If the author and her representatives cannot get rid of the clause, limit it:
 
 - Avoid options on “the same terms” and “last refusal rights” (allowing publisher to match terms the author has received).
 - Go for a “limited time right of first refusal” on terms “to be mutually agreed upon.”
-- Rather than agreeing to submit "the manuscript," agree to submit a "detailed proposal and sample chapters." Otherwise, the Author will be obligated to complete an entire manuscript before being allowed to seek an advance from this publisher or any other.  
+- Rather than agreeing to submit "the manuscript," agree to submit a "detailed proposal and sample chapters." Otherwise, the Author will be obligated to complete an entire manuscript before being allowed to seek an advance from this publisher or any other. 
 - Limit the time the publisher has to consider the manuscript or proposal. Sixty days is too long. Try for thirty days, and perhaps settle on 45 days. 
-- Do not let the publisher require publication of the first work before it is obliged to consider the second manuscript or proposal. Publication takes at last nine months and can take as long as 18 months. 
+- Do not let the publisher require publication of the first work before it is obliged to consider the second manuscript or proposal. Publication takes at least nine months and can take as long as 18 months or more. No author wants to wait two years before getting the deal for the next book going. 
 - Limit option only to similar books. At a minimum only fiction or nonfiction, as the case may be.
 
 If the publisher requires the Author to wait until publication, then it allows them to assess the success of the first Work, and also ties up the Author before he can submit elsewhere. 
@@ -415,6 +424,26 @@ Subsidiary rights are usually licensed to third parties and then the publisher w
 > Make sure you are fairly compensated for any subsidiary rights granted. Reputable publishers will pay you at least 50% of the proceeds earned from licensing certain categories of rights, much higher for others.
 
 [Authors Guild: Improving Your Book Contract](http://www.authorsguild.org/member-benefits/legal-services/improving-your-book-contract/)
+
+#### When Literary Agent Sells Sub Rights
+
+Hanser, a German publisher, agrees to purchase the right to publish German language rights for $100k. If Author's literary agent sells those rights, the payments look like this:
+
+| German rights | Foreign Agent | Literary Agent | Lawyer | Author |
+| :--------- | :----: | :----: | :----: | :----: |
+| 100%  | 10% | 10% | 5% | 75% |
+| $100,000 | $10k | $10k | $5k | $75k |
+
+When the publisher insists on selling "world rights" instead of letting the Author's literary agent do it, the commissions usually go up, resulting in less money for Author.
+
+#### When Publisher Sells Sub Rights
+
+| German rights | American Publisher | Literary Agent | Lawyer | Author |
+| :--------- | :----: | :----: | :----: | :----: |
+| 100% | 25% | 15% | 5% | 55% |
+| $100,000 | $25k | $15k | $5k | $55k |
+
+A big difference, because the commission essentially doubles. The publisher takes its commission for selling rights, as does Author's agent.
 
 ### E-Book Rights ###
 

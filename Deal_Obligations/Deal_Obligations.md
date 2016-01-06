@@ -1,7 +1,7 @@
 ---
 author: Richard Dooling
 title: Law & Business For Artists
-subtitle: ArtBizLaw Class
+subtitle: Art Biz Law
 chapter: Deal Obligations
 ---
 
@@ -49,7 +49,8 @@ industry customs and usage.
 How have the parties dealt with each other in the past? 
 Yes, but also how the industry as a whole deal with these matters.
 
-As the Restatement of Contracts 2nd puts in section 202 "Rules in Aid of Interpretation:"
+As the Restatement of Contracts 2nd puts in section 202 
+"Rules in Aid of Interpretation":
 
 > Where an agreement involves repeated occasions for performance 
 > by either party with knowledge of the nature of the performance 
@@ -92,7 +93,7 @@ Other stars,
 like Randy Quaid, 
 agreed to star in the film, accepted low salaries, 
 and secured no share of movie profits, 
-because the producers told him that *Brokeback* 
+because the producers told these minor players that *Brokeback* 
 would be a small, arthouse movie. 
 When *Brokeback* was a box office hit, 
 Quaid sued, later withdrawing and possibly settling, 
@@ -106,7 +107,9 @@ the lawsuit. As described in the *New York Times*:
 
 With a budget of roughly $14 million, *Brokeback Mountain* has since grossed $175 million worldwide, $83 million in the USA alone. It won three Oscars.
 
-Despite what transpires from the time contracts are signed to opening day and beyond,
+Despite what transpires 
+from the time contracts are signed 
+to opening day and beyond:
 
 > In interpreting the words and conduct of the parties to a contract, 
 > a court seeks to put itself in the position they occupied 
@@ -114,7 +117,9 @@ Despite what transpires from the time contracts are signed to opening day and be
 
 > [Restatement 2d Contracts § 202][202]
 
-Moviemaking is an uncertain business to say the least, where most projects don't earn back the money the studios spend on them. And a few mega hits pay the freight for many other failures.
+Moviemaking is an uncertain business to say the least, 
+where most projects don't earn back the money the studios spend on them. 
+And a few mega hits pay the freight for many other failures.
 
 ### Interpretation of Ambiguous Terms ###
 
@@ -150,7 +155,7 @@ and can be very stressful for the filmmakers.
 Creative disagreements and arguments about the budget or filming schedules are common. 
 When do these disputes ripen into breaches of contracts?
 
-Under the California Labor Code, section 2924, 
+Under the [California Labor Code, section 2924](http://codes.findlaw.com/ca/labor-code/lab-sect-2924.html), 
 an employer can fire an employee at any time for willful breach 
 or “in case of his habitual neglect of his duty or continued incapacity to perform.&hellip;”
 
@@ -171,7 +176,7 @@ Factors used to test for materiality:
 ###### California Court of Appeals (1931)
 
 * [Case on Westlaw][goudal]. 
-* [Jetta Goudal's career at Wikipedia](http://en.wikipedia.org/wiki/Jetta_Goudal#Career).
+* [Jetta Goudal's career](http://en.wikipedia.org/wiki/Jetta_Goudal#Career).
 
 Another oldie but goodie, this one about a famous lawsuit 
 between a famous actress and the famous director who wanted to control her. 
@@ -208,7 +213,8 @@ in the lawsuit excerpted below.
 
 #### Case Excerpts *Goudal v. DeMille*
 
-(In these excerpts, appellant has been changed to DeMille Pictures; and respondent has been changed to Goudal)
+(In these excerpts, appellant has been changed to DeMille Pictures; 
+and respondent has been changed to Goudal)
 
 FRICKE, Justice pro tem.
 
@@ -230,7 +236,8 @@ acts of the Goudal violative of the terms of the contract. The trial
 court found that Goudal had not violated the contract, and that her
 discharge was not justified.&hellip; 
 
-The claim that Goudal failed or refused to perform her parts as requested is based upon many incidents
+The claim that Goudal failed or refused to perform her parts 
+as requested is based upon many incidents
 set forth in detail in the record. They relate to occasions when the
 Goudal, instead of unquestioningly performing as directed by the
 director in charge, called attention to inconsistencies, inaccuracies,
@@ -392,7 +399,7 @@ stipulated in the contract here before us.&hellip;
 
 The judgment is affirmed.
 
-### Notes on *Goudal v. DeMille* 
+#### Notes on *Goudal v. DeMille* 
 
 Goudal made a deal with DeMille pictures.
 Demille exercised an annual option to renew the deal. Twice! 
@@ -436,7 +443,7 @@ the writer is expected to politely push back
 and offer her own ideas 
 and then the collaborators compromise. 
 
-#### Morals Clauses ####
+### Morals Clauses ###
 
 > A morals clause is a provision in a contract or official document 
 > that prohibits certain behavior in a person's private life. 
@@ -454,7 +461,7 @@ and then the collaborators compromise.
 > while children are present. 
 
 > [Morals Clause Law & Legal Definition](http://definitions.uslegal.com/m/morals-clause/)
-> [Morals Clauses at Wikipedia][morals].
+> [Morals Clauses][morals].
 
 In 1921 and 1922, American silent film actor, comedian, director, and screenwriter, [Roscoe "Fatty" Arbunkle](http://en.wikipedia.org/wiki/Fatty_Arbuckle) endured three widely publicized trials for the rape and manslaughter of actress Virginia Rappe. Rappe had fallen ill at a party hosted by Arbuckle at the St. Francis Hotel in San Francisco in September 1921; she died four days later. Arbuckle was accused by Rappe's acquaintance of raping and accidentally killing Rappe. After the first two trials, which resulted in hung juries, Arbuckle was acquitted in the third trial and received a formal written apology from the jury.
 
@@ -471,15 +478,54 @@ Shortly thereafter, legendary baseball player Babe Ruth also had a "morals claus
 Sexual or moral misbehavior is tough enough to define. 
 What about unpopular political positions?
 
-### *Loew's, Inc. v. Cole,* 
+During the ["Red Scare" of the 1950s](https://en.wikipedia.org/wiki/Red_Scare), when Congressional Committees investigated the motion picture industry for evidence that it had been infiltrated by Communists,
+Hollywood screenwriters and actors were "blacklisted" and prohibited from belonging to the Hollywood guilds and being paid by studios from practicing their craft. 
+
+This movie looks promising and tells the story of 
+[Dalton Trumbo](https://en.wikipedia.org/wiki/Dalton_Trumbo), 
+a Hollywood screenwriter, blacklisted during the 1950s: 
+[Bryan Cranston Goes From Drug Lord to Communist in Blacklist Saga 'Trumbo': "A Socialist, But He Loved Being Rich"](http://www.hollywoodreporter.com/features/bryan-cranston-plays-communist-trumbo-819228)
+
+[![Screenwriter Dalton Trumbo](https://upload.wikimedia.org/wikipedia/commons/0/04/Dalton_and_Cleo_Trumbo_%281947_HUAC_hearings%29.png)](https://en.wikipedia.org/wiki/Dalton_Trumbo)
+
+The following case dramatizes the blacklisting of another screenwriter, Lester Cole, one of the infamous Hollywood Ten, along with Dalton Trumbo.
+
+### *Loew's, Inc. v. Cole* 
 
 ###### United States Court of Appeals Ninth Circuit (1950).
 
 * [Case on Westlaw][loews].
 
-In 1947, the Committee on Un-American Activities (HUAC) of the House of Representatives conducted a public hearing, at Washington, for the purpose of inquiring into alleged Communist infiltration into the motion picture industry. Among dozens of witnesses called, beginning October 20, and concluding October 30, were Lester Cole (a screenwriter), and a number of the executives of the appellant, Loew's, Incorporated, a Delaware Corporation, engaged, under the trade name of Metro-Goldwyn-Mayer, in the production and distribution of motion pictures. Cole had been employed by Loew's as a writer of screenplays since 1945. 
+In 1947, the Committee on Un-American Activities (HUAC) 
+of the House of Representatives 
+conducted a public hearing, at Washington, 
+for the purpose of inquiring 
+into alleged Communist infiltration into the motion picture industry. 
+Among dozens of witnesses called, 
+beginning October 20, and concluding October 30, 
+were Lester Cole (a screenwriter), 
+and a number of the executives of the appellant, Loew's, Incorporated, 
+a Delaware Corporation, engaged, 
+under the trade name of Metro-Goldwyn-Mayer, 
+in the production and distribution of motion pictures. 
+Cole had been employed by Loew's as a writer of screenplays since 1945. 
 
-At the hearing Cole, and some nine other screenwriters, who came to be known in the current newspaper accounts of the hearing (which had extremely wide notice in the press and on the radio) as the ten "unfriendly" witnesses, were accompanied by counsel who challenged the validity of the investigation and the power of the Committee to conduct the inquiry or to issue the subpoenas served, by a so-called motion to "quash the subpoenas". When Cole was called to the stand he was asked "Are you now or have you ever been a member of the Communist Party?" The statement he then made was interpreted by the committee as a refusal to answer, and he was cited on November 24, 1947, by the House of Representatives for contempt, and was thereafter indicted for contempt of Congress.
+At the hearing Cole, and some nine other screenwriters, 
+who came to be known in the current newspaper accounts of the hearing 
+(which had extremely wide notice in the press and on the radio) 
+as the ten "unfriendly" witnesses, 
+were accompanied by counsel 
+who challenged the validity of the investigation 
+and the power of the Committee to conduct the inquiry 
+or to issue the subpoenas served, 
+by a so-called motion to "quash the subpoenas". 
+When Cole was called to the stand he was asked 
+"Are you now or have you ever been a member of the Communist Party?" 
+The statement he then made 
+was interpreted by the committee as a refusal to answer, 
+and he was cited on November 24, 1947, 
+by the House of Representatives for contempt, 
+and was thereafter indicted for contempt of Congress.
 
 Shortly thereafter, MGM informed Cole that he would have to return to testify before HUAC that he was not now a member of the Communist party. When Cole refused, MGM fired him under the standard morals clause of his personal service contract, which was almost identical to the clause found in Fatty Arbuckle's contract:
 
@@ -489,22 +535,25 @@ Cole filed suit in federal district court for wrongful dismissal. The trial cour
 
 MGM appealed and the Ninth Circuit Court of Appeals reversed, holding that Cole should have heeded his employer's command to return to HUAC and testify truthfully about his membership or lack of it in the Communist Party:
 
-> A film company might well continue indefinitely the employment of an actor whose private personal immorality is know to his employer, and yet be fully justified in discharging him when he so conducts himself as to make the same misconduct notorious.
+> A film company might well continue indefinitely the employment of an actor whose private personal immorality is known to his employer, and yet be fully justified in discharging him when he so conducts himself as to make the same misconduct notorious.
 
-* [Morals Clauses at Wikipedia][morals].
+#### More On Morals Clauses
+
+* [Morals Clauses][morals].
 * [Hold That Tiger: After Woods Scandal, More Lawyers Teeing Up "Morals Clauses"][tiger_morals]
 
 Blacklisting of the Hollywood 10, 
 including such prominent writers as Dalton Trumbo and Ring Lardner, 
 and the infamous witch-hunts 
 conducted by the House Un-American Activities Committee (HUAC)
-(one of whose members was a newly elected congressman named Richard Nixon) were dark periods in our nation's history 
+(one of whose members was a newly elected congressman named Richard Nixon) 
+were dark periods in our nation's history 
 and in the entertainment industry. 
 
 If you have trouble believing that writers could be blacklisted,
 hauled before Congress, 
 and asked about their party affiliations in the United States of America, 
-try imaging Ronald Reagan as a liberal Democrat 
+try imagining Ronald Reagan as a liberal Democrat 
 and president of the screen actors guild 
 (both of which he was at the time).
 
@@ -512,7 +561,10 @@ As to Senator Joseph McCarthy's "Red Scare" demagoguery,
 the studios took the position that HUAC's hearings were nonsense 
 and that they were not going to penalize talent 
 for refusing to answer questions about their political affiliations. 
-But when public pressure started to build in the form of boycotts by the American Legion and other politically powerful groups, the box office was threatened, and the studios caved. 
+But when public pressure started to build 
+in the form of boycotts by the American Legion 
+and other politically powerful groups, 
+the box office was threatened, and the studios caved. 
 
 #### NBC's Brian Williams
 
@@ -548,16 +600,15 @@ NBC declined to comment, and Barnett didn’t get back to us.
 
 ### Satisfactory Work Product & The Recording Industry
 
-
 > Neil Young has always followed his restless muse 
 > into whatever project caught his fancy---
 > a fact that music mogul David Geffen 
 > apparently didn’t take into consideration 
 > when he signed Young to a deal 
-> with his new company in the early ’80s. 
+> with his new company in the early '80s. 
 > Young’s first effort for Geffen was ‘Trans,’ 
 > a disastrous foray into electronic music. 
-> Young then turned in ‘Everybody’s Rockin’,’ 
+> Young then turned in ‘Everybody’s Rockin’, 
 > a rockabilly collection. 
 > Geffen filed suit against Young on Dec. 1, 1983, 
 > arguing that the albums he had delivered 
@@ -572,7 +623,7 @@ NBC declined to comment, and Barnett didn’t get back to us.
 
 > [Geffen Records vs. Neil Young – Infamous Rock Lawsuits](http://ultimateclassicrock.com/neil-young-geffen-records-infamous-rock-lawsuits/?trackback=tsmclip)
 
-Arguably Geffen sued Neil Young because Young refused to ["be himself"](http://lateralaction.com/articles/neil-young/), and this lawsuit is just one of many suits brought by artists who are committed by contract to certain record companies, but those companies tend to demand that the artist stick to the formulae that sold on the first few albums. *Newsweek* magazine described another conflict between Geffen and the grunge rock band Nirvana:
+Arguably Geffen sued Neil Young because Young refused to ["be himself"](http://lateralaction.com/articles/neil-young/), and this lawsuit is just one of many suits brought by artists who are committed by contract to certain record companies, but those companies tend to demand that the artist stick to the formula that sold on the first few albums. *Newsweek* magazine described another conflict between Geffen and the grunge rock band Nirvana:
 
 > Alternative rock and big business are strange bedfellows, and it seems they've finally woken up and stared each other in the face. Late last month the Chicago Tribune reported on rumors that the world's pre-eminent post-punk band, Nirvana, had returned from the studio with an abrasive uncompromising album-an album that Geffen Records found "unreleasable." Both the label and Nirvana's management company, Gold Mountain, insist that the Geffen staff hasn't even heard the album. But sources confirm the Tribune's story. And Nirvana has now agreed to commission a hit-making engineer named Andy Wallace to tinker with the band's tapes and give them a more commercial sheen. Geffen Records faces a possible lawsuit from the record's producer, Steve Albini. Nirvana, whose success inspired a generation of alternative bands to migrate to major labels, faces a chorus of "Say it ain't so."
 
@@ -620,7 +671,14 @@ and then to the author's lawyer
 (if the author has one)
 who takes another 5% ($2,000).
 
+| $120k advance | Agent | Lawyer| Author |
+| :--------- | :----: | :----: | ----: |
+| 1/3 ($40k) signing | 15% - $6k | 5% - $2k | $32k |
+| 1/3 ($40k) delivery | 15% - $6k | 5% - $2k | $32k | 
+| 1/3 ($40k) publication | 15% - $6k | 5% - $2k | $32k | 
+
 **Now the question:** 
+
 What happens if, after the first portion or portions of the advance are paid, 
 the author turns in a manuscript which the publisher does not care for? 
 
@@ -829,7 +887,7 @@ As I have already described, Oscar Collier had received from Hill some
 general negative comments, which he conveyed to Shadegg and which were
 in turn conveyed to Goldwater.
 
-There is a letter dated November 14, 1977 to Hill from Lisa Collier
+There is a letter dated November 14, 1977, to Hill from Lisa Collier
 indicating that comments had been passed on and that work was going
 forward.
 
@@ -852,7 +910,7 @@ the material there might be a better chance of getting some editorial
 work from Hill. Also it was hoped that the production of a substantial
 part of the book would encourage some progress with the publisher.
 
-The Goldwater letter of July 13, 1978 concludes with the following:
+The Goldwater letter of July 13, 1978, concludes with the following:
 
 > If you have any suggestions or would like to make some we could arrange to meet in Arizona at your convenience, in Washington or even New York.  Let me know your honest opinion of what has been done so far and let me have any suggestions as soon as possible that might be incorporated in further writing.
 
@@ -1037,7 +1095,7 @@ material is so hopeless that editorial work might be fruitless. It is
 difficult to imagine such a situation occurring but I suppose it is
 conceivable. But this was far from the case here.
 
-I note that the publisher claims that there were no relevations of fact,
+I note that the publisher claims that there were no revelations of fact,
 no "revelatory material" as the term has been used. It is difficult to
 even comprehend that claim. The book as it was published is full of
 facts. It is full of conversations with illustrious personages. It is
@@ -1056,7 +1114,7 @@ He edited the manuscript in the normal way and produced a successful
 book.
 
 Consequently, I conclude that HBJ breached its contract with Shadegg and
-Goldwater by wilfully failing to engage in any rudimentary editorial
+Goldwater by willfully failing to engage in any rudimentary editorial
 work or effort. Consequently, HBJ cannot rely on the concept that the
 manuscript was unsatisfactory in form and content and can be rejected.
 HBJ had no right under its contract to reject that manuscript&hellip;
@@ -1095,7 +1153,7 @@ Remember, the first piece of advice
 (also sometimes the hardest piece of advice) 
 you can give your client? FINISH THE BOOK! 
 
-It’s similar in one respect to the *Elvin v. Aretha Franklin* case, 
+It’s similar in one respect to the [*Elvin v. Aretha Franklin*](https://github.com/RichardDooling/Entertainment_Law/blob/master/Dealmaking/Dealmaking.md#elvin-associates-v-aretha-franklin) case, 
 namely, 
 the talent is having unusual conversations with the producers (publishers/editors) 
 that the talent should not be having. 
@@ -1354,7 +1412,7 @@ approached Lazar and suggested that Curtis submit the manuscript to a
 *Starstruck.* When Lazar demurred, Doubleday finally admitted defeat. It
 cancelled the reprint deal with NAL, formally terminated the September
 1977 agreement with Curtis and demanded repayment of the original
-\$50,000 advance. When Curtis  refused, Doubleday commenced this
+$50,000 advance. When Curtis  refused, Doubleday commenced this
 litigation.
 
 #### *Proceedings in the District Court*
@@ -1362,15 +1420,15 @@ litigation.
 Invoking the diversity jurisdiction of the federal courts, Doubleday
 filed a complaint on April 3, 1983 in the United States District Court
 for the Southern District of New York, claiming Curtis breached the 1977
-contract and seeking recovery of its \$50,000 advance. Curtis, in turn,
-counterclaimed for breach of the agreement, and sought \$150,000. Curtis
+contract and seeking recovery of its $50,000 advance. Curtis, in turn,
+counterclaimed for breach of the agreement, and sought $150,000. Curtis
 alleged, both as a counterclaim and as an affirmative defense, that
 Doubleday's failure to provide adequate editorial services — a duty
 derived from its implied obligation to perform in good faith — prevented
 him from completing a satisfactory manuscript. He contended that had
 Doubleday followed "the usual and customary editorial process,"
 *Starstruck* would have been published and he would have received a
-second \$50,000 advance, as well as fifty percent of the \$200,000
+second $50,000 advance, as well as fifty percent of the $200,000
 reprint sale to NAL.&hellip;
 
 At trial, as in a prior
@@ -1414,7 +1472,7 @@ summarily dismissed as contrary to the relevant provisions of the 1976
 and 1977 contracts.
 
 Finally, the court dismissed Doubleday's claim seeking recovery of the
-\$50,000 advance. Judge Sweet held that Doubleday had waived the "time
+$50,000 advance. Judge Sweet held that Doubleday had waived the "time
 of the essence" clause by accepting Curtis's manuscript
  nearly eighteen months
 after the original deadline had passed. Moreover, the court found that
@@ -1579,12 +1637,12 @@ spirit of fairness embodied in the Federal Rules of Civil Procedure.
 Accordingly, we affirm the district court's dismissal of Curtis's
 counterclaims. We reverse the judgment of the district court dismissing
 Doubleday's complaint and remand the cause with instructions to enter
-judgment in favor of Doubleday for recovery of its \$50,000 advance,
+judgment in favor of Doubleday for recovery of its $50,000 advance,
 plus interest.
 
 #### Notes on  *Doubleday v. Tony Curtis* 
 
-Famous actor and part time novelist Tony Curtis ("Curtis" signed a book contract to provide two novels to the publisher Doubleday & Co., Inc. ("Doubleday"). The parties used a standard industry form that required Doubleday to pay royalties on hardcover sales and a share of the proceeds of the sale of paperback rights if Curtis delivered manuscripts "satisfactory" to Doubleday in content and form. 
+Famous actor and part time novelist Tony Curtis ("Curtis") signed a book contract to provide two novels to the publisher Doubleday & Co., Inc. ("Doubleday"). The parties used a standard industry form that required Doubleday to pay royalties on hardcover sales and a share of the proceeds of the sale of paperback rights if Curtis delivered manuscripts "satisfactory" to Doubleday in content and form. 
 
 The publisher published the first novel and renegotiated the deal on the second novel to give Curtis a $100,000 advance, half on signing and half on acceptance by Doubleday of a "complete satisfactory manuscript."
 
@@ -1616,7 +1674,7 @@ Doubleday is selling the rights to the paperback.
 
 What about publisher obligations to market and promote an author's book? That's yet another case.
 
-### Zilg v. Prentice-Hall, Inc.
+### *Zilg v. Prentice-Hall, Inc.*
 
 ###### Second Circuit Court of Appeals (1983)
 
@@ -1696,15 +1754,15 @@ readership composed largely of business executives, did choose it as a
 selection.
 
 A committee of various P-H department representatives, including the
-book's editor, met on March 28, 1974 to discuss production plans. The
+book's editor, met on March 28, 1974, to discuss production plans. The
 sales estimates of committee members varied from 12 to 15 thousand
 copies for the first year although by May two members were predicting
 sales of only 10 thousand. Estimates of from 15 to 20 thousand sales
 over a five year period were also made. Cavin, an ardent supporter of
 the book, made estimates of 20 to 25 thousand in the first year and 25
 to 35 thousand over five years. The committee decided on a first
-printing of 15,000 copies at a retail price of \$12.95 per copy. At a
-later meeting, the committee decided to devote roughly \$15,000 to
+printing of 15,000 copies at a retail price of $12.95 per copy. At a
+later meeting, the committee decided to devote roughly $15,000 to
 advertising.
 
 Although the literary or scholarly merits of the book are not our
@@ -2109,9 +2167,35 @@ and attempt to recoup their investment.
 
 ## Royalties & Profits
 
-[From Wikipedia: Hollywood Accounting: ](http://en.wikipedia.org/wiki/Hollywood_accounting)
+### Book Royalties
 
-Winston Groom's price for the screenplay rights to his novel *Forrest Gump* included a 3% share of the profits; however, due to Hollywood accounting, the film's commercial success was converted into a net loss, and Groom received only $350,000 for the rights and an additional $250,000 from the studio.
+Using the same hypothetical book advance of $120,000 from above, 
+in which Author signs a book contract 
+and agrees to a 15% royalty 
+with a $120k advance payable as follows:
+
+* 1/3 ($40k) on signing.
+* 1/3 ($40k) on delivery of the manuscript.
+* 1/3 ($40k) on publication.
+
+If the book is published with a cover price is $20, the Author receives 15% of the cover price ($3.00) for each book sold. If the book sells 50,000 copies:
+
+$3.00 x $50,000 = $150,000 gross royalties
+
+$150,000 - $120,000 (advance) = $30,000.
+
+On next royalty statement, author will earn $30,000.
+
+### Hollywood Accounting
+
+[Hollywood Accounting:](http://en.wikipedia.org/wiki/Hollywood_accounting)
+
+Winston Groom's price for the screenplay rights to his novel *Forrest Gump* 
+included a 3% share of the profits; 
+however, due to Hollywood accounting, 
+the film's commercial success was converted into a net loss, 
+and Groom received only $350,000 for the rights 
+and an additional $250,000 from the studio.
 
 Stan Lee, co-creator of the character Spider-Man, 
 had a contract awarding him 10% of the net profits of anything based on his characters. 
@@ -2128,7 +2212,8 @@ yet according to the studio, the film lost money.
 Accordingly, the cast (with the exception of Nia Vardalos who had a separate deal) 
 sued the studio for their part of the profits. 
 The original producers of the film have sued Gold Circle Films due to Hollywood accounting practices because the studio has claimed the film, 
-which cost less than $6 million to make and made over $350 million at the box office, lost $20 million.
+which cost less than $6 million to make 
+and made over $350 million at the box office, lost $20 million.
 
 Peter Jackson, director of The Lord of the Rings, 
 and his studio Wingnut Films, 
@@ -2136,7 +2221,7 @@ brought a lawsuit against New Line Cinema after "an audit &hellip; on part of th
 
 According to Lucasfilm, Return of the Jedi despite having earned $475 million at the box-office against a budget of $32.5 million, "has never gone into profit".
 
-[From Wikipedia: Hollywood Accounting: ](http://en.wikipedia.org/wiki/Hollywood_accounting)
+[Hollywood Accounting: ](http://en.wikipedia.org/wiki/Hollywood_accounting)
 
 ### *Buchwald v. Paramount Pictures*
 
@@ -2158,9 +2243,13 @@ sued Paramount for failure to pay 19% of “net profits”
 of the Eddie Murphy comedy. 
 
 At trial, Paramount maintained that they were 
-$18 million short of net profits, even though the film had actually earned $350 million in world wide box office receipts. Now what?
+$18 million short of net profits, 
+even though the film had actually earned $350 million 
+in world wide box office receipts. Now what?
 
-Buchwald and Bernheim argued that this was "unconscionable" and a contract of adhesion, because they had no bargaining power to fight the "net profits" formula.
+Buchwald and Bernheim argued that this was "unconscionable" 
+and a contract of adhesion, 
+because they had no bargaining power to fight the "net profits" formula.
 
 Paramount countered that it had paid 
 more that $150 million in net profits 
@@ -2176,16 +2265,20 @@ Everybody knows what "net profits" mean in Hollywood.
 
 #### Two Accounting Methods
 
-[Hollywood Accounting](http://en.wikipedia.org/wiki/Hollywood_accounting) typically involves to sets of books: 
+[Hollywood Accounting](http://en.wikipedia.org/wiki/Hollywood_accounting) typically involves two sets of books: 
 
 * One for calculating profits to shareholders.
 * One for calculating performer share of profits.
 
 How to defend against this nonsense?
 
-One way is to say that your client’s share of net profits participation shall be calculated using the SAME FORMULA as ALL other net profits participants. The other way is to simply advise the talent that these clauses are meaningless and almost never result in any "new money."
+One way is to be sure that the talent's share of net profits participation 
+shall be calculated using the SAME FORMULA as ALL other net profits participants. 
+The other way is to simply advise the talent 
+that these clauses are meaningless 
+and almost never result in any "new money."
 
-* *Buchwald v. Paramount Pictures,* (Cal. App. 1992)([read about examples of Hollywood Accounting at Wikipedia](http://en.wikipedia.org/wiki/Hollywood_accounting).
+* *Buchwald v. Paramount Pictures,* (Cal. App. 1992)([read about examples of Hollywood Accounting](http://en.wikipedia.org/wiki/Hollywood_accounting).
 * [*Buchwald v. Paramount Pictures,*][net_profits] 1992 WL 1462910 (Cal. App. 1992).
 * [LA Times on Buchwald suit](http://articles.latimes.com/1992-03-17/local/me-3895_1_net-profit)
 

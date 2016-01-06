@@ -3,18 +3,19 @@ author: Richard Dooling
 title: Law & Business For Artists 
 subtitle: ArtBizLaw
 chapter: Introduction
-date: 08-Jan-2015
 ---
 
-# Law & Business For Artists
+# Introduction
 
-###### by Richard Dooling
+> "I never called my work an 'art'. 
+> It's part of show business, 
+> the business of building entertainment." 
 
-## Introduction
+> --[Walt Disney](http://en.wikipedia.org/wiki/Walt_Disney)
 
-> "I never called my work an 'art'. It's part of show business, the business of building entertainment."  --[Walt Disney](http://en.wikipedia.org/wiki/Walt_Disney)
+> "Art is making something out of nothing and selling it." 
 
-> "Art is making something out of nothing and selling it." --[Frank Zappa](http://en.wikipedia.org/wiki/Frank_Zappa)
+> --[Frank Zappa](http://en.wikipedia.org/wiki/Frank_Zappa)
 
 ## What is Entertainment Law?
 
@@ -22,30 +23,35 @@ Entertainment law is law applied to the entertainment industry.
 But why does the entertainment industry get it's own body of laws? It doesn't. 
 Paul Weiler, author of the leading Enertainment Law textbook, put it this way: 
 
-> Entertainment is a human activity and economic venture. Its internal relationships and products are, of course, shaped by contract, as well as constitutional, copyright, labor, antitrust, and trade law. Yet every one of those branches of the law applies as well to other industries, such as auto manufacturing. Professors do not, however, teach and write books about "automobile law." 
+> Entertainment is a human activity and economic venture. 
+> Its internal relationships and products are, of course, shaped by contract, 
+> as well as constitutional, copyright, labor, antitrust, and trade law. 
+> Yet every one of those branches of the law applies as well to other industries, 
+> such as auto manufacturing. 
+> Professors do not, however, teach and write books about "automobile law." 
 
 > --Paul Weiler, *Entertainment, Media and the Law.*
 
-Maybe Hollywood lawsuits are just more fun to read about than automotive law, but Weiler's text begins with a Prologue entitled "Speech For Fun And Profit," which canvasses some of the reasons the entertainment industry gets its own law school course. 
+Maybe Hollywood lawsuits are just more fun to read about than automotive law, 
+but Weiler's text begins with a Prologue entitled "Speech For Fun And Profit," 
+which canvasses some of the reasons 
+the entertainment industry gets its own law school course. 
 
 First, entertainment (movies, television, music, publishing) are all SPEECH. 
 The First Amendment to the U.S. Constitution provides that: 
-"Congress shall make no law . . . abridging the freedom of speech." 
-But what if my movie features child pornography, or my rap song arguably inspires others to attack police officers, or my book spills state secrets protected by the Espionage Act? First Amendment questions never seem to go away in the entertainment and publishing industries, because an artist's first amendment right to tell a story or write a song often collides with somebody else's right to privacy, trademark, copyright, or contract rights. 
+"Congress shall make no law &hellip; abridging the freedom of speech." 
+But what if my movie features child pornography, 
+or my rap song arguably inspires others to attack police officers, 
+or my book spills state secrets protected by the Espionage Act? 
+First Amendment questions never seem to go away 
+in the entertainment and publishing industries, 
+because an artist's first amendment right to tell a story or write a song 
+often collides with somebody else's right 
+to privacy, trademark, copyright, or contract rights. 
 
-Second, the modern entertainment industry runs on TECHNOLOGY and INTELLECTUAL PROPERTY, 
-meaning the speech at issue is easier to create, copy, and distribute (a good thing), 
-but also easier to COPY and pirate (a bad thing). 
-Again, more copyright, trademark, licensing and contract issues.
+Second, the modern entertainment industry runs on TECHNOLOGY and INTELLECTUAL PROPERTY, meaning the speech at issue is easier to create and disseminate (a good thing), but also easier to COPY and pirate (a bad thing). Again, more copyright, trademark, licensing and contract issues.
 
-The entertainment industry also thrives on COLLABORATION. 
-Many different companies and artists come together, 
-make oral or written agreements to create and distribute works of art, 
-and then disperse, often leaving questions 
-about who is owed what for personal services 
-and who owns what rights in the final product. 
-Oral contracts, handshake deals, and "napkin agreements" are quite common, 
-even though there may be tens of millions of dollars at stake.
+The entertainment industry also thrives on COLLABORATION. Many different companies and artists come together, make oral or written agreements to create and distribute works of art, and then disperse, often leaving questions about who is owed what for personal services and who owns what rights in the final product. Oral contracts, handshake deals, and "napkin agreements" are quite common, even though there may be tens of millions of dollars at stake.
 
 Finally, the economics and indeed the international economics of the industry quickly lead to complicated deals where everybody at the table has specialized legal needs. A lawyerless artist dealing with sharkish producers and media companies will quickly learn the old adage about the [patsy at the poker table][patsy] the hard way: "If after ten minutes at the poker table you do not know who the patsy is--you are the patsy." 
 
@@ -53,7 +59,19 @@ Finally, the economics and indeed the international economics of the industry qu
 
 ### Entertainment Categories
 
-Entertainment used to mean "show business," or the business of creating shows for film, television, radio and theaters. Nowadays, thanks to the Internet, "entertainment" can happen anywhere you have an Internet connection, so the "entertainment industry" arguably embraces almost all artistic endeavors from publishing to video games, to the visual arts, fine arts, dance, making [vines][vine], [mashups](http://djearworm.com/), music (all kinds!), as well as the usual feature films, television, and radio (Pandora, Spotify, and your local AM station).
+Entertainment used to mean "show business," 
+or the business of creating shows for film, television, radio and theaters. 
+Nowadays, thanks to the Internet, 
+"entertainment" can happen anywhere you have an Internet connection, 
+so the "entertainment industry" 
+arguably embraces almost all artistic endeavors 
+from publishing to video games, to the visual arts, fine arts, dance, 
+making [vines][vine], [mashups](http://djearworm.com/), music (all kinds!), 
+as well as the usual feature films, television, and radio 
+(Pandora, Spotify, and your local AM station).
+Many giant entertainment industry conglomerates are losing money in their film divisions, 
+but making it back with video games. *See, e.g.,* 
+[Warner Loses at Box Office, but Its Videogames Score Big: Most of studio’s high-profile movies fall flat, while its big investment in games is paying off](http://on.wsj.com/1jXMzyX).
 
 Wikipedia breaks the industry down into the following categories, most of which come with their own issues, specific trade unions, production techniques, rules, customs, case law, and negotiation strategies:
 
@@ -70,35 +88,65 @@ Wikipedia breaks the industry down into the following categories, most of which 
 No way can we cover all industries, 
 but I have worked in several of them, 
 and they tend to have common denominators 
-of intellectual property, representation, contracts, taxes, satisfactory work product, guilds and unions, and more.
+of intellectual property, representation, contracts, taxes, 
+satisfactory work product, guilds and unions, and more.
 
 ## The Talent 
 
-What drives the entertainment industries is Talent.  People who can make something that others want to read, see, hear, watch, *share* or *like* are "the Talent," the natural resources of the entertainment industry. You may think of them (and yourselves) as human oil wells gushing potentially valuable [intellectual property][wipo]. 
+What drives the entertainment industries is Talent. 
+People who can make something that others want to read, see, hear, watch, *share* or *like* are "the Talent," the natural resources of the entertainment industry. 
+You may think of them (and yourselves) 
+as human oil wells gushing potentially valuable [intellectual property][wipo]. 
 
-Modern information technologies make it easy for hundreds, even thousands, of musicians, visual and graphics artists, programmers, technicians, writers, producers, and editors (sometimes working on different continents) to collaborate on mega entertainment franchises, *Lord of the Rings* or *Avatar* or *Pirates of the Carribean* which generate billions in profits for their global corporate owners.
+Modern information technologies make it easy 
+for hundreds, even thousands, of musicians, 
+visual and graphics artists, programmers, 
+technicians, writers, producers, and editors 
+(sometimes working on different continents) 
+to collaborate on mega entertainment franchises, 
+*Lord of the Rings* or *Avatar* or *Pirates of the Carribean* 
+which generate billions in profits for their global corporate owners.
 
-At the other extreme, anybody with a computer can write and publish books, or even make like Dave Eggers and start your own Internet publishing house ([McSweeney's](http://www.mcsweeneys.net/)).  The *50 Shades of Grey* empire (90 million sold and counting) began on a *Twilight* fan-fiction website. Anybody with a decent video camera can ring the bell with a 100 million *YouTube* views. Young artists now often have the tools of production in their basements and lofts.
+At the other extreme, 
+anybody with a computer can write and publish books, 
+or even make like Dave Eggers 
+and start your own Internet publishing house ([McSweeney's](http://www.mcsweeneys.net/)). 
+The *50 Shades of Grey* empire (90 million sold and counting) 
+began on a *Twilight* fan-fiction website. 
+Anybody with a decent video camera 
+can ring the bell with a 100 million *YouTube* views. 
+Young artists now often have the tools of production in their basements and lofts.
 
-Thanks to Moore's Law and the relentless advance of information technologies, talented people are producing more intellectual property than ever before. The global nervous system called the Internet makes that property rise and fall and sometimes explode in value when it goes viral.
+Thanks to Moore's Law and the relentless advance of information technologies, 
+talented people are producing more intellectual property than ever before. 
+The global nervous system called the Internet 
+makes that property rise and fall 
+and sometimes explode in value when it goes viral.
 
 ## Intellectual Property
 
 If you are brand new to intellectual property and copyright, please peruse:
 
+* [Introduction to Intellectual Property: Crash Course IP 1](https://www.youtube.com/watch?v=RQOJgEA5e1k)
+* [Copyright Basics: Crash Course Intellectual Property 2](https://www.youtube.com/watch?v=Tamoj84j64I&list=PL8dPuuaLjXtMwV2btpcij8S3YohW9gUGN&index=2)
+* [Copyright, Exceptions, and Fair Use: Crash Course Intellectual Property 3](https://www.youtube.com/watch?v=Q_9O8J9skL0)
+* [Forever Less One Day: Meet Copyright!][4ever-1day] 
+
+And just skim these:
+
 * [Intellectual Property](http://en.wikipedia.org/wiki/Intellectual_property).
 * [Copyright](http://en.wikipedia.org/wiki/Copyright).
-* [Forever Less One Day: Meet Copyright!][4ever-1day] 
 
 ## Talent Representatives
 
-Depending on which entertainment industry category the talent works in, they may be represented by one or more of the following. 
+Depending on which entertainment industry category the talent works in, 
+they may be represented by one or more of the following. 
 
-* A [talent agent](http://en.wikipedia.org/wiki/Talent_agent) or [literary agent](http://en.wikipedia.org/wiki/Literary_agent) - a person or company who finds work, field offers of employment, supports and promotes the interests of their clients. A finder and maker of deals. Notable examples: [Creative Artists Agency (CAA)](http://en.wikipedia.org/wiki/Creative_Artists_Agency), [William Morris Endeavor (WME)](http://en.wikipedia.org/wiki/William_Morris_Endeavor), and [Paradigm](http://en.wikipedia.org/wiki/Paradigm_Talent_Agency).   
+* A [talent agent](http://en.wikipedia.org/wiki/Talent_agent) or [literary agent](http://en.wikipedia.org/wiki/Literary_agent) - a person or company who finds work, field offers of employment, supports and promotes the interests of their clients. A finder and maker of deals. Notable examples: [Creative Artists Agency (CAA)](http://en.wikipedia.org/wiki/Creative_Artists_Agency), [William Morris Endeavor (WME)](http://en.wikipedia.org/wiki/William_Morris_Endeavor), and [Paradigm](http://en.wikipedia.org/wiki/Paradigm_Talent_Agency).
 * A [talent manager](http://en.wikipedia.org/wiki/Talent_manager) - a person or company who guides the professional career of artists in the entertainment industry. Notable examples: [Brillstein Entertainment Partners](http://en.wikipedia.org/wiki/Brillstein_Entertainment_Partners), [Untitled Entertainment](http://en.wikipedia.org/wiki/Guy_Oseary#Untitled_Entertainment), and [Anonymous Content](http://en.wikipedia.org/wiki/Steve_Golin#Anonymous_Content).
 * A business manager (typically manages the talent's money).
 * An [entertainment lawyer](http://en.wikipedia.org/wiki/Entertainment_law). For notable examples see [The Hollywood Reporter's Power Lawyers 2014: The Talent Lawyers](http://www.hollywoodreporter.com/gallery/photos-power-lawyers-2014-talent-699831).
-* A [talent guild](http://en.wikipedia.org/wiki/Guild#North_America). Notable examples: [The Writers Guild Of America](http://www.wga.org), [The Screen Actors Guild of America](http://www.sag.org), and [The Directors Guild of America](http://www.dga.org).  
+* A [talent guild](http://en.wikipedia.org/wiki/Guild#North_America). Notable examples: [The Writers Guild Of America](http://www.wga.org), [The Screen Actors Guild of America](http://www.sag.org), and [The Directors Guild of America](http://www.dga.org). 
 
 Each of these representatives will have oral or written contracts with the talent. They are agents and fiduciaries to their clients. If all goes well they do deals on behalf of their clients and are usually paid commissions for their work. Agents, managers, and even entertainment lawyers don't make money unless their clients do, meaning everybody is in the talent-spotting business, because the talent lays the golden eggs of rights and personal services. 
 
@@ -117,29 +165,57 @@ Some typical commissions:
 
 (Artists don't pay "commissions" to the talent guilds, but they do pay dues, usually 2%.)
 
-With all of their representatives taking percentages of their earnings off the top, it may seem that precious little cash is left for the talent, but if the representatives are doing their jobs they contribute services worth at least the commissions they are paid. In an ideal world, all the talent has to do is show up and act, sing, direct, write, produce, or create more intellectual property.
+With all of their representatives taking percentages of their earnings off the top, 
+it may seem that precious little cash is left for the talent, 
+but if the representatives are doing their jobs 
+they contribute services worth at least the commissions they are paid. 
+In an ideal world, 
+all the talent has to do is show up and act, 
+sing, direct, write, produce, or create more intellectual property.
 
 ### Lawyers For The Talent
 
-Lawyers play big roles in the entertainment industry because, like agents and managers, they are paid on commission, are part of the team responsible for getting entertainment products made, and are key to protecting rights and getting people paid. What do entertainment lawyers do? No easy answer will suffice, only a bland one, namely, they provide legal services to those who work in the entertainment industry.  
+Lawyers play big roles in the entertainment industry 
+because, like agents and managers, they are paid on commission, 
+are part of the team responsible for getting entertainment products made, 
+and are key to protecting rights and getting people paid. 
+What do entertainment lawyers do? No easy answer will suffice, 
+only a bland one, namely, 
+they provide legal services to those who work in the entertainment industry.
 
-A lawyer drafting or editing a contract for a poet whose works will soon appear in a free literary rag or on a poetry website and the lawyers responsible for drafting [Beyonce's $50 million deal][beyonce50] with Pepsi are all working in the entertainment industry, because after all: What is entertainment? 
+A lawyer drafting or editing a contract for a poet 
+whose works will soon appear in a free literary rag or on a poetry website, 
+and the lawyers responsible for drafting 
+[Beyonce's $50 million deal][beyonce50] with Pepsi 
+are all working in the entertainment industry, 
+because after all: What is entertainment? 
 
-Entertainment lawyers often help clients "do deals" for professional artistic services or for "rights" (intellectual property). Lawyers may work with talent agents or managers from the beginning to help negotiate terms, or they may be called in only after to "paper" an agreement that is already memorialized in a deal memo. When deals fall apart, the parties may end up in litigation or arbitration. 
+Entertainment lawyers often help clients "do deals" 
+for professional artistic services or for "rights" (intellectual property). 
+Lawyers may work with talent agents or managers 
+from the beginning to help negotiate terms, 
+or they may be called in only after to "paper" an agreement 
+that is already memorialized in a deal memo. 
+When deals fall apart, the parties may end up in litigation or arbitration. 
 
-Along the way, entertainment lawyers practice any and all of the following: employment law, contract law, torts, labor law, bankruptcy law, immigration, securities law, security interests, agency, intellectual property (especially copyright and trademark), the right of privacy (especially the so-called "Right of Publicity"), defamation, clearance of rights, product placement, advertising, criminal law, tax law, international law, and insurance law. 
+Along the way, entertainment lawyers practice any and all of the following: 
+employment law, contract law, torts, labor law, bankruptcy law, 
+immigration, securities law, security interests, agency, 
+intellectual property (especially copyright and trademark), 
+the right of privacy (especially the so-called "Right of Publicity"), 
+defamation, clearance of rights, product placement, advertising, criminal law, tax law, international law, and insurance law. 
 
 > [Wikipedia: Entertainment Law](http://en.wikipedia.org/wiki/Entertainment_law).
 
 #### Power Lawyers
 
-Maybe the easiest way to get an idea of what entertainment lawyers actually DO is to read the thumbnail bios of [The Hollywood Reporter's Power Lawyers 2014: The Talent Lawyers](http://www.hollywoodreporter.com/gallery/photos-power-lawyers-2014-talent-699831).
+Maybe the easiest way to get an idea of what entertainment lawyers actually DO is to read the thumbnail bios of [The Hollywood Reporter's Power Lawyers 2014: The Talent Lawyers](http://www.hollywoodreporter.com/gallery/photos-power-lawyers-2014-talent-699831) or [Power Lawyers 2015: Hollywood's Top 100 Attorneys Revealed](http://www.hollywoodreporter.com/thr-esq/power-lawyers-2015-hollywoods-top-792211).
 
 ## Entertainment Law Resources 
 
 You should spend time getting to know the following resources. 
 
-* [*The Hollywood Reporter, Esq.*][thresq]
+* [*The Hollywood Reporter, Esq.*][thresq]. I often wonder about teaching an entire Entertainment Law course just by following the day's stories in [THR Esquire][thresq].
 * [*Deadline*](http://www.deadline.com/hollywood/), currently the website of choice for industry news and gossip, although *Deadline's* founder the feisty, in-your-face [Nikki Finke](http://en.wikipedia.org/wiki/Nikki_Finke) recently struck off on her own to start, what else? [NikkiFinke.com](http://nikkifinke.com). 
 * [Publishers Weekly](http://www.publishersweekly.com/).
 * [IMDB](http://www.imdb.com/). At some point during the course, you may wish to play with the IMDB-Pro subscription (which often provides contact information and identifies agents, managers, and lawyers for each artist). There is a two-week trial offer but you must remember to cancel after two weeks to avoid being charged. No worries if you don’t want to indulge, we’ll be perusing IMDB Pro live in class.

@@ -1,17 +1,13 @@
 ---
 author: Richard Dooling
 title: Law & Business For Artists
-subtitle: ArtBizLaw
+subtitle: Art Biz Law
 chapter: Dealmaking
 ---
 
-# Law & Business For Artists
-
-## Dealmaking
+# Doing Deals
 
 ###### by Richard Dooling
-
-## Doing Deals 
 
 Dealmaking in the publishing industry 
 has always been a civilized sport with
@@ -50,7 +46,7 @@ The entertainment industries move too fast
 and involve too many players and contingent deals 
 to wait for lawyers to fuss over contract language and obtain signatures. 
 Usually the bargains struck work out fine. 
-Blockbusters and tentpoles get made, 
+Blockbusters and [tent poles][] get made, 
 and the players compromise on any terms that weren't
 included in the conversations surrounding the original deal.
 
@@ -85,7 +81,7 @@ a judge or jury comes along
 and asks almost metaphysical questions about what happened: 
 Did the parties agree? 
 Or did they just agree to agree later, 
-some indefinite length of time? 
+after some indefinite length of time? 
 Did they "agree to agree" only after some uncertain event? 
 For example, "Yes, we agreed to make this deal, 
 but only if Spielberg directs and Daniel Craig plays the hero." 
@@ -96,14 +92,38 @@ If it actually goes to trial,
 the tabloids and trades chronicle 
 the egos, the treachery, and the feuds. 
 If somebody appeals, 
-the dispute may be writ in the caselaw and memorialized for the ages. 
+the dispute may be writ in the case law and memorialized for the ages. 
 
-## *Mainline v. Basinger*
+Movie deals get done during one or more of the five stages of film production.
+As the story rights and talent deals fall into place, 
+the players make a series of offers and counter-offers, 
+some of which lead to enforceable contracts; others not.
+
+### 5 Stages of Film Production
+
+1. Development: The script is written and drafted into a workable blueprint for a film.
+2. Pre-production: Preparations are made for the shoot, in which cast and crew are hired, locations are selected, and sets are built.
+3. Production: The raw elements for the finished film are recorded.  (First Day of Principal Photography!)
+4. Post-Production: The film is edited; production sound (dialogue) is concurrently (but separately) edited, music tracks (and songs) are composed, performed and recorded
+5. Sales and distribution: The film is screened for potential buyers (distributors), is picked up by a distributor and reaches its cinema and/or home media audience.
+
+### A Deal (Contract) Contains All Of The Following:
+
+- An *offer* that is *accepted*.
+- *Terms* that are definite and specific, not vague or ambiguous.
+- *Consideration* - something that each party gives or gets for entering into the contract.
+- *Legal capacity* - the parties are all of legal age and competent to contract. 
+- *Legal purpose* - can't contract to do anything illegal.
+
+## Offer and acceptance
+
+### *Mainline v. Basinger*
 
 ###### Court of Appeal, California (1994)
  
 * [Case on Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=1994+WL+814244&appflag=67.12) 1994 WL 814244 (Cal.Ct.App.2d 1994)(not officially published).
 * [*Los Angeles Times* on *Basinger* case.][basinger_latimes]
+* [SAG strict nudity clause extends to TV](http://nypost.com/2012/01/23/damsels-in-undress/)
 
 GRIGNON, Judge.
 
@@ -116,7 +136,7 @@ relating to production of the movie “Boxing Helena.”
 (A “loan-out” corporation is a personal service corporation 
 which lends the services of an artist to a production company.)&hellip; 
 
-### FACTS
+#### FACTS
 
 In December 1990, 
 Main Line sent a copy of the screenplay of “Boxing Helena” to Basinger. 
@@ -282,7 +302,7 @@ included in this document.
 On June 10, 1991, Main Line learned that Basinger was not going
 to act in “Boxing Helena.”
 
-### PROCEDURAL BACKGROUND
+#### PROCEDURAL BACKGROUND
 
 On June 21, 1991, Main Line filed a complaint naming as defendants
 Basinger and Mighty Wind. The complaint alleged that defendants breached
@@ -308,12 +328,6 @@ judgment was entered against Basinger and/or Mighty Wind.
 * Did your client promise to act in a music video next Wednesday, but never settled on for how much? 
 * And now she has a chance to be in the next *Hunger Games* and wants out?
 
-At common law, [contracts require three elements:](http://en.wikipedia.org/wiki/Contract#Elements)
-
-- offer and acceptance, “a meeting of the minds”
-- an intention to be legally bound
-- consideration (something of value given in exchange for something of value)
-
 Deals get made and deals go bad, 
 and rarely do parties pursue the nuclear option and sue each other. 
 But if they do sue each other for breach of contract, 
@@ -331,7 +345,7 @@ At a minimum, oral and written contracts must usually answer the following quest
 - Where?
 - How much?
 
-#### Statute of Frauds
+## Statute of Frauds
 
 Contracts may be oral or written, implied or explicit. 
 For centuries, the common law had required 
@@ -346,7 +360,7 @@ or courts will not enforce them.
 
 In the entertainment business, 
 the most common statute of frauds issue arises 
-when an an artist promises to perform services for MORE THAN ONE YEAR. 
+when an artist promises to perform services for MORE THAN ONE YEAR. 
 Usually such contracts must be in writing, 
 or courts will not enforce them. 
 But what about contracts that COULD last more than a year? 
@@ -354,7 +368,7 @@ Must those contracts be in writing?
 In general, contracts of indefinite duration 
 don't require a writing no matter how long they may take.
 
-#### Promissory Estoppel
+## Promissory Estoppel
 
 > "The law is simply expediency wearing a long white dress." --Quentin Crisp
 
@@ -366,14 +380,14 @@ That's what happened when singer Aretha Franklin
 promised to perform in a Broadway musical 
 and then backed out at the last minute. 
 
-## *Elvin Associates v. Aretha Franklin,* 
+### *Elvin Associates v. Aretha Franklin* 
 
 ###### United States District Court SDNY (1990) 
 
 * [Case on Westlaw][aretha_westlaw] 
 * [Case on Google Scholar][aretha_scholar]
 
-In early 1984, broadway producer Ashton Springer 
+In early 1984, Broadway producer Ashton Springer 
 wanted to make a Broadway musical 
 about gospel singer Mahalia Jackson, 
 her life and her music. 
@@ -407,13 +421,13 @@ with various investors to finance the *Mahalia* production
 and spoke with promoters and theaters in other cities to reserve dates. 
 In discussions with several promoters, 
 Springer learned for the first time 
-that Aretha Franklin had cancelled several recent performances 
+that Aretha Franklin had canceled several recent performances 
 because of a fear of flying. 
 
 Springer called Aretha's agents 
-and asked about the cancelled performances. 
+and asked about the canceled performances. 
 The agents told Springer not to worry, 
-that the cancelled engagements had been made by other agents 
+that the canceled engagements had been made by other agents 
 without Aretha's approval, 
 and that there were no such problems with this deal.
 
@@ -439,7 +453,7 @@ The contract draft began:
 More drafts circulated, 
 all of them had the same "when countersigned by you" language, 
 all of them quibbling over details. 
-Meanwhile, Springer hired set, lighting and constume designers, 
+Meanwhile, Springer hired set, lighting and costume designers, 
 stage and crew, reserved dance studios, 
 and did everything necessary to begin rehearsals. 
 
@@ -452,7 +466,7 @@ When Springer's lawyer called Aretha's agents
 they reported that Franklin would not fly to New York. 
 
 Springer paid off the cast, 
-cancelled production and sued Aretha Franklin. 
+canceled production and sued Aretha Franklin. 
 
 Springer's problem? 
 The letter his lawyer wrote plainly said 
@@ -479,7 +493,7 @@ Voila. Promissory estoppel. It requires:
 * B is "injured" (loses money, suffers other damages) 
 when A fails to keep the promise.
 
-#### Excerpts from *Elvin Associates v. Aretha Franklin,* 
+#### Excerpts from *Elvin Associates v. Aretha Franklin* 
 
 The central issue pertaining to Springer's claim for breach of contract
 is whether &hellip; the parties to that proposed contract &hellip; 
@@ -585,7 +599,32 @@ reserved for a later trial on damages.
 
 [The court awarded Springer $209,364.07 to compensate his losses in preparing for the production of *Mahalia*.]
 
-## Contract Formation
+### Oral Deals With Unsigned Writings
+
+The Second Circuit has a famous four-prong test it uses to "help determine whether the parties intended to be bound in the absence of a document executed by both sides." 
+
+The court is to consider:
+
+1. whether there has been an express reservation of the right not to be bound in the absence of a writing; 
+2. whether there has been partial performance of the contract;
+3. whether all of the terms of the alleged contract have been agreed upon; and
+4. whether the agreement at issue is the type of contract that is usually committed to writing.
+
+No single factor is decisive, but each provides significant guidance.
+
+[Winston v. Mediafare Entertainment,](http://scholar.google.co.uk/scholar_case?case=10113667255714066099) 777 F.2d 78 (2nd Cir. 1985).
+
+#### Restatement 2nd of Contracts § 27 
+
+###### Existence of Contract Where Written Memorial is Contemplated
+
+> Manifestations of assent that are in themselves sufficient to conclude a contract will not be prevented from so operating by the fact that the parties also manifest an intention to prepare and adopt a written memorial thereof; but the circumstances may show that the agreements are preliminary negotiations. 
+
+These circumstances may be shown by "oral testimony or by correspondence or other preliminary or partially complete writings." 
+
+[Restatement (2nd) Contracts § 27](https://a.next.westlaw.com/Document/Ib0b48de2da5e11e2aa340000837bc6dd/View/FullText.html)
+
+## Definite terms
 
 The eternal ambiguity. The parties shake hands (or trade emails) and say: 
 
@@ -594,7 +633,7 @@ The eternal ambiguity. The parties shake hands (or trade emails) and say:
 Do they mean: We have a deal NOW? 
 Or do they mean we WILL have a deal, once we sign contracts?
 
-## *Gold Seal v. RKO* 
+### *Gold Seal v. RKO* 
 
 ###### District Court of Appeal California (1955)
 
@@ -651,7 +690,7 @@ a change in management occurred at RKO.
 In February, 1951, RKO told Skirball the deal was off. 
 Skirball tried to sell rights elsewhere 
 but was unable to because RKO's advertisements, 
-followed by their cancelling the deal, 
+followed by their canceling the deal, 
 made other studios and directors leery of getting involved with an iffy deal.
 
 Skirball sued RKO for breach of their ORAL CONTRACT. 
@@ -659,7 +698,7 @@ The trial court entered judgment for Skirball to the tune of $397,486.
 
 On appeal, RKO argued that the alleged agreement of May 16th 
 left many important terms open 
-and also that the parties had explicity said 
+and also that the parties had explicitly said 
 that they did not intend to be bound until they each signed a **written contract.** 
 Unsettled terms included: The starting date, the budget, the director, and principal cast, and minor script revisions.
 
@@ -669,7 +708,7 @@ RKO argued that the words "we have a deal" were ambiguous:
 
 > [The words] meant that the parties had agreed upon the basic points (story, star and money) and that other points were details as to which, it was anticipated, the parties could agree without difficulty; but that a formal agreement would be prepared.
 
-### Excerpts from *Gold Seal v. RKO*
+#### Excerpts from *Gold Seal v. RKO*
 
 RKO contends, as above stated, 
 that the evidence was insufficient to support the finding that the parties entered into a contract&hellip;
@@ -711,7 +750,7 @@ was prepared in order to memorialize the oral contract entered into between the 
 
 In *Mancuso v. Krackov,* it was said: "It is not necessary that each term [of an oral contract] be spelled out in minute detail." In *Thompson v. Schurman,* it was said: 
 
-> &hellip;[W]hen the respective parties orally agree upon all the terms and conditions of a contract with the mutual intention that it shall thereupon become binding, the mere fact that a formal written agreement to the same effect is to be thereafter prepared and signed does not alter the binding validity of the original contract. &hellip;  The question as to whether an oral agreement, including all the essential terms and conditions thereof, which according to the mutual understanding of the parties is to be subsequently reduced to writing, shall take effect forthwith as a completed contract depends on the intention of the parties, to be determined by the surrounding facts and circumstances of a particular case. &hellip; 
+> When the respective parties orally agree upon all the terms and conditions of a contract with the mutual intention that it shall thereupon become binding, the mere fact that a formal written agreement to the same effect is to be thereafter prepared and signed does not alter the binding validity of the original contract. &hellip;  The question as to whether an oral agreement, including all the essential terms and conditions thereof, which according to the mutual understanding of the parties is to be subsequently reduced to writing, shall take effect forthwith as a completed contract depends on the intention of the parties, to be determined by the surrounding facts and circumstances of a particular case. &hellip; 
 
 The significance of shaking hands, under such circumstances and following the conversation hereinbefore mentioned, and at the same time saying ‘We have a deal,’ was material. The intention of the persons who shook hands and used those words, under such circumstances, was material. The testimony of both persons, with respect to intention, was to the same effect—that they intended to close the deal.
 
@@ -719,35 +758,9 @@ The significance of shaking hands, under such circumstances and following the co
 
 Two drafts incorporated those terms and the parties orally agreed to them. Skirball conceded that there were other points to be decided, but the parties had stated they would be handled according to the terms of the deal he for the other movie he had going at RKO.]
 
-### Oral Deals With Unsigned Writings
+## Consideration and Mutuality
 
-The Second Circuit has a famous four-prong test it uses to "help determine whether the parties intended to be bound in the absence of a document executed by both sides." 
-
-The court is to consider:
-
-1. whether there has been an express reservation of the right not to be bound in the absence of a writing; 
-2. whether there has been partial performance of the contract;
-3. whether all of the terms of the alleged contract have been agreed upon; and
-4. whether the agreement at issue is the type of contract that is usually committed to writing.
-
-No single factor is decisive, but each provides significant guidance.
-
-[Winston v. Mediafare Entertainment,](http://scholar.google.co.uk/scholar_case?case=10113667255714066099) 777 F.2d 78 (2nd Cir. 1985).
-
-#### Restatement 2nd of Contracts § 27 
-
-###### Existence of Contract Where Written Memorial is Contemplated
-
-> Manifestations of assent that are in themselves sufficient to conclude a contract will not be prevented from so operating by the fact that the parties also manifest an intention to prepare and adopt a written memorial thereof; but the circumstances may show that the agreements are preliminary negotiations. 
-
-These circumstances may be shown by "oral testimony or by correspondence or other preliminary or partially complete writings." 
-
-[Restatement (2nd) Contracts § 27](https://a.next.westlaw.com/Document/Ib0b48de2da5e11e2aa340000837bc6dd/View/FullText.html)
-
-
-#### Consideration and Mutuality
-
-As we know, "consideration" is anything of value promised to another when making a contract. It can take the form of money, physical objects, services, promised actions, abstinence from a future action, and much more. 
+"Consideration" is anything of value promised to another when making a contract. It can take the form of money, physical objects, services, promised actions, abstinence from a future action, and much more. 
 
 Consideration fulfills at least two functions in entertainment law contracts:
 
@@ -759,8 +772,6 @@ Must both sides assume some detriment or obligation?
 ## Bonner v. Westbound Records 
 
 ###### Illinois Court of Appeals (1979)
-
-[Case on Westlaw][bonner]
 
 The defendants Westbound Records, Inc. (Westbound), and Bridgeport
 Music, Inc. (Bridgeport), appeal from a summary judgment in favor of the
@@ -1026,9 +1037,32 @@ On appeal, the court holds that the existence of consideration may be establishe
 
 Court looks beyond the four corners of the contract for an implied promise, promissory estoppel, detrimental reliance, parol evidence
 
-### Minority
+## Legal capacity
 
-* [*Scott Eden Management v. Kavovit,*][kavovit] 563 NYS2d 1001 (NY 1990).
+Consider the stories of Shirley Temple and Macauley Culkin. 
+Both started their acting carriers at age 4 and had huge, early Hollywood hits. 
+Shirley Temple was Hollywood's biggest star in the '30s and '40s 
+and has made more than 50 movies. 
+Culkin made more than [$23 million](http://www.celebritynetworth.com/richest-celebrities/actors/macaulay-culkin-net-worth/), 
+plus percentages of gross revenues. 
+Both were managed by their parents, 
+and both faced hardships due to the money made while each was a minor. 
+When Temple got married shortly after World War II, 
+she was shocked to find out that she had very little money left from her years of box office stardom. 
+Statutory safeguards protected Culkin's $40 million trust fund, 
+until he emancipated from his parents and gained sole control over his contracting and spending rights. 
+Yet the Culkin family was embroiled in litigation over custody of Culkin himself and gaining access to the his funds to maintain the lifestyle of which they were accustomed. 
+
+* For a nice discussion on the statutory safeguards in place and how they can be improved:
+[A Matter of Trust for Rising Stars: Protecting Minors' Earnings in California and New York](https://advance.lexis.com/api/permalink/e38281fb-e388-4427-a87c-0e37ad03170a/?context=1000516)
+
+When dealing with minors, the studios and other contracting parties must consider other issues, as well.&hellip;
+
+### *Scott Eden Management v. Kavovit*
+
+###### 563 NYS2d 1001 (NY 1990)
+
+- [Case at Westlaw][kavovit]
 
 #### Facts
 
@@ -1040,7 +1074,9 @@ From the opinion of the court:
 
 While Kavovit was allowed to disaffirm the contract, he was required to pay Eden all commissions Eden would have been due over the course of the contract.
 
-## De Havilland v. Warner Bros.
+## Duration
+
+### De Havilland v. Warner Bros.
 
 * [The De Havilland Law](http://en.wikipedia.org/wiki/De_Havilland_Law)
 
@@ -1078,7 +1114,7 @@ but the same theory has been used right up to the present day,
 and will likely be deployed in a major dispute between two 
 talent titans (CAA vs. UTA).
 
-##### [CAA vs. UTA, Corporate Raiding and the Ghost of Ed Limato (Analysis)](http://www.hollywoodreporter.com/thr-esq/caa-uta-corporate-raiding-ghost-785655)
+#### [CAA vs. UTA, Corporate Raiding and the Ghost of Ed Limato (Analysis)](http://www.hollywoodreporter.com/thr-esq/caa-uta-corporate-raiding-ghost-785655)
 
 > Consider the case of the late legendary agent, 
 > who spent most of his career at ICM 
@@ -1108,13 +1144,30 @@ talent titans (CAA vs. UTA).
 
 ###### Where Publishing Meets Hollywood
 
-What does it mean to “option” movie rights? Movie options are common in Hollywood, but they are also common in many industries, anytime a buyer wants an option to buy something valuable for an agreed period of time. It may be an option to buy fine art, rights to music, a building, a [Stradivarius](http://en.wikipedia.org/wiki/Stradivarius), stocks, whole corporations. It doesn't matter. The basics of the option are the same.
+What does [optioning your book](http://johnaugust.com/2003/optioning-your-book) mean? 
+Screenwriter John August answers the question for working authors and writers [at his blog for screenwriters](http://johnaugust.com/2003/optioning-your-book). 
+
+> "I’m gonna pay you $1000 today. In exchange for that $1000, you promise you won’t sell anyone else the rights during the next twelve months. Also, any time during these twelve months, I can pay you $25,000 and you’ll sell me all the film rights to the book."
+
+> In this example, $1000 is the option price, and $25,000 is the full purchase (or buyout) price. But those are completely arbitrary numbers. Often the option price is just $1. Sometimes the full purchase price is $1 million. And the length of the option can vary as well, from six months up to two years or more, perhaps with a clause allowing the producer to renew the option at fixed price.
+
+> In short, the dollars and dates can be anything, but the basic structure of the deal is the same.
+
+> From ["Optioning your book"](http://johnaugust.com/2003/optioning-your-book), by [John August](http://johnaugust.com).
+
+### Options
+
+Movie options are common in Hollywood, 
+but they are also common in many industries, 
+anytime a buyer wants an option to buy something valuable 
+for an agreed period of time. 
+It may be an option to buy fine art, rights to music, a building, a [Stradivarius](http://en.wikipedia.org/wiki/Stradivarius), stocks, whole corporations. It doesn't matter. The basics of the option are the same.
 
 In the movie biz, it works this way. A producer or a studio thinks that your novel (magazine article, graphic novel, treatment, screenplay) might make for a nice feature film. They call your novel "source material" or "story material," and total story costs (including the screenplay) usually account for about 2-5% of a movie's budget.
 
-Budgets for feature films average $70 million these days. Therefore if the producer were to buy the movie rights to your novel outright, she should pay roughly $1.5 to $2 million (1-3% of $70 million)(which leaves another 2% to pay the screenwriter). Nobody wants to spend that kind of money only to find out that a movie can't be made (because they've paid three different screenwriters and still can't get a script they like, or they can't make deals with enough A-list talent, or dozens of other reasons from insurance to tax credits).
+Budgets for feature films average $70 million these days. Therefore if the producer were to buy the movie rights to your novel outright, she should pay roughly $1.5 to $2 million (1-3% of $70 million)(which leaves another 2% to pay the screenwriter). Nobody wants to spend that kind of money only to find out that a movie can't be made. And movies don't get made for many reasons: because they've paid three different screenwriters and still can't get a script they like, or they can't make deals with enough A-list talent, or dozens of other reasons from insurance to tax credits. The slip between cup and lip in Hollywood is a mile wide. Most projects don't get made.
 
-Instead, of buying the rights outright, the producer *rents* them. She buys the OPTION to purchase the movie rights to your novel, for a fixed time period, probably with an option to renew. How does that work?
+So instead of buying the rights outright and risking the full purchase price for the rights to your novel, the producer *rents* the rights. She buys the OPTION to purchase the movie rights to your novel, for a fixed time period, probably with an option to renew. How does that work?
 
 #### Three  Essential Terms of any Option Agreement 
 
@@ -1144,6 +1197,10 @@ The option agreement MUST CONTAIN A PURCHASE PRICE to be an enforceable promise 
 
 The price may vary greatly, but it must be negotiated up front at the time the option agreement is made. If the movie gets made, the author is paid in full. If the deal falls through for any reason and the movie does NOT get made in the option period, then the novelist keeps the option payment and the movie rights remain with the novelist, too. 
 
+### More on Movie Options
+
+* See [Would My Book Make A Good Movie?](http://dooling.com/index.php/2006/02/23/would-my-book-make-a-good-movie/) by Richard Dooling.
+
 
 [goldseal]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=286+P.2d+954&appflag=67.12 "Gold Seal v. RKO"
 [bonner]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=394+NE.2d+1303&appflag=67.12 "Bonner v. Westbound Records"
@@ -1153,3 +1210,4 @@ The price may vary greatly, but it must be negotiated up front at the time the o
 [aretha_westlaw]: http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=735+F.Supp.+1177&appflag=67.12 "Elvin Associates v. Aretha Franklin"
 [aretha_scholar]: https://scholar.google.com/scholar_case?case=18444995163017745133& 
 [basinger_latimes]: http://articles.latimes.com/1993-03-01/entertainment/ca-150_1_boxing-helena-lawsuit
+[tent poles]: https://en.wikipedia.org/wiki/Tent-pole_(entertainment) "definition of tent poles"
