@@ -31,7 +31,7 @@ Maybe Hollywood lawsuits are just more fun to read about than automotive law, bu
 First, entertainment (movies, television, music, publishing) are all SPEECH. 
 The First Amendment to the U.S. Constitution provides that: 
 "Congress shall make no law . . . abridging the freedom of speech." 
-But what if my movie features child pornography, or my rap song arguably inspires others to attack police officers, or my book spills state secrets protected by the Espionage Act? First Amendment questions never seem to go away in the entertainment and publishing industries, because an artist's first amendment right to tell a story or write a song often collides with somebody else's right to privacy, trademark, copyright, or contract rights.  
+But what if my movie features child pornography, or my rap song arguably inspires others to attack police officers, or my book spills state secrets protected by the Espionage Act? First Amendment questions never seem to go away in the entertainment and publishing industries, because an artist's first amendment right to tell a story or write a song often collides with somebody else's right to privacy, trademark, copyright, or contract rights. 
 
 Second, the modern entertainment industry runs on TECHNOLOGY and INTELLECTUAL PROPERTY, 
 meaning the speech at issue is easier to create, copy, and distribute (a good thing), 
