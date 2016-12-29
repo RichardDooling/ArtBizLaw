@@ -1,11 +1,16 @@
 ---
 author: Richard Dooling
-title: Law & Business in the Arts 
-subtitle: Art Biz Law
-chapter: Introduction
+title: Law & Business For Creative Artists 
+abstract: Introduction to Hollywood and Publishing
 ---
 
-# Introduction
+# Law & Business For Creative Artists
+
+###### by Richard Dooling &copy;
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
+## Introduction
 
 > "I never called my work an 'art'. 
 > It's part of show business, 

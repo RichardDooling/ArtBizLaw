@@ -1,11 +1,15 @@
 ---
 author: Richard Dooling
-title: Law & Business For Artists
-subtitle: Art Biz Law
-chapters: First Amendment - Indecency
+title: Law & Business For Creative Artists
+abstract: The law of indecency.
 ---
+# Law & Business For Creative Artists
 
-# First Amendment - Indecency
+###### by Richard Dooling &copy;
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
+## First Amendment - Indecency
 
 Just as we get comfortable with the notion of categories, 
 and the notion that speech is either protected or unprotected under the First Amendment, 
@@ -14,13 +18,14 @@ along comes a category of speech the Federal Communications Commission wishes to
 Please listen to [George Carlin's 7 Dirty Words routine][7dirty], 
 which is the subject of the litigation in *FCC v. Pacifica*. 
 
-Then read these two cases in their entirety. 
+Then read the Wikipedia summaries of these two cases. 
+Or if you are curious, read the entire Supreme Court opinions.
 Keep your eye on the ball: 
 Is George Carlin's routine protected speech? 
 When U2's Bono says, "This is really really fucking brilliant" 
 during a prime time TV broadcast at the 2003 Golden Globe awards, is that obscene?
 
-## *FCC v. Pacifica Foundation*
+### *FCC v. Pacifica Foundation*
 
 ###### U.S. Supreme Court (1978)
 
@@ -28,7 +33,7 @@ during a prime time TV broadcast at the 2003 Golden Globe awards, is that obscen
 * [case at Westlaw][pacifica]
 * [case at Wikipedia](https://en.wikipedia.org/wiki/FCC_v._Pacifica_Foundation)
 
-## *FCC v. Fox Television Stations* (Fox II)
+### *FCC v. Fox Television Stations* (Fox II)
 
 * [case at Google Scholar](http://scholar.google.com/scholar_case?case=9187101700166207966) 
 * [case at Westlaw][fox]

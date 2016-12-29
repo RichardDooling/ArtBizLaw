@@ -1,14 +1,16 @@
 ---
 author: Richard Dooling
-title: Law & Business For Artists
-subtitle: Art Biz Law
-chapter: First Amendment - Violence
+title: Law & Business For Creative Artists
+abstract: Violence and the First Amendment
 ---
 
-# First Amendment - Violence
+# Law & Business For Creative Artists
 
-###### by Richard Dooling
+###### by Richard Dooling &copy;
 
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
+## First Amendment - Violence
 
 If speech is just too "sexy," it can be banned. 
 If it's indecent, it can be regulated. 
@@ -104,7 +106,7 @@ first to the Ninth Circuit Court of Appeals, where they won.
 Then the State of California appealed, 
 and the case went to the United States Supreme Court, 
 where the videogame and software industries barely beat back 
-the government's attempt to regulate the content of their products.]  
+the government's attempt to regulate the content of their products.] 
 
 ### II
 
@@ -142,7 +144,7 @@ The most basic of those principles is this:
 > As a general matter &hellip; 
 > government has no power to restrict expression 
 > because of its message, its ideas, its subject matter, or its content.&hellip;
-> There are of course exceptions.  
+> There are of course exceptions. 
 
 > From 1791 to the present &hellip; the First Amendment has permitted restrictions upon the content of speech in a few limited areas, and has never included a freedom to disregard these traditional limitations &hellip; These limited areas---such as obscenity, incitement, and fighting words, represent well-defined and narrowly limited classes of speech, the prevention and punishment of which have never been thought to raise any Constitutional problem. 
 
@@ -196,7 +198,7 @@ to shoehorn speech about violence into obscenity. &hellip;
 Violence is not part of the obscenity 
 that the Constitution permits to be regulated. 
 The speech reached by the statute contained 
-"no indecency or obscenity in any sense heretofore known to the law."  
+"no indecency or obscenity in any sense heretofore known to the law." 
 
 Because speech about violence is not obscene, 
 it is of no consequence that California's statute mimics the New York statute regulating obscenity-for-minors that we upheld.&hellip; 
@@ -244,7 +246,7 @@ they became the villains instead.
 as the most dangerous of textbooks in the school for crime are drawing to a close &hellip; 
 They say that the moving picture machine &hellip; tends even
 more than did the dime novel to turn the thoughts of the easily
-influenced to paths which sometimes lead to prison.&hellip;  
+influenced to paths which sometimes lead to prison.&hellip; 
 
 For a time, our Court did permit broad censorship of
 movies because of their capacity to be "used for evil," 
@@ -332,7 +334,7 @@ and with good reason: They do not prove that violent video games *cause*
 minors to *act* aggressively (which would at least be a beginning).
 Instead, "nearly all of the research is based on correlation, not
 evidence of causation, and most of the studies suffer from significant,
-admitted flaws in methodology." &hellip;  
+admitted flaws in methodology." &hellip; 
 
 They show at best some correlation between exposure to violent
 entertainment and minuscule real-world effects, such as children's
@@ -360,7 +362,7 @@ regulation is wildly underinclusive when judged against its asserted
 justification, which in our view is alone enough to defeat it.
 Underinclusiveness raises serious doubts about whether the government is
 in fact pursuing the interest it invokes, rather than disfavoring a
-particular speaker or viewpoint.&hellip;  
+particular speaker or viewpoint.&hellip; 
 
 Here, California has singled out the purveyors of video games for
 disfavored treatment---at least when compared to booksellers, cartoonists,
@@ -1415,7 +1417,7 @@ based on the evidence presented by the Davidsons.
 ###### Sixth Circuit Court of Appeals (2002)
 
 * [case at Google Scholar](http://scholar.google.com/scholar_case?case=2909369074319697416)
-* [case at Wikipedia](http://en.wikipedia.org/wiki/Heath_High_School_shooting).  
+* [case at Wikipedia](http://en.wikipedia.org/wiki/Heath_High_School_shooting). 
 
 ### I
 
@@ -1606,7 +1608,7 @@ speech. However, we have generally handled that endeavor under a
 different category of our First Amendment jurisprudence, excluding from
 constitutional protection those communicated ideas and images that
 incite others to violence. Speech that falls within this category of
-incitement is not entitled to First Amendment protection.&hellip;  
+incitement is not entitled to First Amendment protection.&hellip; 
 
 The Court firmly set out the test for whether speech constitutes
 unprotected incitement to violence in [*Brandenburg v. Ohio,* (S.Ct. 1969)](http://scholar.google.com/scholar_case?case=15538842772335942956).
@@ -1644,7 +1646,7 @@ suppression of expression that is not advocacy, but does tend to inspire
 violence in its viewers or consumers, is governed by a less stringent
 standard. Federal courts, however, have generally demanded that all
 expression, advocacy or not, meet the *Brandenburg* test before its
-regulation for its tendency to incite violence is permitted.&hellip;  
+regulation for its tendency to incite violence is permitted.&hellip; 
 
 Like the district court, we withhold resolution of these constitutional
 questions given the adequacy of the state law grounds for upholding the
@@ -1665,7 +1667,7 @@ of all James's claims.
 ###### Fifth Circuit Court of Appeals (1987)
 
 * [case at Google Scholar](http://scholar.google.com/scholar_case?case=7844372980201599517)
-* [Erotic asphyxiation at Wikipedia](http://en.wikipedia.org/wiki/Erotic_asphyxiation).  
+* [Erotic asphyxiation at Wikipedia](http://en.wikipedia.org/wiki/Erotic_asphyxiation). 
 
 An adolescent read a magazine article that prompted him to commit an act
 that proved fatal. The issue is whether the publisher of the magazine
@@ -2018,9 +2020,9 @@ End of excerpts from Judge Edith Grossman's concurring & dissenting opinion.
 
 ### Referenced Cases
 
-* [*U.S. v.  Stevens*](http://en.wikipedia.org/wiki/United_States_v._Stevens).  
-* [*Weirum v.  RKO*](http://en.wikipedia.org/wiki/RKO_General#Notable_Legal_Case).  
-* [Wikipedia list of copycat crimes committed by individuals allegedly influenced by the 1994 film *Natural Born Killers*](https://en.wikipedia.org/wiki/List_of_alleged_Natural_Born_Killers_copycat_crimes).  
+* [*U.S. v.  Stevens*](http://en.wikipedia.org/wiki/United_States_v._Stevens). 
+* [*Weirum v.  RKO*](http://en.wikipedia.org/wiki/RKO_General#Notable_Legal_Case). 
+* [Wikipedia list of copycat crimes committed by individuals allegedly influenced by the 1994 film *Natural Born Killers*](https://en.wikipedia.org/wiki/List_of_alleged_Natural_Born_Killers_copycat_crimes). 
 * [*Davidson v. Time Warner,*](http://tinyurl.com/ml5vvz8).
 * [Case note on *Davidson v. Time-Warner*](http://tinyurl.com/ml5vvz8).
 * Trailer for [*This Film Is Not Yet Rated*](http://www.youtube.com/watch?v=UTL3XMDwY0c).

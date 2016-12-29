@@ -1,9 +1,14 @@
 ---
 author: Richard Dooling
-title: Law & Business For Artists
-subtitle: Art Biz Law
-chapter: Trademark
+title: Law & Business For Creative Artists
+abstract: Trademark in Hollywood and Publishing
 ---
+
+# Law & Business For Creative Artists
+
+###### by Richard Dooling &copy;
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
 
 ## Trademark 
 
@@ -1198,7 +1203,7 @@ The court in *Rogers* applied this test to the use of a trademark in a movie tit
 Louis Vuitton does not dispute 
 that Warner Bros. challenged use of the mark is noncommercial, 
 placing it firmly within the purview of an "artistic work" 
-under *Rogers.*  
+under *Rogers.* 
 
 Louis Vuitton objects to the present motion on the following grounds:
 

@@ -1,11 +1,16 @@
 ---
 author: Richard Dooling
-title: Law & Business For Artists
-subtitle: Art Biz Law
-chapter: Idea Protection
+title: Law & Business For Creative Artists
+abstract: Idea Protection
 ---
 
-# Idea Protection
+# Law & Business For Creative Artists
+
+###### by Richard Dooling &copy;
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
+## Idea Protection
 
 If the screenwriter has not yet written the screenplay she has in mind, 
 she is unable to rely on copyright law to protect her idea. 
@@ -14,7 +19,7 @@ in case the producer wants to hire her to write it?
 How can she prevent the producer from stealing the idea 
 and developing it with someone else?
 
-## *Desny v. Wilder,* (CA. 1956).
+### *Desny v. Wilder,* (CA. 1956).
 
 * [Case at Google Scholar](http://scholar.google.com/scholar_case?case=3141417353271271191&hl=en&as_sdt=6&as_vis=1&oi=scholarr)
 * [Case in Westlaw](http://lawschool.westlaw.com/shared/westlawRedirect.aspx?task=find&cite=46+Cal.2d+715&appflag=67.12)
@@ -31,7 +36,7 @@ Wilder stole Desny's idea and made a movie called *Ace In The Hole*.
 Desny sued and won because he made a deal that he would be paid 
 if his idea were used. Otherwise, as the court observes, "ideas are as free as the air."
 
-### Excerpts From *Desny v. Wilder*
+#### Excerpts From *Desny v. Wilder*
 
 ###### California Supreme Court (1956)
 

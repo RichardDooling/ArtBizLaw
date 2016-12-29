@@ -1,15 +1,19 @@
 ---
 author: Richard Dooling
-title: Law & Business For Artists
-subtitle: Art Biz Law
-chapter: Other Rights
+title: Law & Business For Creative Artists
+abstract: Other Rights - Trademark, Moral Rights, Credits.
 ---
 
-# Other Rights
+# Law & Business For Creative Artists
 
-###### by Richard Dooling
+###### by Richard Dooling &copy;
 
-## Credits
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
+## Other Rights
+
+
+### Credits
 
 Webster's 3rd New International Dictionary defines credit as:
 
@@ -25,7 +29,7 @@ As the Writers Guild of America puts it:
 
 [Writers Guild of America: Credits](http://www.wga.org/subpage_writersresources.aspx?id=1029).
 
-### History of Credits
+#### History of Credits
 
 Credits are as old as the entertainment industry itself. 
 Silent films had no credits, 
@@ -66,7 +70,7 @@ and determine that if Smith was paid $5,000 for uncredited work and $2,500 for c
 Point being: In Hollywood, credits are a form of compensation, 
 every bit as valuable as cash.
 
-### Credits & The Talent Guilds
+#### Credits & The Talent Guilds
 
 Modern films feature credits, 
 not only for ["above the line" contributors](https://en.wikipedia.org/wiki/Above_the_line_(filmmaking)) 
@@ -162,7 +166,7 @@ name placement carry almost life-or-death importance.
 
 Consult [IMDB](http://imdb.com) and look up the credits of your favorite star, writer, director or producer.
 
-### Possessory Credits
+#### Possessory Credits
 
 A film *by* Rob Reiner? Prominent Hollywood directors like Frank Capra and Alfred Hitchcock have claimed a [possessory credit](https://www.dga.org/Craft/DGAQ/All-Articles/0402-Feb-2004/Possessory-Credit-Timeline.aspx) going all the way back to 1915.
 But what does the possessory credit say? 
@@ -181,7 +185,7 @@ Code of Credits](www.producersguild.org/?page=code_of_credits), even adding an a
 While many are vying to get the most credit and exposure they can, what
 if an artist doesn't want credit? 
  
-## *King v. Innovation Books*
+### *King v. Innovation Books*
 
 ###### United States Court of Appeals 2nd Circuit (1992)
 
@@ -483,7 +487,7 @@ It is often editing disputes that cause a director to disown
 his work and the director must formally apply to the Guild to receive
 permission to use the Smithee name.
 
-## *Tristar Pictures v. Directors' Guild of America*
+### *Tristar Pictures v. Directors' Guild of America*
 
 ###### United States Court of Appeals 9th Circuit (1998)
 
@@ -500,7 +504,7 @@ With the help of the Directors Guild of America (DGA),
 Apted sought a pseudonym for the director's credit, 
 to avoid having his name associated with the work.
  
-### I ###
+#### I ###
 
 Cinephiles believe the director is the true author of a film: It's
 Coppola's *Godfather*, Spielberg's *Schindler's List* and Verhoeven's
@@ -521,7 +525,7 @@ court claiming that the arbitrator had overstepped his authority. The
 DGA then removed the case to federal court, and the district court
 upheld the award. Tristar appeals.
 
-### II ###
+#### II ###
 
 Apted's relationship with Tristar is governed by a collective bargaining
 agreement (the Basic Agreement) negotiated between the studios and the
@@ -578,7 +582,7 @@ the label "An Adam Smithy Film." (The record does not explain why Tristar switch
 developing a reputation. See Thomas Goetz, *King of the Bs: Appreciating Alan Smithee*, Village Voice, Sept. 2, 1997, at 78 ("The best anyone in 
 Hollywood has to say about director Alan Smithee is that he gets the job done.").
 
-### III ###
+#### III ###
 
 Tristar argues that the arbitrator lacked jurisdiction over the dispute.
 Under Tristar's reading of the Basic Agreement, all disputes concerning

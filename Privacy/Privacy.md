@@ -1,15 +1,16 @@
 ---
 author: Richard Dooling
-title: Law & Business For Artists 
-subtitle: Art Biz Law 
-chapter: Privacy
+title: Law & Business For Creative Artists 
+abstract: Privacy Rights	
 ---
 
-# Privacy Rights 
+# Law & Business For Creative Artists
 
-###### by Richard Dooling
+###### by Richard Dooling &copy;
 
-### Invasion of Privacy
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
+## Privacy Rights 
 
 Privacy rights come in four different flavors, best described by Justice Louis Brandeis in a famous [1890 Harvard Law Review article][brandeis_article] as "the right to be left alone." 
 
@@ -22,7 +23,7 @@ Privacy rights come in four different flavors, best described by Justice Louis B
 * [Wikipedia: Privacy Laws By Country](http://en.wikipedia.org/wiki/Privacy_law#Privacy_laws_by_country)
 * [If Only J-Law Could Retain Brandeis](http://www.bloombergview.com/articles/2014-09-05/if-only-j-law-could-retain-brandeis?alcmpid=view).
 
-#### 1. Intrusion Upon Seclusion
+### 1. Intrusion Upon Seclusion
 
 > One who intentionally intrudes, 
 > physically or otherwise, 
@@ -35,7 +36,7 @@ Privacy rights come in four different flavors, best described by Justice Louis B
 
 [Restatement 2nd of Torts § 652B: Intrusion upon Seclusion](http://tinyurl.com/lqqgzng)
 
-#### 2. Publication of Private Facts
+### 2. Publication of Private Facts
 
 ###### aka Public disclosure of true but embarrassing private facts.
 
@@ -46,7 +47,7 @@ Privacy rights come in four different flavors, best described by Justice Louis B
 
 [Restatement 2nd of Torts § 652D: Publicity Given to Private Life](http://tinyurl.com/njkdaxt)
 
-#### 3. False Light
+### 3. False Light
 
 > One who gives publicity to a matter concerning another 
 > that places the other before the public in a false light 
@@ -65,7 +66,7 @@ immoral.
 
 Defamation focuses on the damage to the plaintiff’s reputation in the community, while false light privacy concentrates on the psychological harm done to the plaintiff from objectionable misrepresentations.
 
-### *Shulman v. Group W. Productions* (CA 1998) 
+## *Shulman v. Group W. Productions* (CA 1998) 
 
 Please read this case in its entirety. It reads like a law review article on the differences between various privacy rights.
 

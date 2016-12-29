@@ -1,11 +1,16 @@
 ---
 author: Richard Dooling
-title: Law & Business For Artists 
-subtitle: Art Biz Law
-chapter: First Amendment - Intro
+title: Law & Business For Creative Artists 
+abstract: Introduction To The First Amendment.
 ---
 
-# First Amendment - Introduction
+# Law & Business For Creative Artists
+
+###### by Richard Dooling &copy;
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
+## First Amendment - Introduction
 
 The First Amendment says: 
 
@@ -50,7 +55,7 @@ The easiest way to check for state action?
 Look for a law (statute, ordinance, regulation), 
 then look at the speech which supposedly violated the law. 
 
-## What Is Speech?
+### What Is Speech?
 
 In the United States, the First Amendment protects speech, 
 but what kinds of speech? Spoken words? Printed words? 

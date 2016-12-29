@@ -1,13 +1,18 @@
 ---
 author: Richard Dooling
-title: Law & Business For Artists
-subtitle: ArtBizLaw
-chapter: Book Contracts
+title: Law & Business For Creative Artists
+abstract: Book Contracts
 ---
 
-# Book Contracts
+# Law & Business For Creative Artists
 
-## Source Materials
+###### by Richard Dooling &copy;
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
+## Book Contracts
+
+### Source Materials
 
 * [Authors Guild Model Trade Book Contract and Guide][model] (sent to authors or their representatives when they join the Authors Guild; used by many professionals in the publishing industry).
 * [Authors Guild: Improving Your Book Contract - Negotiation Tips For Nine Typical Clauses][improving].

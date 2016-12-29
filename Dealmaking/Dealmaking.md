@@ -1,13 +1,16 @@
 ---
 author: Richard Dooling
-title: Law & Business For Artists
-subtitle: Art Biz Law
-chapter: Dealmaking
+title: Law & Business For Creative Artists
+abstract: The art of the deal. 
 ---
 
-# Doing Deals
+# Law & Business For Creative Artists
 
-###### by Richard Dooling
+###### by Richard Dooling &copy;
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
+## Doing Deals
 
 Dealmaking in the publishing industry 
 has always been a civilized sport with

@@ -1,13 +1,14 @@
 ---
 author: Richard Dooling
-title: Law & Business For Artists
-subtitle: Art Biz Law
-chapter: Copyright Ownership
+title: Law & Business For Creative Artists
+abstract: Who owns the copyright?
 ---
 
-# Law & Business For Artists
+# Law & Business For Creative Artists
 
-###### by Richard Dooling
+###### by Richard Dooling &copy;
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
 
 ## Copyright Ownership
 

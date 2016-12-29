@@ -1,11 +1,16 @@
 ---
 author: Richard Dooling
-title: Lawyers For The Talent
-subtitle: Entertainment Law 
-chapter: First Amendment - Obscenity
+title: Law & Business For Creative Artists
+abstract: Obscenity and the First Amendment. 
 ---
 
-# First Amendment - Obscenity 
+# Law & Business For Creative Artists
+
+###### by Richard Dooling &copy;
+
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+
+## First Amendment - Obscenity 
 
 For several decades in the second half of the last century, 
 the Supreme Court was deluged with obscenity cases, 
@@ -29,7 +34,7 @@ or make certain kinds of intellectual property.
 
 No better example then 2 Live Crew's "Nasty As They Wanna Be."
 
-## *Skyywalker Records, Inc. v. Navarro*
+### *Skyywalker Records, Inc. v. Navarro*
 
 ###### Federal Dist. Court, SD Florida (1990)
 

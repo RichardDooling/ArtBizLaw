@@ -1,15 +1,14 @@
 ---
 author: Richard Dooling
-title: Law & Business For Artists
-chapte: Copyright Basics
+title: Law & Business For Creative Artists
+abstract: The Basics of Copyright Law
 ---
 
-# Law & Business For Artists
+# Law & Business For Creative Artists
 
 ###### by Richard Dooling &copy;
 
-These materials are published under an 
-[MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
+These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE). 
 
 ## Copyright Basics
 
