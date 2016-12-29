@@ -1,5 +1,6 @@
 ---
 author: Richard Dooling
+title: First Amendment - Obscenity
 title: Law & Business For Creative Artists
 abstract: Obscenity and the First Amendment. 
 ---

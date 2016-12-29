@@ -1,6 +1,7 @@
 ---
 author: Richard Dooling
-title: Law & Business For Creative Artists
+title: Trademark Law
+subtitle: Law & Business For Creative Artists
 abstract: Trademark in Hollywood and Publishing
 ---
 

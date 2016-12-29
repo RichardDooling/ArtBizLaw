@@ -1,5 +1,6 @@
 ---
 author: Richard Dooling
+title: Defamation
 title: Law & Business For Creative Artists
 abstract: Defamation in publishing and entertainment.
 ---

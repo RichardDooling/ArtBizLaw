@@ -1,7 +1,8 @@
 ---
 author: Richard Dooling
-title: Law & Business For Creative Artists
-abstract: The Right of Publicity
+title: The Right of Publicity
+subtitle: Law & Business For Creative Artists
+abstract: Celebrity/Publicity rights.
 ---
 
 # Law & Business For Creative Artists

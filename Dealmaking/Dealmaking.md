@@ -1,6 +1,7 @@
 ---
 author: Richard Dooling
-title: Law & Business For Creative Artists
+title: Dealmaking
+subtitle: Law & Business For Creative Artists
 abstract: The art of the deal. 
 ---
 

@@ -1,6 +1,7 @@
 ---
 author: Richard Dooling
-title: Law & Business For Creative Artists
+title: First Amendment - Violence
+subtitle: Law & Business For Creative Artists
 abstract: Violence and the First Amendment
 ---
 

@@ -1,8 +1,8 @@
 ---
 author: Richard Dooling
-title: Law & Business For Creative Artists
-subtitle: Art Biz Law
-chapter: Representation
+title: Talent Representation
+subtitle: Law & Business For Creative Artists
+abstract: Agents, Managers, Guilds, Lawyers.
 ---
 
 # Law & Business For Creative Artists

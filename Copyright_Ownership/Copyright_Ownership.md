@@ -1,6 +1,7 @@
 ---
 author: Richard Dooling
-title: Law & Business For Creative Artists
+title: Copyright Ownership
+subtitle: Law & Business For Creative Artists
 abstract: Who owns the copyright?
 ---
 

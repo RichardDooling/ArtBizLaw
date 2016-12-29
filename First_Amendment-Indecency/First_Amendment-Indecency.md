@@ -1,7 +1,8 @@
 ---
 author: Richard Dooling
-title: Law & Business For Creative Artists
-abstract: The law of indecency.
+title: Indecency
+subtitle: Law & Business For Creative Artists
+abstract: Indecency and the First Amendment.
 ---
 # Law & Business For Creative Artists
 

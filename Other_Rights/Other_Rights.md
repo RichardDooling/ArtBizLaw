@@ -1,7 +1,8 @@
 ---
 author: Richard Dooling
-title: Law & Business For Creative Artists
-abstract: Other Rights - Trademark, Moral Rights, Credits.
+title: Other Rights
+subtitle: Law & Business For Creative Artists
+abstract: Other Rights - Credits, Moral Rights.
 ---
 
 # Law & Business For Creative Artists

@@ -1,6 +1,7 @@
 ---
 author: Richard Dooling
-title: Law & Business For Creative Artists 
+title: Introduction
+subtitle: Law & Business For Creative Artists 
 abstract: Introduction to Hollywood and Publishing
 ---
 

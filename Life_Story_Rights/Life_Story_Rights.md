@@ -1,6 +1,7 @@
 ---
 author: Richard Dooling
-title: Law & Business For Creative Artists 
+title: Life Story Rights
+subtitle: Law & Business For Creative Artists 
 abstract: Life Story Rights 
 ---
 

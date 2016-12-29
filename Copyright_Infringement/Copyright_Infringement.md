@@ -1,7 +1,8 @@
 ---
 author: Richard Dooling
+title: Copyright Infringement
 title: Law & Business For Creative Artisits
-abstract: Copyright Infringement
+abstract: Copyright Infringement, Fair Use, Parody
 ---
 
 # Law & Business For Creative Artists

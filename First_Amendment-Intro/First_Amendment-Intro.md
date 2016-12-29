@@ -1,7 +1,8 @@
 ---
 author: Richard Dooling
+title: First Amendment - Introduction
 title: Law & Business For Creative Artists 
-abstract: Introduction To The First Amendment.
+abstract: History of First Amendment 
 ---
 
 # Law & Business For Creative Artists

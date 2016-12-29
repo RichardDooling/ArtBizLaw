@@ -1,6 +1,7 @@
 ---
 author: Richard Dooling
-title: Law & Business For Creative Artists
+title: Deal Obligations
+subtitle: Law & Business For Creative Artists
 abstract: After the deal, contract obligations.
 ---
 

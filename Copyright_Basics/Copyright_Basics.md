@@ -1,6 +1,7 @@
 ---
 author: Richard Dooling
-title: Law & Business For Creative Artists
+title: Copyright Basics
+subtitle: Law & Business For Creative Artists
 abstract: The Basics of Copyright Law
 ---
 

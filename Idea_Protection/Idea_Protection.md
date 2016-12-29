@@ -1,6 +1,7 @@
 ---
 author: Richard Dooling
-title: Law & Business For Creative Artists
+title: Idea Protection
+subtitle: Law & Business For Creative Artists
 abstract: Idea Protection
 ---
 
