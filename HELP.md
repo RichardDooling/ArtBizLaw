@@ -1,11 +1,11 @@
 ---
 author: Richard Dooling
-title: Law & Business For Artists
+title: Law & Business For Creative Artists
 subtitle: ArtBizLaw
-date: 07-Jan-2015 
+date: 04-Jan-2017 
 ---
 
-# Law & Business For Artists
+# Law & Business For Creative Artists
 
 ###### The ArtBizLaw Course
 
@@ -15,13 +15,17 @@ These instructions may help if you are new to GitHub but still want to contribut
 
 If you are brand new to GitHub, then probably begin at the [README](https://github.com/RichardDooling/ArtBizLaw/blob/master/README.md) and [CONTRIBUTIONS](https://github.com/RichardDooling/ArtBizLaw/blob/master/CONTRIBUTIONS.md) pages.
 
-The Entertainment Law repository ("repo") lives at [Richard Dooling's GitHub page](https://github.com/RichardDooling/ArtBizLaw), also referenced as the "upstream master" repository in some of the commands that follow. These are the files I use to teach my Entertainment Law courses.  
+The Art Biz Law repository ("repo") 
+lives at [Richard Dooling's GitHub page](https://github.com/RichardDooling/ArtBizLaw), 
+also referenced as the "upstream master" repository in some of the commands that follow. These are the files I use to teach the Law & Business For Creative Artists Course. 
 
-For instance, when I assign a "chapter" for my students to read, I simply link to the topic for that week. For instance, [Defamation and Privacy Torts](https://github.com/RichardDooling/ArtBizLaw/tree/master/Defamation_Privacy).
+For instance, when I assign a "chapter" for my students to read, 
+I simply link to the topic for that week. 
+For instance, [Defamation and Privacy Torts](https://github.com/RichardDooling/ArtBizLaw/tree/master/Defamation_Privacy).
 
 You can do the same, and you can also "fork the project" (copy it), edit these files, and use them to teach your own students. 
 
-You can also contribute improvements to the project by editing the files and creating a "pull request," which tells me that your proposed changes are ready to be merged into the main Entertainment Law repository.
+You can also contribute improvements to the project by editing the files and creating a "pull request," which tells me that your proposed changes are ready to be merged into the main Art Biz Law repository.
 
 Here's how.
 
@@ -119,8 +123,6 @@ Now go to YOUR FORK of the ArtBizLaw Repository at GitHub.com.
 <!-- BEGIN COMMENT -->
 
 <!--
-
-
 
 -->
 

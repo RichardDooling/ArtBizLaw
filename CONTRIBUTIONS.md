@@ -1,4 +1,4 @@
-## Law & Business For Artists
+## Law & Business For Creative Artists
 
 ### The ArtBizLaw Course
 
@@ -16,7 +16,7 @@ GitHub uses plain text Markdown files, which makes it easy to keep track of who 
 
 ### GitHub For Academics
 
-Academics are paying attention to the possibilities. See for example the excellent series of articles by Konrad Lawson for [The Chronicle of Higher Education's ProfHacker blog](http://chronicle.com/blogs/profhacker/):  
+Academics are paying attention to the possibilities. See for example the excellent series of articles by Konrad Lawson for [The Chronicle of Higher Education's ProfHacker blog](http://chronicle.com/blogs/profhacker/): 
 
 * [Resources for Learning Git and GitHub](http://chronicle.com/blogs/profhacker/resources-for-learning-git-and-github/48285);
 * [Getting Started With A GitHub Repository](http://chronicle.com/blogs/profhacker/getting-started-with-a-github-repository/47393)
@@ -34,6 +34,12 @@ If you are curious about Markdown, the following links may help.
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
 * [A Markdown Tutorial](http://markdowntutorial.com/).
 * [Markdown: The Syntax You (Probably) Already Know](http://chronicle.com/blogs/profhacker/markdown-the-syntax-you-probably-already-know/35295), by Lincoln Mullen.
+
+Markdown comes in dozens of different "flavors," 
+and efforts to create a standard unambiguous syntax specification are underway
+at [CommonMark.Org](http://commonmark.org/), along with a suite of comprehensive tests to validate Markdown implementations against this specification. 
+John MacFarlane, the creator of [pandoc](http://pandoc.org/index.html), 
+the universal document converter, leads this mission.
 
 ### Text Editors
 

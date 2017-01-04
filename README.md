@@ -1,6 +1,6 @@
 ---
 author: Richard Dooling
-title: Law & Business For Artists 
+title: Law & Business For Creative Artists 
 subtitle: The ArtBizLaw Course
 file: readme.md
 ---
@@ -11,7 +11,7 @@ file: readme.md
 
 These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE).
 
-I teach Entertainment Law at the University of Nebraska College of Law. I also teach a Special Topics course for graduate and undergraduate students called Law & Business For Artists. 
+I teach Entertainment Law at the University of Nebraska College of Law. I also teach a Special Topics course for graduate and undergraduate students called "Law & Business For Creative Artists," or Art Biz Law for short. 
 
 * [My University of Nebraska College of Law page](http://law.unl.edu/richard-dooling#about).
 * [My Wikipedia page](http://en.wikipedia.org/wiki/Richard_Dooling).
@@ -19,7 +19,7 @@ I teach Entertainment Law at the University of Nebraska College of Law. I also t
 * [One sorely neglected blog](http://dooling.com).
 * [Twitter @RichardDooling](http://twitter.com/richarddooling).
 
-This is a public repository of the files I use to Law & Business for Artists course. Since it's open to all, please read the following:
+This is a public repository of the files I use to teach Law & Business for Creative Artists course. Since it's open to all, please read the following:
 
 ### I Disclaim
 
@@ -61,8 +61,8 @@ or to the opinion itself as published by the court.
 
 Don't be intimidated by the links to these court opinions. 
 But do read the summaries contained in the files. 
-In class, I'll explain in plain English, 
-and the full court opinions are there for the curious. 
+In class, I'll explain them in plain English.
+The excerpts from the full court opinions are there for the curious. 
 
 ### Files & Folders
 
