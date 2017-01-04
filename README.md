@@ -5,7 +5,7 @@ subtitle: The ArtBizLaw Course
 file: readme.md
 ---
 
-# Law & Business For Artists
+# Law & Business For Creative Artists
 
 ###### By Richard Dooling &copy;
 
@@ -19,7 +19,9 @@ I teach Entertainment Law at the University of Nebraska College of Law. I also t
 * [One sorely neglected blog](http://dooling.com).
 * [Twitter @RichardDooling](http://twitter.com/richarddooling).
 
-This is a public repository of the files I use to teach Law & Business for Creative Artists course. Since it's open to all, please read the following:
+This is a public repository of the files I use 
+to teach Law & Business for Creative Artists course. 
+Since it's open to all, please read the following:
 
 ### I Disclaim
 
@@ -38,7 +40,8 @@ To paraphrase Hunter Thompson:
 It's no place to be guessing about your legal rights. 
 If you need legal advice, GET A LAWYER! 
 
-These materials are published under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE).
+These materials are published 
+under an [MIT license](https://github.com/RichardDooling/ArtBizLaw/blob/master/LICENSE).
 
 ### Open Source Scholarship
 
@@ -95,6 +98,7 @@ but you can download them if you click on the button that says "Raw."
 (Clicking on "View Raw" might give an error.)
 
 ![Click On The Raw Button](Download_Single_File.png "Click Raw")
+
 
 ### Download Zip
 
