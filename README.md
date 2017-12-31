@@ -28,7 +28,7 @@ Since it's open to all, please read the following:
 I am an author and sometimes a screenwriter. 
 I'm also a lawyer, 
 and I teach Entertainment Law at the University of Nebraska College of Law, 
-but I am not YOUR lawyer, and the text you find here is NOT legal advice. 
+but I am not *your* lawyer, and the text you find here is *not* legal advice. 
 
 To paraphrase Hunter Thompson: 
 
@@ -100,7 +100,7 @@ but you can download them if you click on the button that says "Raw."
 ![Click On The Raw Button](Download_Single_File.png "Click Raw")
 
 
-### Download Zip
+<!-- ### Download Zip 
 
 If you would like to download ALL of the files in this repository, look for the two buttons at the bottom of the right sidebar: "Clone in Desktop" and "Download Zip".
 
@@ -113,6 +113,7 @@ Consider investing a little time and learning how to "clone" the entire reposito
 ### Contributing
 
 No obligation here. Only for the curious, but if you get interested in how GitHub works and how to contribute to this project, sign up at the [GitHub site](https://github.com/) and then read the [CONTRIBUTIONS](https://github.com/RichardDooling/ArtBizLaw/blob/master/CONTRIBUTIONS.md) and [HELP](https://github.com/RichardDooling/ArtBizLaw/blob/master/HELP.md) pages.
+-->
 
 #### Typos, Glitches
 
