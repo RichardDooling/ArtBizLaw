@@ -40,10 +40,6 @@ during a prime time TV broadcast at the 2003 Golden Globe awards, is that obscen
 * [case at Westlaw][fox]
 * [case at Wikipedia](http://en.wikipedia.org/wiki/Federal_Communications_Commission_v._Fox_Television_Stations_(2012)).
 
-20-Jan-2018 - As I mentioned in class, just read about *Fox II*,
-so you know what happened, and we'll briefly discuss. 
-No need to consume the entire opinion.
-
 The main lessons are found in *Pacifica*.
 
 
