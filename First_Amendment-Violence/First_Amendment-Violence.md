@@ -82,6 +82,7 @@ who eventually took their case all the way to the United States Supreme Court.
 
 * [case at Google Scholar](http://scholar.google.com/scholar_case?q=brown+entertainment+merchants&hl=en&as_sdt=2006&case=12960598670321445636&scilh=0&authuser=1)
 * [case at Wikipedia](http://en.wikipedia.org/wiki/Brown_v._Entertainment_Merchants_Association).
+* [case at Oyez](https://www.oyez.org/cases/2010/08-1448).
 
 Justice SCALIA delivered the opinion of the Court.
 
@@ -221,25 +222,52 @@ of an existing category of unprotected speech
 to ensure that a definition designed for adults is not uncritically applied to children. California does not argue that it is empowered to prohibit selling offensively violent works *to adults*--and it is wise not to, since that is but a hair's breadth from the argument rejected in *Stevens.* Instead, it wishes to create a wholly new category of content-based regulation that is permissible only for speech directed at children.
 
 That is unprecedented and mistaken. 
-"[M]inors are entitled to a significant measure of First Amendment protection, and only in relatively narrow and well-defined circumstances may government bar public dissemination of protected materials to them." &hellip; No doubt a State possesses legitimate power to protect children from harm &hellip; but that does not include a free-floating power to restrict the ideas to which children may be exposed. "Speech that is neither obscene as to youths nor subject to some other legitimate proscription cannot be suppressed solely to protect the young from ideas or images that a legislative body thinks unsuitable for them."
+"Minors are entitled to a significant measure of First Amendment protection, 
+and only in relatively narrow and well-defined circumstances 
+may government bar public dissemination of protected materials to them." 
+[*Erznoznik v. Jacksonville,*][erz]. No doubt a State possesses legitimate power to protect children from harm, 
+[*Ginsberg, supra,*][ginsberg]; [*Prince v. Massachusetts,* (S.Ct. 1944),](http://scholar.google.com/scholar_case?case=3012582275354260465) 
+but that does not include a free-floating power 
+to restrict the ideas to which children may be exposed. 
+"Speech that is neither obscene as to youths 
+nor subject to some other legitimate proscription cannot be suppressed 
+solely to protect the young from ideas or images 
+that a legislative body thinks unsuitable for them." [*Erznoznik, supra,*][erz].
 
-California's argument would fare better if there were a longstanding
-tradition in this country of specially restricting children's access to
-depictions of violence, but there is none. Certainly the *books* we give
-children to read---or read to them when they are younger---contain no
-shortage of gore. Grimm's Fairy Tales, for example, are grim indeed. As
-her just desserts for trying to poison Snow White, the wicked queen is
-made to dance in red hot slippers "till she fell dead on the floor, a
-sad example of envy and jealousy." Cinderella's evil stepsisters have their eyes
-pecked out by doves. And Hansel and Gretel (children!)
-kill their captor by baking her in an oven.
+California's argument would fare better 
+if there were a longstanding tradition in this country 
+of specially restricting children's access to depictions of violence, 
+but there is none. 
+Certainly the *books* we give children 
+to read---or read to them when they are younger---contain no shortage of gore. 
+*Grimm's Fairy Tales*, for example, are grim indeed. 
+As her just desserts for trying to poison Snow White, 
+the wicked queen is made to dance in red hot slippers 
+"till she fell dead on the floor, a sad example of envy and jealousy." 
+Cinderella's evil stepsisters have their eyes pecked out by doves. 
+And Hansel and Gretel (children!) kill their captor by baking her in an oven.
 
-High-school reading lists are full of similar fare. Homer's Odysseus blinds Polyphemus the Cyclops by grinding out his eye with a heated stake. The Odyssey of Homer, Book IX, p. 125 (S. Butcher & A. Lang transls. 1909) ("Even so did we seize the fiery-pointed brand and whirled it round in his eye, and the blood flowed about the heated bar.  And the breath of the flame singed his eyelids and brows all about, as the ball of the eye burnt away, and the roots thereof crackled in the flame"). In the Inferno, Dante and Virgil watch corrupt politicians struggle to stay submerged beneath a lake of boiling pitch, lest they be skewered by devils above the surface. And Golding's Lord of the Flies recounts how a schoolboy called Piggy is savagely murdered *by other children* while marooned on an island.
+High-school reading lists are full of similar fare. 
+Homer's Odysseus blinds Polyphemus the Cyclops 
+by grinding out his eye with a heated stake &hellip; 
+("Even so did we seize the fiery-pointed brand 
+and whirled it round in his eye, 
+and the blood flowed about the heated bar. 
+And the breath of the flame singed his eyelids and brows all about, 
+as the ball of the eye burnt away, 
+and the roots thereof crackled in the flame"). 
+In the *Inferno*, Dante and Virgil watch corrupt politicians 
+struggle to stay submerged beneath a lake of boiling pitch, 
+lest they be skewered by devils above the surface. 
+And Golding's *Lord of the Flies* recounts how a schoolboy called Piggy 
+is savagely murdered *by other children* while marooned on an island.
 
-This is not to say that minors' consumption of violent entertainment has
-never encountered resistance. In the 1800's, dime novels depicting crime
-and "penny dreadfuls" (named for their price and content) were blamed in
-some quarters for juvenile delinquency. &hellip; 
+This is not to say 
+that minors' consumption of violent entertainment 
+has never encountered resistance. 
+In the 1800's, dime novels depicting crime and "penny dreadfuls" 
+(named for their price and content) 
+were blamed in some quarters for juvenile delinquency. 
 When motion pictures came along, 
 they became the villains instead. 
 
@@ -247,8 +275,8 @@ they became the villains instead.
 as the most dangerous of textbooks in the school for crime are drawing to a close &hellip; 
 They say that the moving picture machine &hellip; tends even
 more than did the dime novel to turn the thoughts of the easily
-influenced to paths which sometimes lead to prison.&hellip; 
-
+influenced to paths which sometimes lead to prison." Moving Pictures as
+Helps to Crime, *New York Times*, 21 Feb. 1909.
 For a time, our Court did permit broad censorship of
 movies because of their capacity to be "used for evil," 
 but we eventually reversed course. &hellip; 
@@ -398,17 +426,13 @@ inform consumers about the content of games.
 The system, implemented by the Entertainment Software Rating Board (ESRB), 
 assigns age-specific ratings to each video game submitted: EC (Early Childhood); E
 (Everyone); E10 + (Everyone 10 and older); T (Teens); M (17 and older);
-and AO (Adults Only—18 and older). 
-
-The Video Software Dealers Association encourages retailers 
-to prominently display information
-about the ESRB system in their stores; 
-to refrain from renting or selling adults-only games to minors; 
-and to rent or sell "M" rated games to minors only with parental consent. 
-
-In 2009, the Federal Trade Commission (FTC) found that, 
-as a result of this system, 
-"the video game industry outpaces the movie and music
+and AO (Adults Only—18 and older). The Video Software Dealers
+Association encourages retailers to prominently display information
+about the ESRB system in their stores; to refrain from renting or
+selling adults-only games to minors; and to rent or sell "M" rated games
+to minors only with parental consent. In 2009,
+the Federal Trade Commission (FTC) found that, as a result of this
+system, "the video game industry outpaces the movie and music
 industries" in "(1) restricting target-marketing of mature-rated
 products to children; (2) clearly and prominently disclosing rating
 information; and (3) restricting children's access to mature-rated
